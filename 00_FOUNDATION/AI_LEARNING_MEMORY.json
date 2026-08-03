@@ -1,0 +1,41 @@
+﻿{
+    "Modules":  [
+                    {
+                        "Name":  "Experience Collection",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Oldingi natijalar yig\u0027ildi"
+                    },
+                    {
+                        "Name":  "Pattern Analysis",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Takroriy patternlar topildi"
+                    },
+                    {
+                        "Name":  "Error Learning System",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Xatolardan o\u0027rganish faol"
+                    },
+                    {
+                        "Name":  "AI Rule Improvement",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "AI qoidalari yangilanadi"
+                    },
+                    {
+                        "Name":  "Knowledge Update",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "AI xotira yangilanadi"
+                    }
+                ],
+    "LearningScore":  100,
+    "Generated":  {
+                      "value":  "\/Date(1785771450624)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:37:30"
+                  },
+    "Level":  "SELF LEARNING AI ACTIVE"
+}
