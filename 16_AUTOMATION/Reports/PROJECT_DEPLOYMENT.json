@@ -1,0 +1,28 @@
+﻿{
+    "Generated":  "2026-08-03 23:25:25",
+    "Project":  "AKBARSHOH_FUTURE",
+    "Branch":  "master",
+    "Commit":  "0389798",
+    "ReleaseTag":  "v6.6-project-release",
+    "Environment":  "Production",
+    "Checks":  [
+                   {
+                       "Name":  "Git Repository",
+                       "Passed":  true
+                   },
+                   {
+                       "Name":  "Automation Core",
+                       "Passed":  true
+                   },
+                   {
+                       "Name":  "Reports Directory",
+                       "Passed":  true
+                   },
+                   {
+                       "Name":  "Modules Directory",
+                       "Passed":  true
+                   }
+               ],
+    "Status":  "DEPLOYMENT_READY",
+    "Ready":  true
+}
