@@ -1,0 +1,39 @@
+﻿{
+    "Generated":  "2026-08-03 23:11:38",
+    "Reports":  [
+                    {
+                        "Name":  "PROJECT_INDEX.json",
+                        "Exists":  true,
+                        "Size":  53599
+                    },
+                    {
+                        "Name":  "PROJECT_MEMORY.json",
+                        "Exists":  true,
+                        "Size":  73422201
+                    },
+                    {
+                        "Name":  "PROJECT_KNOWLEDGE.json",
+                        "Exists":  true,
+                        "Size":  3038
+                    },
+                    {
+                        "Name":  "PROJECT_HEALTH.json",
+                        "Exists":  true,
+                        "Size":  3464
+                    },
+                    {
+                        "Name":  "PROJECT_SUMMARY.json",
+                        "Exists":  true,
+                        "Size":  7039
+                    },
+                    {
+                        "Name":  "PROJECT_CONTEXT.json",
+                        "Exists":  true,
+                        "Size":  4088
+                    }
+                ],
+    "Healthy":  true,
+    "TotalReports":  6,
+    "AvailableReports":  6,
+    "MissingReports":  0
+}
