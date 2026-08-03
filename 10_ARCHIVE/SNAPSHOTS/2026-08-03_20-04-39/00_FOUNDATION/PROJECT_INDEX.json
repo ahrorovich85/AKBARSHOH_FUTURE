@@ -1,0 +1,2594 @@
+﻿[
+    {
+        "Name":  ".git",
+        "Type":  "Directory",
+        "RelativePath":  ".git",
+        "Extension":  ".git",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346245)\/"
+    },
+    {
+        "Name":  "00_FOUNDATION",
+        "Type":  "Directory",
+        "RelativePath":  "00_FOUNDATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769279373)\/"
+    },
+    {
+        "Name":  "01_CORPORATE",
+        "Type":  "Directory",
+        "RelativePath":  "01_CORPORATE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577730)\/"
+    },
+    {
+        "Name":  "02_PROJECTS",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577759)\/"
+    },
+    {
+        "Name":  "03_DOCUMENTS",
+        "Type":  "Directory",
+        "RelativePath":  "03_DOCUMENTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718588)\/"
+    },
+    {
+        "Name":  "04_ENGINEERING",
+        "Type":  "Directory",
+        "RelativePath":  "04_ENGINEERING",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718670)\/"
+    },
+    {
+        "Name":  "05_BRAND",
+        "Type":  "Directory",
+        "RelativePath":  "05_BRAND",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577973)\/"
+    },
+    {
+        "Name":  "06_LEGAL",
+        "Type":  "Directory",
+        "RelativePath":  "06_LEGAL",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718741)\/"
+    },
+    {
+        "Name":  "07_FINANCE",
+        "Type":  "Directory",
+        "RelativePath":  "07_FINANCE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578019)\/"
+    },
+    {
+        "Name":  "08_SECURITY",
+        "Type":  "Directory",
+        "RelativePath":  "08_SECURITY",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578027)\/"
+    },
+    {
+        "Name":  "09_RESEARCH",
+        "Type":  "Directory",
+        "RelativePath":  "09_RESEARCH",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578056)\/"
+    },
+    {
+        "Name":  "10_ARCHIVE",
+        "Type":  "Directory",
+        "RelativePath":  "10_ARCHIVE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578067)\/"
+    },
+    {
+        "Name":  "11_BACKUP",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195637)\/"
+    },
+    {
+        "Name":  "12_TEMPLATES",
+        "Type":  "Directory",
+        "RelativePath":  "12_TEMPLATES",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578104)\/"
+    },
+    {
+        "Name":  "13_TOOLS",
+        "Type":  "Directory",
+        "RelativePath":  "13_TOOLS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578124)\/"
+    },
+    {
+        "Name":  "14_LOGS",
+        "Type":  "Directory",
+        "RelativePath":  "14_LOGS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578143)\/"
+    },
+    {
+        "Name":  "15_GITHUB",
+        "Type":  "Directory",
+        "RelativePath":  "15_GITHUB",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001013)\/"
+    },
+    {
+        "Name":  "16_AUTOMATION",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746658)\/"
+    },
+    {
+        "Name":  ".gitignore",
+        "Type":  "File",
+        "RelativePath":  ".gitignore",
+        "Extension":  ".gitignore",
+        "SizeBytes":  128,
+        "LastModified":  "\/Date(1785747000924)\/"
+    },
+    {
+        "Name":  "CHANGELOG.md",
+        "Type":  "File",
+        "RelativePath":  "CHANGELOG.md",
+        "Extension":  ".md",
+        "SizeBytes":  264,
+        "LastModified":  "\/Date(1785769234422)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "README.md",
+        "Extension":  ".md",
+        "SizeBytes":  121,
+        "LastModified":  "\/Date(1785745578695)\/"
+    },
+    {
+        "Name":  "VERSION.md",
+        "Type":  "File",
+        "RelativePath":  "VERSION.md",
+        "Extension":  ".md",
+        "SizeBytes":  171,
+        "LastModified":  "\/Date(1785769234360)\/"
+    },
+    {
+        "Name":  "hooks",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\hooks",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001297)\/"
+    },
+    {
+        "Name":  "info",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\info",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001341)\/"
+    },
+    {
+        "Name":  "logs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434411)\/"
+    },
+    {
+        "Name":  "objects",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001386)\/"
+    },
+    {
+        "Name":  "refs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\refs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001378)\/"
+    },
+    {
+        "Name":  "COMMIT_EDITMSG",
+        "Type":  "File",
+        "RelativePath":  ".git\\COMMIT_EDITMSG",
+        "Extension":  "",
+        "SizeBytes":  83,
+        "LastModified":  "\/Date(1785769346201)\/"
+    },
+    {
+        "Name":  "config",
+        "Type":  "File",
+        "RelativePath":  ".git\\config",
+        "Extension":  "",
+        "SizeBytes":  130,
+        "LastModified":  "\/Date(1785747001374)\/"
+    },
+    {
+        "Name":  "description",
+        "Type":  "File",
+        "RelativePath":  ".git\\description",
+        "Extension":  "",
+        "SizeBytes":  73,
+        "LastModified":  "\/Date(1785747001296)\/"
+    },
+    {
+        "Name":  "HEAD",
+        "Type":  "File",
+        "RelativePath":  ".git\\HEAD",
+        "Extension":  "",
+        "SizeBytes":  23,
+        "LastModified":  "\/Date(1785747001384)\/"
+    },
+    {
+        "Name":  "index",
+        "Type":  "File",
+        "RelativePath":  ".git\\index",
+        "Extension":  "",
+        "SizeBytes":  10398,
+        "LastModified":  "\/Date(1785769346173)\/"
+    },
+    {
+        "Name":  "applypatch-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\applypatch-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  478,
+        "LastModified":  "\/Date(1785747001299)\/"
+    },
+    {
+        "Name":  "commit-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\commit-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  896,
+        "LastModified":  "\/Date(1785747001302)\/"
+    },
+    {
+        "Name":  "fsmonitor-watchman.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\fsmonitor-watchman.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  4726,
+        "LastModified":  "\/Date(1785747001304)\/"
+    },
+    {
+        "Name":  "post-update.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\post-update.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  189,
+        "LastModified":  "\/Date(1785747001308)\/"
+    },
+    {
+        "Name":  "pre-applypatch.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-applypatch.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  424,
+        "LastModified":  "\/Date(1785747001310)\/"
+    },
+    {
+        "Name":  "pre-commit.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-commit.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1649,
+        "LastModified":  "\/Date(1785747001313)\/"
+    },
+    {
+        "Name":  "pre-merge-commit.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-merge-commit.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  416,
+        "LastModified":  "\/Date(1785747001315)\/"
+    },
+    {
+        "Name":  "pre-push.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-push.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1374,
+        "LastModified":  "\/Date(1785747001317)\/"
+    },
+    {
+        "Name":  "pre-rebase.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-rebase.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  4898,
+        "LastModified":  "\/Date(1785747001321)\/"
+    },
+    {
+        "Name":  "pre-receive.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-receive.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  544,
+        "LastModified":  "\/Date(1785747001322)\/"
+    },
+    {
+        "Name":  "prepare-commit-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\prepare-commit-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1492,
+        "LastModified":  "\/Date(1785747001325)\/"
+    },
+    {
+        "Name":  "push-to-checkout.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\push-to-checkout.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  2783,
+        "LastModified":  "\/Date(1785747001327)\/"
+    },
+    {
+        "Name":  "sendemail-validate.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\sendemail-validate.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  2308,
+        "LastModified":  "\/Date(1785747001329)\/"
+    },
+    {
+        "Name":  "update.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\update.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  3650,
+        "LastModified":  "\/Date(1785747001333)\/"
+    },
+    {
+        "Name":  "exclude",
+        "Type":  "File",
+        "RelativePath":  ".git\\info\\exclude",
+        "Extension":  "",
+        "SizeBytes":  240,
+        "LastModified":  "\/Date(1785747001343)\/"
+    },
+    {
+        "Name":  "refs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs\\refs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434413)\/"
+    },
+    {
+        "Name":  "HEAD",
+        "Type":  "File",
+        "RelativePath":  ".git\\logs\\HEAD",
+        "Extension":  "",
+        "SizeBytes":  638,
+        "LastModified":  "\/Date(1785769346238)\/"
+    },
+    {
+        "Name":  "heads",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs\\refs\\heads",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434414)\/"
+    },
+    {
+        "Name":  "master",
+        "Type":  "File",
+        "RelativePath":  ".git\\logs\\refs\\heads\\master",
+        "Extension":  "",
+        "SizeBytes":  638,
+        "LastModified":  "\/Date(1785769346239)\/"
+    },
+    {
+        "Name":  "01",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\01",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132577)\/"
+    },
+    {
+        "Name":  "08",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\08",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132533)\/"
+    },
+    {
+        "Name":  "09",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\09",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132589)\/"
+    },
+    {
+        "Name":  "0c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132563)\/"
+    },
+    {
+        "Name":  "0e",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0e",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463566)\/"
+    },
+    {
+        "Name":  "0f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342982)\/"
+    },
+    {
+        "Name":  "12",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\12",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463555)\/"
+    },
+    {
+        "Name":  "1a",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1a",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342973)\/"
+    },
+    {
+        "Name":  "1b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463551)\/"
+    },
+    {
+        "Name":  "1d",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1d",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346143)\/"
+    },
+    {
+        "Name":  "1f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463544)\/"
+    },
+    {
+        "Name":  "24",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\24",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447911)\/"
+    },
+    {
+        "Name":  "25",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\25",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463587)\/"
+    },
+    {
+        "Name":  "33",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\33",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447952)\/"
+    },
+    {
+        "Name":  "35",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\35",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341560)\/"
+    },
+    {
+        "Name":  "39",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\39",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342969)\/"
+    },
+    {
+        "Name":  "3b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447915)\/"
+    },
+    {
+        "Name":  "3e",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3e",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463540)\/"
+    },
+    {
+        "Name":  "3f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447906)\/"
+    },
+    {
+        "Name":  "51",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\51",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132599)\/"
+    },
+    {
+        "Name":  "52",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\52",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170788)\/"
+    },
+    {
+        "Name":  "5a",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\5a",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132514)\/"
+    },
+    {
+        "Name":  "5f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\5f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463558)\/"
+    },
+    {
+        "Name":  "61",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\61",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341551)\/"
+    },
+    {
+        "Name":  "62",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\62",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463561)\/"
+    },
+    {
+        "Name":  "6c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\6c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132508)\/"
+    },
+    {
+        "Name":  "75",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\75",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447942)\/"
+    },
+    {
+        "Name":  "7f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\7f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447901)\/"
+    },
+    {
+        "Name":  "8c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\8c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447921)\/"
+    },
+    {
+        "Name":  "8d",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\8d",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341592)\/"
+    },
+    {
+        "Name":  "98",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\98",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132605)\/"
+    },
+    {
+        "Name":  "9b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\9b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346121)\/"
+    },
+    {
+        "Name":  "a1",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a1",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346162)\/"
+    },
+    {
+        "Name":  "a3",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a3",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132572)\/"
+    },
+    {
+        "Name":  "a5",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a5",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434403)\/"
+    },
+    {
+        "Name":  "b0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\b0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170770)\/"
+    },
+    {
+        "Name":  "b1",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\b1",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769343002)\/"
+    },
+    {
+        "Name":  "ba",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ba",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346220)\/"
+    },
+    {
+        "Name":  "bc",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\bc",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341537)\/"
+    },
+    {
+        "Name":  "bd",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\bd",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170777)\/"
+    },
+    {
+        "Name":  "be",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\be",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346116)\/"
+    },
+    {
+        "Name":  "c0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447936)\/"
+    },
+    {
+        "Name":  "c2",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c2",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132593)\/"
+    },
+    {
+        "Name":  "c6",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c6",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341570)\/"
+    },
+    {
+        "Name":  "c8",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c8",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341581)\/"
+    },
+    {
+        "Name":  "c9",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c9",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132524)\/"
+    },
+    {
+        "Name":  "cc",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\cc",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132541)\/"
+    },
+    {
+        "Name":  "d0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\d0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346159)\/"
+    },
+    {
+        "Name":  "d3",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\d3",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447957)\/"
+    },
+    {
+        "Name":  "e2",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\e2",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346170)\/"
+    },
+    {
+        "Name":  "e9",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\e9",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463547)\/"
+    },
+    {
+        "Name":  "ea",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ea",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132537)\/"
+    },
+    {
+        "Name":  "ec",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ec",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341565)\/"
+    },
+    {
+        "Name":  "f4",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f4",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132496)\/"
+    },
+    {
+        "Name":  "f6",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f6",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132528)\/"
+    },
+    {
+        "Name":  "f7",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f7",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170780)\/"
+    },
+    {
+        "Name":  "fb",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\fb",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447931)\/"
+    },
+    {
+        "Name":  "ff",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ff",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132505)\/"
+    },
+    {
+        "Name":  "info",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\info",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001387)\/"
+    },
+    {
+        "Name":  "pack",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\pack",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001387)\/"
+    },
+    {
+        "Name":  "84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\01\\84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7",
+        "Extension":  "",
+        "SizeBytes":  66,
+        "LastModified":  "\/Date(1785769342835)\/"
+    },
+    {
+        "Name":  "c8d822dae58ec63ff01ad49d21785e59943028",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\08\\c8d822dae58ec63ff01ad49d21785e59943028",
+        "Extension":  "",
+        "SizeBytes":  642,
+        "LastModified":  "\/Date(1785769342142)\/"
+    },
+    {
+        "Name":  "6aea18b68b6b4656ac5700b8a7a013433a08b0",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\09\\6aea18b68b6b4656ac5700b8a7a013433a08b0",
+        "Extension":  "",
+        "SizeBytes":  57,
+        "LastModified":  "\/Date(1785769342923)\/"
+    },
+    {
+        "Name":  "80cfe18f1795785f09ca180966450b2d8bf128",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0c\\80cfe18f1795785f09ca180966450b2d8bf128",
+        "Extension":  "",
+        "SizeBytes":  175,
+        "LastModified":  "\/Date(1785769342576)\/"
+    },
+    {
+        "Name":  "05e2434bbe71059dbf7e4cda8812ecf71aa700",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0e\\05e2434bbe71059dbf7e4cda8812ecf71aa700",
+        "Extension":  "",
+        "SizeBytes":  363,
+        "LastModified":  "\/Date(1785767463564)\/"
+    },
+    {
+        "Name":  "ac2e663b27de7003005b26ae80fe8df78defe9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0f\\ac2e663b27de7003005b26ae80fe8df78defe9",
+        "Extension":  "",
+        "SizeBytes":  57,
+        "LastModified":  "\/Date(1785769343052)\/"
+    },
+    {
+        "Name":  "cef6f0e0fb47d936865c4db53150cb0b9cae9f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0f\\cef6f0e0fb47d936865c4db53150cb0b9cae9f",
+        "Extension":  "",
+        "SizeBytes":  144,
+        "LastModified":  "\/Date(1785769342654)\/"
+    },
+    {
+        "Name":  "416e5fb4fb30851214c198aff3251dcd23f1f0",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\12\\416e5fb4fb30851214c198aff3251dcd23f1f0",
+        "Extension":  "",
+        "SizeBytes":  144,
+        "LastModified":  "\/Date(1785769346126)\/"
+    },
+    {
+        "Name":  "7d4e0dcd3e74070f953c123a4fb2d217482aff",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\7d4e0dcd3e74070f953c123a4fb2d217482aff",
+        "Extension":  "",
+        "SizeBytes":  114,
+        "LastModified":  "\/Date(1785769342741)\/"
+    },
+    {
+        "Name":  "8d52371a178ddb7bb8db8cf886e5604bb11a6d",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\8d52371a178ddb7bb8db8cf886e5604bb11a6d",
+        "Extension":  "",
+        "SizeBytes":  149,
+        "LastModified":  "\/Date(1785769343040)\/"
+    },
+    {
+        "Name":  "9cfe5e408a162f01789cad97e4835f9bc938f7",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\9cfe5e408a162f01789cad97e4835f9bc938f7",
+        "Extension":  "",
+        "SizeBytes":  52,
+        "LastModified":  "\/Date(1785747170783)\/"
+    },
+    {
+        "Name":  "854bf1a0aa48ff3fa25eab7c8bf7d432b3682a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1b\\854bf1a0aa48ff3fa25eab7c8bf7d432b3682a",
+        "Extension":  "",
+        "SizeBytes":  52,
+        "LastModified":  "\/Date(1785769346125)\/"
+    },
+    {
+        "Name":  "dfc4b7e98fc56229b8da849dd57f249f0af92e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1d\\dfc4b7e98fc56229b8da849dd57f249f0af92e",
+        "Extension":  "",
+        "SizeBytes":  157,
+        "LastModified":  "\/Date(1785769346163)\/"
+    },
+    {
+        "Name":  "7b116f37d42e34a09d175ff8c8638df3ca9e94",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1f\\7b116f37d42e34a09d175ff8c8638df3ca9e94",
+        "Extension":  "",
+        "SizeBytes":  239,
+        "LastModified":  "\/Date(1785769346122)\/"
+    },
+    {
+        "Name":  "ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\24\\ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9",
+        "Extension":  "",
+        "SizeBytes":  99,
+        "LastModified":  "\/Date(1785769342354)\/"
+    },
+    {
+        "Name":  "297f8852c0c92d49018194d3098c075a4c5e24",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\25\\297f8852c0c92d49018194d3098c075a4c5e24",
+        "Extension":  "",
+        "SizeBytes":  202,
+        "LastModified":  "\/Date(1785767463584)\/"
+    },
+    {
+        "Name":  "72a264e706c942fac4f38687723bd4e4894d9a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\33\\72a264e706c942fac4f38687723bd4e4894d9a",
+        "Extension":  "",
+        "SizeBytes":  110,
+        "LastModified":  "\/Date(1785769342749)\/"
+    },
+    {
+        "Name":  "8d953aaacc248b35c2f4dc09c4fab198f32a01",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\35\\8d953aaacc248b35c2f4dc09c4fab198f32a01",
+        "Extension":  "",
+        "SizeBytes":  186,
+        "LastModified":  "\/Date(1785769341557)\/"
+    },
+    {
+        "Name":  "a2b57e603ce2d9c025a7a2ddbb80345f349034",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\39\\a2b57e603ce2d9c025a7a2ddbb80345f349034",
+        "Extension":  "",
+        "SizeBytes":  99,
+        "LastModified":  "\/Date(1785769343017)\/"
+    },
+    {
+        "Name":  "1534f843868754dfcff9b926b4290748f65004",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3b\\1534f843868754dfcff9b926b4290748f65004",
+        "Extension":  "",
+        "SizeBytes":  71,
+        "LastModified":  "\/Date(1785769342528)\/"
+    },
+    {
+        "Name":  "2981dd6f2a58aa10a479290ff09899eba11d01",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3e\\2981dd6f2a58aa10a479290ff09899eba11d01",
+        "Extension":  "",
+        "SizeBytes":  419,
+        "LastModified":  "\/Date(1785767463537)\/"
+    },
+    {
+        "Name":  "5c55da22f1b23604d4ba2bf132a7ded9ecc83f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3f\\5c55da22f1b23604d4ba2bf132a7ded9ecc83f",
+        "Extension":  "",
+        "SizeBytes":  124,
+        "LastModified":  "\/Date(1785747170772)\/"
+    },
+    {
+        "Name":  "b984a2b23a77816413d3831b7f5f52cfa66d75",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3f\\b984a2b23a77816413d3831b7f5f52cfa66d75",
+        "Extension":  "",
+        "SizeBytes":  63,
+        "LastModified":  "\/Date(1785769342315)\/"
+    },
+    {
+        "Name":  "881f471fd135f45af71b60b8eb262cb1a5b9de",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\51\\881f471fd135f45af71b60b8eb262cb1a5b9de",
+        "Extension":  "",
+        "SizeBytes":  123,
+        "LastModified":  "\/Date(1785769343010)\/"
+    },
+    {
+        "Name":  "c7bf6533548422b8f56062adc339ea2a8e7613",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\52\\c7bf6533548422b8f56062adc339ea2a8e7613",
+        "Extension":  "",
+        "SizeBytes":  115,
+        "LastModified":  "\/Date(1785769346130)\/"
+    },
+    {
+        "Name":  "7d3c815378cf4b1e13b9fac31e80814bd21431",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5a\\7d3c815378cf4b1e13b9fac31e80814bd21431",
+        "Extension":  "",
+        "SizeBytes":  156,
+        "LastModified":  "\/Date(1785769341849)\/"
+    },
+    {
+        "Name":  "77c9425962ce80d294ee3ec8bb08c4da05f4e8",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5f\\77c9425962ce80d294ee3ec8bb08c4da05f4e8",
+        "Extension":  "",
+        "SizeBytes":  145,
+        "LastModified":  "\/Date(1785769346127)\/"
+    },
+    {
+        "Name":  "e3fb6df41e8b6da0839c503cd890290840c5ba",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5f\\e3fb6df41e8b6da0839c503cd890290840c5ba",
+        "Extension":  "",
+        "SizeBytes":  169,
+        "LastModified":  "\/Date(1785769342479)\/"
+    },
+    {
+        "Name":  "57d1926fe213b49839b5ce98ed997e379344a9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\61\\57d1926fe213b49839b5ce98ed997e379344a9",
+        "Extension":  "",
+        "SizeBytes":  163,
+        "LastModified":  "\/Date(1785769341546)\/"
+    },
+    {
+        "Name":  "a1b96e6025f66c6e4ea15c41248f7733348db6",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\62\\a1b96e6025f66c6e4ea15c41248f7733348db6",
+        "Extension":  "",
+        "SizeBytes":  116,
+        "LastModified":  "\/Date(1785769346128)\/"
+    },
+    {
+        "Name":  "67e749543c2fb41e0ad4afaca479ca88698ea3",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\6c\\67e749543c2fb41e0ad4afaca479ca88698ea3",
+        "Extension":  "",
+        "SizeBytes":  188,
+        "LastModified":  "\/Date(1785769341782)\/"
+    },
+    {
+        "Name":  "7e4f25b2cc73927d24d00934e026b93eec2f8e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\75\\7e4f25b2cc73927d24d00934e026b93eec2f8e",
+        "Extension":  "",
+        "SizeBytes":  96,
+        "LastModified":  "\/Date(1785769342704)\/"
+    },
+    {
+        "Name":  "5256250016f553803e119a2c6e6335f80044fb",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\7f\\5256250016f553803e119a2c6e6335f80044fb",
+        "Extension":  "",
+        "SizeBytes":  184,
+        "LastModified":  "\/Date(1785769341897)\/"
+    },
+    {
+        "Name":  "254ed7061cd79af9435db11a288c482d090831",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\8c\\254ed7061cd79af9435db11a288c482d090831",
+        "Extension":  "",
+        "SizeBytes":  112,
+        "LastModified":  "\/Date(1785769342644)\/"
+    },
+    {
+        "Name":  "ef8bc2527c8b3ed1049022a586f75acbaee47e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\8d\\ef8bc2527c8b3ed1049022a586f75acbaee47e",
+        "Extension":  "",
+        "SizeBytes":  121,
+        "LastModified":  "\/Date(1785769342884)\/"
+    },
+    {
+        "Name":  "f2c178d0b3c8d548d19d453a6e70eb03c052d5",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\8d\\f2c178d0b3c8d548d19d453a6e70eb03c052d5",
+        "Extension":  "",
+        "SizeBytes":  292,
+        "LastModified":  "\/Date(1785769341587)\/"
+    },
+    {
+        "Name":  "627adc16c447a9ea693a10ad72bf3fe6331ed2",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\98\\627adc16c447a9ea693a10ad72bf3fe6331ed2",
+        "Extension":  "",
+        "SizeBytes":  100,
+        "LastModified":  "\/Date(1785769343014)\/"
+    },
+    {
+        "Name":  "42f10f8d160a55f5518ce4175ce0058b5f6e47",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\9b\\42f10f8d160a55f5518ce4175ce0058b5f6e47",
+        "Extension":  "",
+        "SizeBytes":  517,
+        "LastModified":  "\/Date(1785769346119)\/"
+    },
+    {
+        "Name":  "ec1b7c27e8be841b143c0141b2cc24a3783cbd",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\a1\\ec1b7c27e8be841b143c0141b2cc24a3783cbd",
+        "Extension":  "",
+        "SizeBytes":  60,
+        "LastModified":  "\/Date(1785769346160)\/"
+    },
+    {
+        "Name":  "f664099fad8d6db2d9882527fe020c8d3cc5f4",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\a1\\f664099fad8d6db2d9882527fe020c8d3cc5f4",
+        "Extension":  "",
+        "SizeBytes":  260,
+        "LastModified":  "\/Date(1785747170791)\/"
+    },
+    {
+        "Name":  "4c1e4e208186ed55eabee958be2e0ce8d8e75a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\a3\\4c1e4e208186ed55eabee958be2e0ce8d8e75a",
+        "Extension":  "",
+        "SizeBytes":  182,
+        "LastModified":  "\/Date(1785769342612)\/"
+    },
+    {
+        "Name":  "028f5b3d296229fe09677af6cf4e588f2ff6df",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\a5\\028f5b3d296229fe09677af6cf4e588f2ff6df",
+        "Extension":  "",
+        "SizeBytes":  171,
+        "LastModified":  "\/Date(1785747434402)\/"
+    },
+    {
+        "Name":  "9f59e530ee1f74e190e18b3fd3913f4ee92634",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\a5\\9f59e530ee1f74e190e18b3fd3913f4ee92634",
+        "Extension":  "",
+        "SizeBytes":  170,
+        "LastModified":  "\/Date(1785769342368)\/"
+    },
+    {
+        "Name":  "1f0873555f93bd0bf206d9c4e32045fe12c615",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\b0\\1f0873555f93bd0bf206d9c4e32045fe12c615",
+        "Extension":  "",
+        "SizeBytes":  392,
+        "LastModified":  "\/Date(1785747170769)\/"
+    },
+    {
+        "Name":  "45bf2f0f28cef49d0178e1edaaf6f60db35eb2",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\b1\\45bf2f0f28cef49d0178e1edaaf6f60db35eb2",
+        "Extension":  "",
+        "SizeBytes":  60,
+        "LastModified":  "\/Date(1785769343053)\/"
+    },
+    {
+        "Name":  "cfdad18970273d7dd97e16a12720f193449f2f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\ba\\cfdad18970273d7dd97e16a12720f193449f2f",
+        "Extension":  "",
+        "SizeBytes":  237,
+        "LastModified":  "\/Date(1785769346215)\/"
+    },
+    {
+        "Name":  "3603b653ef4dfd48d518c4f4c5d73627ee9d8a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\bc\\3603b653ef4dfd48d518c4f4c5d73627ee9d8a",
+        "Extension":  "",
+        "SizeBytes":  214,
+        "LastModified":  "\/Date(1785769341531)\/"
+    },
+    {
+        "Name":  "0e8448cf1db94e8daf285c6ba38d981fa07c1c",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\bd\\0e8448cf1db94e8daf285c6ba38d981fa07c1c",
+        "Extension":  "",
+        "SizeBytes":  218,
+        "LastModified":  "\/Date(1785769341599)\/"
+    },
+    {
+        "Name":  "bc52341dac6f103e79cc76eb47349a2af987e1",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\bd\\bc52341dac6f103e79cc76eb47349a2af987e1",
+        "Extension":  "",
+        "SizeBytes":  104,
+        "LastModified":  "\/Date(1785769346123)\/"
+    },
+    {
+        "Name":  "465f890ac9d01931dae1a2a99ba9d5bfb4ad02",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\be\\465f890ac9d01931dae1a2a99ba9d5bfb4ad02",
+        "Extension":  "",
+        "SizeBytes":  584,
+        "LastModified":  "\/Date(1785769346114)\/"
+    },
+    {
+        "Name":  "0c1233e6d81c7eec0c9ccc0f22b51aae410f8f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c0\\0c1233e6d81c7eec0c9ccc0f22b51aae410f8f",
+        "Extension":  "",
+        "SizeBytes":  156,
+        "LastModified":  "\/Date(1785769341982)\/"
+    },
+    {
+        "Name":  "55624e57ecebaac0aa2a12d044518f7fdf6483",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c0\\55624e57ecebaac0aa2a12d044518f7fdf6483",
+        "Extension":  "",
+        "SizeBytes":  112,
+        "LastModified":  "\/Date(1785769342696)\/"
+    },
+    {
+        "Name":  "b5d5068a5e84e223ae989039d3f24ce4e9bfde",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c2\\b5d5068a5e84e223ae989039d3f24ce4e9bfde",
+        "Extension":  "",
+        "SizeBytes":  135,
+        "LastModified":  "\/Date(1785769343004)\/"
+    },
+    {
+        "Name":  "c3d615c0d8a235e9c9fcd60a8221e5d48bff90",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c6\\c3d615c0d8a235e9c9fcd60a8221e5d48bff90",
+        "Extension":  "",
+        "SizeBytes":  401,
+        "LastModified":  "\/Date(1785769342185)\/"
+    },
+    {
+        "Name":  "bdf3787971a78fc551b1a36d62c7029be10f04",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c8\\bdf3787971a78fc551b1a36d62c7029be10f04",
+        "Extension":  "",
+        "SizeBytes":  68,
+        "LastModified":  "\/Date(1785769342226)\/"
+    },
+    {
+        "Name":  "dc05e4b550ca74bffd7ebd92ed6ee44e873616",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c8\\dc05e4b550ca74bffd7ebd92ed6ee44e873616",
+        "Extension":  "",
+        "SizeBytes":  183,
+        "LastModified":  "\/Date(1785769342421)\/"
+    },
+    {
+        "Name":  "8000e4e9ef1c27ce933dd9007c579a880d6e1a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\c9\\8000e4e9ef1c27ce933dd9007c579a880d6e1a",
+        "Extension":  "",
+        "SizeBytes":  187,
+        "LastModified":  "\/Date(1785769342097)\/"
+    },
+    {
+        "Name":  "2951cf6d148263e9188c69ebee4a49e78b799d",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\cc\\2951cf6d148263e9188c69ebee4a49e78b799d",
+        "Extension":  "",
+        "SizeBytes":  187,
+        "LastModified":  "\/Date(1785769342269)\/"
+    },
+    {
+        "Name":  "74d7c1b1eaf17139e49411f7de2fb794219a51",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\d0\\74d7c1b1eaf17139e49411f7de2fb794219a51",
+        "Extension":  "",
+        "SizeBytes":  395,
+        "LastModified":  "\/Date(1785769346156)\/"
+    },
+    {
+        "Name":  "76a3c36de2cc2ce907ac6ce7b6679e87d77ec5",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\d3\\76a3c36de2cc2ce907ac6ce7b6679e87d77ec5",
+        "Extension":  "",
+        "SizeBytes":  105,
+        "LastModified":  "\/Date(1785769342788)\/"
+    },
+    {
+        "Name":  "7918a4214adb8cc1aa1fa76577eb44a46cb651",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\e2\\7918a4214adb8cc1aa1fa76577eb44a46cb651",
+        "Extension":  "",
+        "SizeBytes":  429,
+        "LastModified":  "\/Date(1785769346166)\/"
+    },
+    {
+        "Name":  "cf3a24ae2bd14b12a826e7517d3303734da11a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\e9\\cf3a24ae2bd14b12a826e7517d3303734da11a",
+        "Extension":  "",
+        "SizeBytes":  86,
+        "LastModified":  "\/Date(1785769346124)\/"
+    },
+    {
+        "Name":  "84e77774f02e758b6927184654b7146ffb46fe",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\ea\\84e77774f02e758b6927184654b7146ffb46fe",
+        "Extension":  "",
+        "SizeBytes":  623,
+        "LastModified":  "\/Date(1785769342224)\/"
+    },
+    {
+        "Name":  "acdc42be08badc15e083b8de8934d4277eb6c0",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\ec\\acdc42be08badc15e083b8de8934d4277eb6c0",
+        "Extension":  "",
+        "SizeBytes":  322,
+        "LastModified":  "\/Date(1785769342166)\/"
+    },
+    {
+        "Name":  "067abd01e3a4b92383d857345017847df0692e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\f4\\067abd01e3a4b92383d857345017847df0692e",
+        "Extension":  "",
+        "SizeBytes":  134,
+        "LastModified":  "\/Date(1785769341596)\/"
+    },
+    {
+        "Name":  "9917cda1b9bbbaa83b821a7f1304904bf022dd",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\f6\\9917cda1b9bbbaa83b821a7f1304904bf022dd",
+        "Extension":  "",
+        "SizeBytes":  188,
+        "LastModified":  "\/Date(1785769342140)\/"
+    },
+    {
+        "Name":  "284b89e0e975c6e1433e97a48f276b193e7e90",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\f7\\284b89e0e975c6e1433e97a48f276b193e7e90",
+        "Extension":  "",
+        "SizeBytes":  87,
+        "LastModified":  "\/Date(1785747170779)\/"
+    },
+    {
+        "Name":  "a6bcb93c1655f8875eece0321705a509ff4f51",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\fb\\a6bcb93c1655f8875eece0321705a509ff4f51",
+        "Extension":  "",
+        "SizeBytes":  115,
+        "LastModified":  "\/Date(1785769342660)\/"
+    },
+    {
+        "Name":  "dffbe1d2009419f46c43a75f67505e42f3aec3",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\ff\\dffbe1d2009419f46c43a75f67505e42f3aec3",
+        "Extension":  "",
+        "SizeBytes":  173,
+        "LastModified":  "\/Date(1785769341688)\/"
+    },
+    {
+        "Name":  "heads",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\refs\\heads",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346239)\/"
+    },
+    {
+        "Name":  "tags",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\refs\\tags",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769349589)\/"
+    },
+    {
+        "Name":  "master",
+        "Type":  "File",
+        "RelativePath":  ".git\\refs\\heads\\master",
+        "Extension":  "",
+        "SizeBytes":  41,
+        "LastModified":  "\/Date(1785769346238)\/"
+    },
+    {
+        "Name":  "v1.0-foundation",
+        "Type":  "File",
+        "RelativePath":  ".git\\refs\\tags\\v1.0-foundation",
+        "Extension":  ".0-foundation",
+        "SizeBytes":  41,
+        "LastModified":  "\/Date(1785747563830)\/"
+    },
+    {
+        "Name":  "v1.1-documentation",
+        "Type":  "File",
+        "RelativePath":  ".git\\refs\\tags\\v1.1-documentation",
+        "Extension":  ".1-documentation",
+        "SizeBytes":  41,
+        "LastModified":  "\/Date(1785767485263)\/"
+    },
+    {
+        "Name":  "v1.3.0",
+        "Type":  "File",
+        "RelativePath":  ".git\\refs\\tags\\v1.3.0",
+        "Extension":  ".0",
+        "SizeBytes":  41,
+        "LastModified":  "\/Date(1785769349587)\/"
+    },
+    {
+        "Name":  "BACKUP_REPORT.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\BACKUP_REPORT.md",
+        "Extension":  ".md",
+        "SizeBytes":  197,
+        "LastModified":  "\/Date(1785769196067)\/"
+    },
+    {
+        "Name":  "COMMIT_REPORT.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\COMMIT_REPORT.md",
+        "Extension":  ".md",
+        "SizeBytes":  228,
+        "LastModified":  "\/Date(1785769350535)\/"
+    },
+    {
+        "Name":  "COMPANY_PROFILE.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\COMPANY_PROFILE.md",
+        "Extension":  ".md",
+        "SizeBytes":  252,
+        "LastModified":  "\/Date(1785746798555)\/"
+    },
+    {
+        "Name":  "CORE_VALUES.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\CORE_VALUES.md",
+        "Extension":  ".md",
+        "SizeBytes":  183,
+        "LastModified":  "\/Date(1785746799381)\/"
+    },
+    {
+        "Name":  "DECISION_LOG.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\DECISION_LOG.md",
+        "Extension":  ".md",
+        "SizeBytes":  199,
+        "LastModified":  "\/Date(1785746799850)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION_GENERATION_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\DOCUMENTATION_GENERATION_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  171,
+        "LastModified":  "\/Date(1785746801856)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION_GENERATOR_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\DOCUMENTATION_GENERATOR_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  307,
+        "LastModified":  "\/Date(1785747718876)\/"
+    },
+    {
+        "Name":  "GIT_SETUP_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\GIT_SETUP_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  156,
+        "LastModified":  "\/Date(1785747001443)\/"
+    },
+    {
+        "Name":  "LEADERSHIP_PRINCIPLES.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\LEADERSHIP_PRINCIPLES.md",
+        "Extension":  ".md",
+        "SizeBytes":  199,
+        "LastModified":  "\/Date(1785746799626)\/"
+    },
+    {
+        "Name":  "MISSION.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\MISSION.md",
+        "Extension":  ".md",
+        "SizeBytes":  203,
+        "LastModified":  "\/Date(1785746798830)\/"
+    },
+    {
+        "Name":  "PROJECT_AUDIT_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  2410,
+        "LastModified":  "\/Date(1785746611689)\/"
+    },
+    {
+        "Name":  "PROJECT_DASHBOARD.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\PROJECT_DASHBOARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  428,
+        "LastModified":  "\/Date(1785769034131)\/"
+    },
+    {
+        "Name":  "PROJECT_HEALTH_REPORT.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\PROJECT_HEALTH_REPORT.md",
+        "Extension":  ".md",
+        "SizeBytes":  749,
+        "LastModified":  "\/Date(1785769165610)\/"
+    },
+    {
+        "Name":  "PROJECT_STATUS.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\PROJECT_STATUS.md",
+        "Extension":  ".md",
+        "SizeBytes":  1080,
+        "LastModified":  "\/Date(1785746361591)\/"
+    },
+    {
+        "Name":  "PROJECT_TREE.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\PROJECT_TREE.md",
+        "Extension":  ".md",
+        "SizeBytes":  56,
+        "LastModified":  "\/Date(1785769104820)\/"
+    },
+    {
+        "Name":  "RELEASE_REPORT.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\RELEASE_REPORT.md",
+        "Extension":  ".md",
+        "SizeBytes":  593,
+        "LastModified":  "\/Date(1785769279374)\/"
+    },
+    {
+        "Name":  "VISION.md",
+        "Type":  "File",
+        "RelativePath":  "00_FOUNDATION\\VISION.md",
+        "Extension":  ".md",
+        "SizeBytes":  203,
+        "LastModified":  "\/Date(1785746799131)\/"
+    },
+    {
+        "Name":  "FOYDAPRO_X",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577916)\/"
+    },
+    {
+        "Name":  "00_PRD",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718844)\/"
+    },
+    {
+        "Name":  "01_ARCHITECTURE",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785746801227)\/"
+    },
+    {
+        "Name":  "02_DATABASE",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\02_DATABASE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577816)\/"
+    },
+    {
+        "Name":  "03_BACKEND",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\03_BACKEND",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577826)\/"
+    },
+    {
+        "Name":  "04_TELEGRAM",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\04_TELEGRAM",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577834)\/"
+    },
+    {
+        "Name":  "05_ADMIN_PANEL",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\05_ADMIN_PANEL",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577865)\/"
+    },
+    {
+        "Name":  "06_AI",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\06_AI",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577872)\/"
+    },
+    {
+        "Name":  "07_TESTING",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\07_TESTING",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577896)\/"
+    },
+    {
+        "Name":  "08_RELEASE",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\08_RELEASE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577907)\/"
+    },
+    {
+        "Name":  "09_ASSETS",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\09_ASSETS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577916)\/"
+    },
+    {
+        "Name":  "API_REQUIREMENTS.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md",
+        "Extension":  ".md",
+        "SizeBytes":  51,
+        "LastModified":  "\/Date(1785747718845)\/"
+    },
+    {
+        "Name":  "BUSINESS_MODEL.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md",
+        "Extension":  ".md",
+        "SizeBytes":  84,
+        "LastModified":  "\/Date(1785747718766)\/"
+    },
+    {
+        "Name":  "FEATURES.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\FEATURES.md",
+        "Extension":  ".md",
+        "SizeBytes":  177,
+        "LastModified":  "\/Date(1785746800565)\/"
+    },
+    {
+        "Name":  "PRD_MASTER.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\PRD_MASTER.md",
+        "Extension":  ".md",
+        "SizeBytes":  193,
+        "LastModified":  "\/Date(1785746800295)\/"
+    },
+    {
+        "Name":  "ROADMAP.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\ROADMAP.md",
+        "Extension":  ".md",
+        "SizeBytes":  173,
+        "LastModified":  "\/Date(1785746800790)\/"
+    },
+    {
+        "Name":  "USER_STORIES.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\USER_STORIES.md",
+        "Extension":  ".md",
+        "SizeBytes":  64,
+        "LastModified":  "\/Date(1785747718816)\/"
+    },
+    {
+        "Name":  "SECURITY_MODEL.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SECURITY_MODEL.md",
+        "Extension":  ".md",
+        "SizeBytes":  180,
+        "LastModified":  "\/Date(1785746801228)\/"
+    },
+    {
+        "Name":  "SYSTEM_ARCHITECTURE.md",
+        "Type":  "File",
+        "RelativePath":  "02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SYSTEM_ARCHITECTURE.md",
+        "Extension":  ".md",
+        "SizeBytes":  193,
+        "LastModified":  "\/Date(1785746801039)\/"
+    },
+    {
+        "Name":  "CHANGE_CONTROL.md",
+        "Type":  "File",
+        "RelativePath":  "03_DOCUMENTS\\CHANGE_CONTROL.md",
+        "Extension":  ".md",
+        "SizeBytes":  102,
+        "LastModified":  "\/Date(1785747718589)\/"
+    },
+    {
+        "Name":  "DOCUMENT_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "03_DOCUMENTS\\DOCUMENT_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  135,
+        "LastModified":  "\/Date(1785747718563)\/"
+    },
+    {
+        "Name":  "NAMING_CONVENTION.md",
+        "Type":  "File",
+        "RelativePath":  "03_DOCUMENTS\\NAMING_CONVENTION.md",
+        "Extension":  ".md",
+        "SizeBytes":  105,
+        "LastModified":  "\/Date(1785747718574)\/"
+    },
+    {
+        "Name":  "DEVELOPMENT_PROCESS.md",
+        "Type":  "File",
+        "RelativePath":  "04_ENGINEERING\\DEVELOPMENT_PROCESS.md",
+        "Extension":  ".md",
+        "SizeBytes":  110,
+        "LastModified":  "\/Date(1785747718649)\/"
+    },
+    {
+        "Name":  "ENGINEERING_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "04_ENGINEERING\\ENGINEERING_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  97,
+        "LastModified":  "\/Date(1785747718610)\/"
+    },
+    {
+        "Name":  "SECURITY_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "04_ENGINEERING\\SECURITY_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  101,
+        "LastModified":  "\/Date(1785747718671)\/"
+    },
+    {
+        "Name":  "COMPANY_LEGAL_STRUCTURE.md",
+        "Type":  "File",
+        "RelativePath":  "06_LEGAL\\COMPANY_LEGAL_STRUCTURE.md",
+        "Extension":  ".md",
+        "SizeBytes":  97,
+        "LastModified":  "\/Date(1785747718698)\/"
+    },
+    {
+        "Name":  "INTELLECTUAL_PROPERTY.md",
+        "Type":  "File",
+        "RelativePath":  "06_LEGAL\\INTELLECTUAL_PROPERTY.md",
+        "Extension":  ".md",
+        "SizeBytes":  92,
+        "LastModified":  "\/Date(1785747718742)\/"
+    },
+    {
+        "Name":  "2026-08-03_19-59-55",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195955)\/"
+    },
+    {
+        "Name":  "00_FOUNDATION",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195760)\/"
+    },
+    {
+        "Name":  "01_CORPORATE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\01_CORPORATE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195765)\/"
+    },
+    {
+        "Name":  "02_PROJECTS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195770)\/"
+    },
+    {
+        "Name":  "03_DOCUMENTS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195824)\/"
+    },
+    {
+        "Name":  "04_ENGINEERING",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195846)\/"
+    },
+    {
+        "Name":  "05_BRAND",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\05_BRAND",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195850)\/"
+    },
+    {
+        "Name":  "06_LEGAL",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195858)\/"
+    },
+    {
+        "Name":  "07_FINANCE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\07_FINANCE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195863)\/"
+    },
+    {
+        "Name":  "08_SECURITY",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\08_SECURITY",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195867)\/"
+    },
+    {
+        "Name":  "09_RESEARCH",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\09_RESEARCH",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195870)\/"
+    },
+    {
+        "Name":  "10_ARCHIVE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\10_ARCHIVE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195874)\/"
+    },
+    {
+        "Name":  "12_TEMPLATES",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\12_TEMPLATES",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195877)\/"
+    },
+    {
+        "Name":  "13_TOOLS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\13_TOOLS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195880)\/"
+    },
+    {
+        "Name":  "14_LOGS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\14_LOGS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195883)\/"
+    },
+    {
+        "Name":  "15_GITHUB",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195892)\/"
+    },
+    {
+        "Name":  "16_AUTOMATION",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195935)\/"
+    },
+    {
+        "Name":  ".gitignore",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\.gitignore",
+        "Extension":  ".gitignore",
+        "SizeBytes":  128,
+        "LastModified":  "\/Date(1785747000924)\/"
+    },
+    {
+        "Name":  "CHANGELOG.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\CHANGELOG.md",
+        "Extension":  ".md",
+        "SizeBytes":  125,
+        "LastModified":  "\/Date(1785747000910)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\README.md",
+        "Extension":  ".md",
+        "SizeBytes":  121,
+        "LastModified":  "\/Date(1785745578695)\/"
+    },
+    {
+        "Name":  "VERSION.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\VERSION.md",
+        "Extension":  ".md",
+        "SizeBytes":  87,
+        "LastModified":  "\/Date(1785747000900)\/"
+    },
+    {
+        "Name":  "COMPANY_PROFILE.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\COMPANY_PROFILE.md",
+        "Extension":  ".md",
+        "SizeBytes":  252,
+        "LastModified":  "\/Date(1785746798555)\/"
+    },
+    {
+        "Name":  "CORE_VALUES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\CORE_VALUES.md",
+        "Extension":  ".md",
+        "SizeBytes":  183,
+        "LastModified":  "\/Date(1785746799381)\/"
+    },
+    {
+        "Name":  "DECISION_LOG.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DECISION_LOG.md",
+        "Extension":  ".md",
+        "SizeBytes":  199,
+        "LastModified":  "\/Date(1785746799850)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION_GENERATION_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DOCUMENTATION_GENERATION_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  171,
+        "LastModified":  "\/Date(1785746801856)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION_GENERATOR_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DOCUMENTATION_GENERATOR_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  307,
+        "LastModified":  "\/Date(1785747718876)\/"
+    },
+    {
+        "Name":  "GIT_SETUP_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\GIT_SETUP_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  156,
+        "LastModified":  "\/Date(1785747001443)\/"
+    },
+    {
+        "Name":  "LEADERSHIP_PRINCIPLES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\LEADERSHIP_PRINCIPLES.md",
+        "Extension":  ".md",
+        "SizeBytes":  199,
+        "LastModified":  "\/Date(1785746799626)\/"
+    },
+    {
+        "Name":  "MISSION.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\MISSION.md",
+        "Extension":  ".md",
+        "SizeBytes":  203,
+        "LastModified":  "\/Date(1785746798830)\/"
+    },
+    {
+        "Name":  "PROJECT_AUDIT_REPORT.txt",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+        "Extension":  ".txt",
+        "SizeBytes":  2410,
+        "LastModified":  "\/Date(1785746611689)\/"
+    },
+    {
+        "Name":  "PROJECT_DASHBOARD.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_DASHBOARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  428,
+        "LastModified":  "\/Date(1785769034131)\/"
+    },
+    {
+        "Name":  "PROJECT_HEALTH_REPORT.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_HEALTH_REPORT.md",
+        "Extension":  ".md",
+        "SizeBytes":  749,
+        "LastModified":  "\/Date(1785769165610)\/"
+    },
+    {
+        "Name":  "PROJECT_STATUS.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_STATUS.md",
+        "Extension":  ".md",
+        "SizeBytes":  1080,
+        "LastModified":  "\/Date(1785746361591)\/"
+    },
+    {
+        "Name":  "PROJECT_TREE.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_TREE.md",
+        "Extension":  ".md",
+        "SizeBytes":  56,
+        "LastModified":  "\/Date(1785769104820)\/"
+    },
+    {
+        "Name":  "VISION.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\VISION.md",
+        "Extension":  ".md",
+        "SizeBytes":  203,
+        "LastModified":  "\/Date(1785746799131)\/"
+    },
+    {
+        "Name":  "FOYDAPRO_X",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195813)\/"
+    },
+    {
+        "Name":  "00_PRD",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195789)\/"
+    },
+    {
+        "Name":  "01_ARCHITECTURE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195797)\/"
+    },
+    {
+        "Name":  "02_DATABASE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\02_DATABASE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195800)\/"
+    },
+    {
+        "Name":  "03_BACKEND",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\03_BACKEND",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195802)\/"
+    },
+    {
+        "Name":  "04_TELEGRAM",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\04_TELEGRAM",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195804)\/"
+    },
+    {
+        "Name":  "05_ADMIN_PANEL",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\05_ADMIN_PANEL",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195806)\/"
+    },
+    {
+        "Name":  "06_AI",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\06_AI",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195807)\/"
+    },
+    {
+        "Name":  "07_TESTING",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\07_TESTING",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195810)\/"
+    },
+    {
+        "Name":  "08_RELEASE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\08_RELEASE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195811)\/"
+    },
+    {
+        "Name":  "09_ASSETS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\09_ASSETS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195813)\/"
+    },
+    {
+        "Name":  "API_REQUIREMENTS.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md",
+        "Extension":  ".md",
+        "SizeBytes":  51,
+        "LastModified":  "\/Date(1785747718845)\/"
+    },
+    {
+        "Name":  "BUSINESS_MODEL.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md",
+        "Extension":  ".md",
+        "SizeBytes":  84,
+        "LastModified":  "\/Date(1785747718766)\/"
+    },
+    {
+        "Name":  "FEATURES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\FEATURES.md",
+        "Extension":  ".md",
+        "SizeBytes":  177,
+        "LastModified":  "\/Date(1785746800565)\/"
+    },
+    {
+        "Name":  "PRD_MASTER.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\PRD_MASTER.md",
+        "Extension":  ".md",
+        "SizeBytes":  193,
+        "LastModified":  "\/Date(1785746800295)\/"
+    },
+    {
+        "Name":  "ROADMAP.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\ROADMAP.md",
+        "Extension":  ".md",
+        "SizeBytes":  173,
+        "LastModified":  "\/Date(1785746800790)\/"
+    },
+    {
+        "Name":  "USER_STORIES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\USER_STORIES.md",
+        "Extension":  ".md",
+        "SizeBytes":  64,
+        "LastModified":  "\/Date(1785747718816)\/"
+    },
+    {
+        "Name":  "SECURITY_MODEL.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SECURITY_MODEL.md",
+        "Extension":  ".md",
+        "SizeBytes":  180,
+        "LastModified":  "\/Date(1785746801228)\/"
+    },
+    {
+        "Name":  "SYSTEM_ARCHITECTURE.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SYSTEM_ARCHITECTURE.md",
+        "Extension":  ".md",
+        "SizeBytes":  193,
+        "LastModified":  "\/Date(1785746801039)\/"
+    },
+    {
+        "Name":  "CHANGE_CONTROL.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\CHANGE_CONTROL.md",
+        "Extension":  ".md",
+        "SizeBytes":  102,
+        "LastModified":  "\/Date(1785747718589)\/"
+    },
+    {
+        "Name":  "DOCUMENT_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\DOCUMENT_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  135,
+        "LastModified":  "\/Date(1785747718563)\/"
+    },
+    {
+        "Name":  "NAMING_CONVENTION.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\NAMING_CONVENTION.md",
+        "Extension":  ".md",
+        "SizeBytes":  105,
+        "LastModified":  "\/Date(1785747718574)\/"
+    },
+    {
+        "Name":  "DEVELOPMENT_PROCESS.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\DEVELOPMENT_PROCESS.md",
+        "Extension":  ".md",
+        "SizeBytes":  110,
+        "LastModified":  "\/Date(1785747718649)\/"
+    },
+    {
+        "Name":  "ENGINEERING_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\ENGINEERING_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  97,
+        "LastModified":  "\/Date(1785747718610)\/"
+    },
+    {
+        "Name":  "SECURITY_STANDARD.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\SECURITY_STANDARD.md",
+        "Extension":  ".md",
+        "SizeBytes":  101,
+        "LastModified":  "\/Date(1785747718671)\/"
+    },
+    {
+        "Name":  "COMPANY_LEGAL_STRUCTURE.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL\\COMPANY_LEGAL_STRUCTURE.md",
+        "Extension":  ".md",
+        "SizeBytes":  97,
+        "LastModified":  "\/Date(1785747718698)\/"
+    },
+    {
+        "Name":  "INTELLECTUAL_PROPERTY.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL\\INTELLECTUAL_PROPERTY.md",
+        "Extension":  ".md",
+        "SizeBytes":  92,
+        "LastModified":  "\/Date(1785747718742)\/"
+    },
+    {
+        "Name":  "ISSUES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\ISSUES.md",
+        "Extension":  ".md",
+        "SizeBytes":  51,
+        "LastModified":  "\/Date(1785747000995)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\README.md",
+        "Extension":  ".md",
+        "SizeBytes":  113,
+        "LastModified":  "\/Date(1785747000938)\/"
+    },
+    {
+        "Name":  "RELEASES.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\RELEASES.md",
+        "Extension":  ".md",
+        "SizeBytes":  42,
+        "LastModified":  "\/Date(1785747001013)\/"
+    },
+    {
+        "Name":  "BACKUP",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\BACKUP",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195922)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\DOCUMENTATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195924)\/"
+    },
+    {
+        "Name":  "FOUNDATION",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\FOUNDATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195925)\/"
+    },
+    {
+        "Name":  "GIT",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\GIT",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195928)\/"
+    },
+    {
+        "Name":  "GOVERNANCE",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\GOVERNANCE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195929)\/"
+    },
+    {
+        "Name":  "PRODUCTS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\PRODUCTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195930)\/"
+    },
+    {
+        "Name":  "REPORTS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\REPORTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195932)\/"
+    },
+    {
+        "Name":  "SECURITY",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\SECURITY",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195933)\/"
+    },
+    {
+        "Name":  "UTILS",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\UTILS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195935)\/"
+    },
+    {
+        "Name":  "MODULE_INDEX.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\MODULE_INDEX.md",
+        "Extension":  ".md",
+        "SizeBytes":  119,
+        "LastModified":  "\/Date(1785768746646)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\README.md",
+        "Extension":  ".md",
+        "SizeBytes":  153,
+        "LastModified":  "\/Date(1785768746640)\/"
+    },
+    {
+        "Name":  "RUN_ALL.ps1",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\RUN_ALL.ps1",
+        "Extension":  ".ps1",
+        "SizeBytes":  42,
+        "LastModified":  "\/Date(1785768746652)\/"
+    },
+    {
+        "Name":  "VERIFY_ALL.ps1",
+        "Type":  "File",
+        "RelativePath":  "11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\VERIFY_ALL.ps1",
+        "Extension":  ".ps1",
+        "SizeBytes":  45,
+        "LastModified":  "\/Date(1785768746658)\/"
+    },
+    {
+        "Name":  "ISSUES.md",
+        "Type":  "File",
+        "RelativePath":  "15_GITHUB\\ISSUES.md",
+        "Extension":  ".md",
+        "SizeBytes":  51,
+        "LastModified":  "\/Date(1785747000995)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "15_GITHUB\\README.md",
+        "Extension":  ".md",
+        "SizeBytes":  113,
+        "LastModified":  "\/Date(1785747000938)\/"
+    },
+    {
+        "Name":  "RELEASES.md",
+        "Type":  "File",
+        "RelativePath":  "15_GITHUB\\RELEASES.md",
+        "Extension":  ".md",
+        "SizeBytes":  42,
+        "LastModified":  "\/Date(1785747001013)\/"
+    },
+    {
+        "Name":  "BACKUP",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\BACKUP",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746580)\/"
+    },
+    {
+        "Name":  "DOCUMENTATION",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\DOCUMENTATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746548)\/"
+    },
+    {
+        "Name":  "FOUNDATION",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\FOUNDATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746533)\/"
+    },
+    {
+        "Name":  "GIT",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\GIT",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746539)\/"
+    },
+    {
+        "Name":  "GOVERNANCE",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\GOVERNANCE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746555)\/"
+    },
+    {
+        "Name":  "PRODUCTS",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\PRODUCTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746570)\/"
+    },
+    {
+        "Name":  "REPORTS",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\REPORTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746596)\/"
+    },
+    {
+        "Name":  "SECURITY",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\SECURITY",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746564)\/"
+    },
+    {
+        "Name":  "UTILS",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION\\UTILS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746590)\/"
+    },
+    {
+        "Name":  "MODULE_INDEX.md",
+        "Type":  "File",
+        "RelativePath":  "16_AUTOMATION\\MODULE_INDEX.md",
+        "Extension":  ".md",
+        "SizeBytes":  119,
+        "LastModified":  "\/Date(1785768746646)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "16_AUTOMATION\\README.md",
+        "Extension":  ".md",
+        "SizeBytes":  153,
+        "LastModified":  "\/Date(1785768746640)\/"
+    },
+    {
+        "Name":  "RUN_ALL.ps1",
+        "Type":  "File",
+        "RelativePath":  "16_AUTOMATION\\RUN_ALL.ps1",
+        "Extension":  ".ps1",
+        "SizeBytes":  42,
+        "LastModified":  "\/Date(1785768746652)\/"
+    },
+    {
+        "Name":  "VERIFY_ALL.ps1",
+        "Type":  "File",
+        "RelativePath":  "16_AUTOMATION\\VERIFY_ALL.ps1",
+        "Extension":  ".ps1",
+        "SizeBytes":  45,
+        "LastModified":  "\/Date(1785768746658)\/"
+    }
+]

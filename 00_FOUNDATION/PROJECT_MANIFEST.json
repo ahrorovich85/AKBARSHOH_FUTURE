@@ -1,0 +1,915 @@
+﻿{
+    "FolderCount":  74,
+    "Folders":  [
+                    {
+                        "Name":  "00_FOUNDATION",
+                        "Path":  "\\\\00_FOUNDATION"
+                    },
+                    {
+                        "Name":  "01_CORPORATE",
+                        "Path":  "\\\\01_CORPORATE"
+                    },
+                    {
+                        "Name":  "02_PROJECTS",
+                        "Path":  "\\\\02_PROJECTS"
+                    },
+                    {
+                        "Name":  "03_DOCUMENTS",
+                        "Path":  "\\\\03_DOCUMENTS"
+                    },
+                    {
+                        "Name":  "04_ENGINEERING",
+                        "Path":  "\\\\04_ENGINEERING"
+                    },
+                    {
+                        "Name":  "05_BRAND",
+                        "Path":  "\\\\05_BRAND"
+                    },
+                    {
+                        "Name":  "06_LEGAL",
+                        "Path":  "\\\\06_LEGAL"
+                    },
+                    {
+                        "Name":  "07_FINANCE",
+                        "Path":  "\\\\07_FINANCE"
+                    },
+                    {
+                        "Name":  "08_SECURITY",
+                        "Path":  "\\\\08_SECURITY"
+                    },
+                    {
+                        "Name":  "09_RESEARCH",
+                        "Path":  "\\\\09_RESEARCH"
+                    },
+                    {
+                        "Name":  "10_ARCHIVE",
+                        "Path":  "\\\\10_ARCHIVE"
+                    },
+                    {
+                        "Name":  "11_BACKUP",
+                        "Path":  "\\\\11_BACKUP"
+                    },
+                    {
+                        "Name":  "12_TEMPLATES",
+                        "Path":  "\\\\12_TEMPLATES"
+                    },
+                    {
+                        "Name":  "13_TOOLS",
+                        "Path":  "\\\\13_TOOLS"
+                    },
+                    {
+                        "Name":  "14_LOGS",
+                        "Path":  "\\\\14_LOGS"
+                    },
+                    {
+                        "Name":  "15_GITHUB",
+                        "Path":  "\\\\15_GITHUB"
+                    },
+                    {
+                        "Name":  "16_AUTOMATION",
+                        "Path":  "\\\\16_AUTOMATION"
+                    },
+                    {
+                        "Name":  "FOYDAPRO_X",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X"
+                    },
+                    {
+                        "Name":  "00_PRD",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD"
+                    },
+                    {
+                        "Name":  "01_ARCHITECTURE",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE"
+                    },
+                    {
+                        "Name":  "02_DATABASE",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\02_DATABASE"
+                    },
+                    {
+                        "Name":  "03_BACKEND",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\03_BACKEND"
+                    },
+                    {
+                        "Name":  "04_TELEGRAM",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\04_TELEGRAM"
+                    },
+                    {
+                        "Name":  "05_ADMIN_PANEL",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\05_ADMIN_PANEL"
+                    },
+                    {
+                        "Name":  "06_AI",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\06_AI"
+                    },
+                    {
+                        "Name":  "07_TESTING",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\07_TESTING"
+                    },
+                    {
+                        "Name":  "08_RELEASE",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\08_RELEASE"
+                    },
+                    {
+                        "Name":  "09_ASSETS",
+                        "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\09_ASSETS"
+                    },
+                    {
+                        "Name":  "2026-08-03_19-59-55",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55"
+                    },
+                    {
+                        "Name":  "00_FOUNDATION",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION"
+                    },
+                    {
+                        "Name":  "01_CORPORATE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\01_CORPORATE"
+                    },
+                    {
+                        "Name":  "02_PROJECTS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS"
+                    },
+                    {
+                        "Name":  "03_DOCUMENTS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS"
+                    },
+                    {
+                        "Name":  "04_ENGINEERING",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING"
+                    },
+                    {
+                        "Name":  "05_BRAND",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\05_BRAND"
+                    },
+                    {
+                        "Name":  "06_LEGAL",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL"
+                    },
+                    {
+                        "Name":  "07_FINANCE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\07_FINANCE"
+                    },
+                    {
+                        "Name":  "08_SECURITY",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\08_SECURITY"
+                    },
+                    {
+                        "Name":  "09_RESEARCH",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\09_RESEARCH"
+                    },
+                    {
+                        "Name":  "10_ARCHIVE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\10_ARCHIVE"
+                    },
+                    {
+                        "Name":  "12_TEMPLATES",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\12_TEMPLATES"
+                    },
+                    {
+                        "Name":  "13_TOOLS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\13_TOOLS"
+                    },
+                    {
+                        "Name":  "14_LOGS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\14_LOGS"
+                    },
+                    {
+                        "Name":  "15_GITHUB",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB"
+                    },
+                    {
+                        "Name":  "16_AUTOMATION",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION"
+                    },
+                    {
+                        "Name":  "FOYDAPRO_X",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X"
+                    },
+                    {
+                        "Name":  "00_PRD",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD"
+                    },
+                    {
+                        "Name":  "01_ARCHITECTURE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE"
+                    },
+                    {
+                        "Name":  "02_DATABASE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\02_DATABASE"
+                    },
+                    {
+                        "Name":  "03_BACKEND",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\03_BACKEND"
+                    },
+                    {
+                        "Name":  "04_TELEGRAM",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\04_TELEGRAM"
+                    },
+                    {
+                        "Name":  "05_ADMIN_PANEL",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\05_ADMIN_PANEL"
+                    },
+                    {
+                        "Name":  "06_AI",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\06_AI"
+                    },
+                    {
+                        "Name":  "07_TESTING",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\07_TESTING"
+                    },
+                    {
+                        "Name":  "08_RELEASE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\08_RELEASE"
+                    },
+                    {
+                        "Name":  "09_ASSETS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\09_ASSETS"
+                    },
+                    {
+                        "Name":  "BACKUP",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\BACKUP"
+                    },
+                    {
+                        "Name":  "DOCUMENTATION",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\DOCUMENTATION"
+                    },
+                    {
+                        "Name":  "FOUNDATION",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\FOUNDATION"
+                    },
+                    {
+                        "Name":  "GIT",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\GIT"
+                    },
+                    {
+                        "Name":  "GOVERNANCE",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\GOVERNANCE"
+                    },
+                    {
+                        "Name":  "PRODUCTS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\PRODUCTS"
+                    },
+                    {
+                        "Name":  "REPORTS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\REPORTS"
+                    },
+                    {
+                        "Name":  "SECURITY",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\SECURITY"
+                    },
+                    {
+                        "Name":  "UTILS",
+                        "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\UTILS"
+                    },
+                    {
+                        "Name":  "BACKUP",
+                        "Path":  "\\\\16_AUTOMATION\\BACKUP"
+                    },
+                    {
+                        "Name":  "DOCUMENTATION",
+                        "Path":  "\\\\16_AUTOMATION\\DOCUMENTATION"
+                    },
+                    {
+                        "Name":  "FOUNDATION",
+                        "Path":  "\\\\16_AUTOMATION\\FOUNDATION"
+                    },
+                    {
+                        "Name":  "GIT",
+                        "Path":  "\\\\16_AUTOMATION\\GIT"
+                    },
+                    {
+                        "Name":  "GOVERNANCE",
+                        "Path":  "\\\\16_AUTOMATION\\GOVERNANCE"
+                    },
+                    {
+                        "Name":  "PRODUCTS",
+                        "Path":  "\\\\16_AUTOMATION\\PRODUCTS"
+                    },
+                    {
+                        "Name":  "REPORTS",
+                        "Path":  "\\\\16_AUTOMATION\\REPORTS"
+                    },
+                    {
+                        "Name":  "SECURITY",
+                        "Path":  "\\\\16_AUTOMATION\\SECURITY"
+                    },
+                    {
+                        "Name":  "UTILS",
+                        "Path":  "\\\\16_AUTOMATION\\UTILS"
+                    }
+                ],
+    "Files":  [
+                  {
+                      "Extension":  ".gitignore",
+                      "Path":  "\\\\.gitignore",
+                      "Name":  ".gitignore",
+                      "Size":  128,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\CHANGELOG.md",
+                      "Name":  "CHANGELOG.md",
+                      "Size":  264,
+                      "Modified":  "2026-08-03 20:00:34"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\README.md",
+                      "Name":  "README.md",
+                      "Size":  121,
+                      "Modified":  "2026-08-03 13:26:18"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\VERSION.md",
+                      "Name":  "VERSION.md",
+                      "Size":  171,
+                      "Modified":  "2026-08-03 20:00:34"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\BACKUP_REPORT.md",
+                      "Name":  "BACKUP_REPORT.md",
+                      "Size":  197,
+                      "Modified":  "2026-08-03 19:59:56"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\COMMIT_REPORT.md",
+                      "Name":  "COMMIT_REPORT.md",
+                      "Size":  228,
+                      "Modified":  "2026-08-03 20:02:30"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\COMPANY_PROFILE.md",
+                      "Name":  "COMPANY_PROFILE.md",
+                      "Size":  252,
+                      "Modified":  "2026-08-03 13:46:38"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\CORE_VALUES.md",
+                      "Name":  "CORE_VALUES.md",
+                      "Size":  183,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\DECISION_LOG.md",
+                      "Name":  "DECISION_LOG.md",
+                      "Size":  199,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\00_FOUNDATION\\DOCUMENTATION_GENERATION_REPORT.txt",
+                      "Name":  "DOCUMENTATION_GENERATION_REPORT.txt",
+                      "Size":  171,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\00_FOUNDATION\\DOCUMENTATION_GENERATOR_REPORT.txt",
+                      "Name":  "DOCUMENTATION_GENERATOR_REPORT.txt",
+                      "Size":  307,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\00_FOUNDATION\\GIT_SETUP_REPORT.txt",
+                      "Name":  "GIT_SETUP_REPORT.txt",
+                      "Size":  156,
+                      "Modified":  "2026-08-03 13:50:01"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\LEADERSHIP_PRINCIPLES.md",
+                      "Name":  "LEADERSHIP_PRINCIPLES.md",
+                      "Size":  199,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\MISSION.md",
+                      "Name":  "MISSION.md",
+                      "Size":  203,
+                      "Modified":  "2026-08-03 13:46:38"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+                      "Name":  "PROJECT_AUDIT_REPORT.txt",
+                      "Size":  2410,
+                      "Modified":  "2026-08-03 13:43:31"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_DASHBOARD.md",
+                      "Name":  "PROJECT_DASHBOARD.md",
+                      "Size":  428,
+                      "Modified":  "2026-08-03 19:57:14"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_HEALTH_REPORT.md",
+                      "Name":  "PROJECT_HEALTH_REPORT.md",
+                      "Size":  749,
+                      "Modified":  "2026-08-03 19:59:25"
+                  },
+                  {
+                      "Extension":  ".json",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_INDEX.json",
+                      "Name":  "PROJECT_INDEX.json",
+                      "Size":  83776,
+                      "Modified":  "2026-08-03 20:03:09"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_INDEX.md",
+                      "Name":  "PROJECT_INDEX.md",
+                      "Size":  16318,
+                      "Modified":  "2026-08-03 20:03:31"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_STATUS.md",
+                      "Name":  "PROJECT_STATUS.md",
+                      "Size":  1080,
+                      "Modified":  "2026-08-03 13:39:21"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\PROJECT_TREE.md",
+                      "Name":  "PROJECT_TREE.md",
+                      "Size":  56,
+                      "Modified":  "2026-08-03 19:58:24"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\RELEASE_REPORT.md",
+                      "Name":  "RELEASE_REPORT.md",
+                      "Size":  593,
+                      "Modified":  "2026-08-03 20:01:19"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\00_FOUNDATION\\VISION.md",
+                      "Name":  "VISION.md",
+                      "Size":  203,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md",
+                      "Name":  "API_REQUIREMENTS.md",
+                      "Size":  51,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md",
+                      "Name":  "BUSINESS_MODEL.md",
+                      "Size":  84,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\FEATURES.md",
+                      "Name":  "FEATURES.md",
+                      "Size":  177,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\PRD_MASTER.md",
+                      "Name":  "PRD_MASTER.md",
+                      "Size":  193,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\ROADMAP.md",
+                      "Name":  "ROADMAP.md",
+                      "Size":  173,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\USER_STORIES.md",
+                      "Name":  "USER_STORIES.md",
+                      "Size":  64,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SECURITY_MODEL.md",
+                      "Name":  "SECURITY_MODEL.md",
+                      "Size":  180,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SYSTEM_ARCHITECTURE.md",
+                      "Name":  "SYSTEM_ARCHITECTURE.md",
+                      "Size":  193,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\03_DOCUMENTS\\CHANGE_CONTROL.md",
+                      "Name":  "CHANGE_CONTROL.md",
+                      "Size":  102,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\03_DOCUMENTS\\DOCUMENT_STANDARD.md",
+                      "Name":  "DOCUMENT_STANDARD.md",
+                      "Size":  135,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\03_DOCUMENTS\\NAMING_CONVENTION.md",
+                      "Name":  "NAMING_CONVENTION.md",
+                      "Size":  105,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\04_ENGINEERING\\DEVELOPMENT_PROCESS.md",
+                      "Name":  "DEVELOPMENT_PROCESS.md",
+                      "Size":  110,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\04_ENGINEERING\\ENGINEERING_STANDARD.md",
+                      "Name":  "ENGINEERING_STANDARD.md",
+                      "Size":  97,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\04_ENGINEERING\\SECURITY_STANDARD.md",
+                      "Name":  "SECURITY_STANDARD.md",
+                      "Size":  101,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\06_LEGAL\\COMPANY_LEGAL_STRUCTURE.md",
+                      "Name":  "COMPANY_LEGAL_STRUCTURE.md",
+                      "Size":  97,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\06_LEGAL\\INTELLECTUAL_PROPERTY.md",
+                      "Name":  "INTELLECTUAL_PROPERTY.md",
+                      "Size":  92,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".gitignore",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\.gitignore",
+                      "Name":  ".gitignore",
+                      "Size":  128,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\CHANGELOG.md",
+                      "Name":  "CHANGELOG.md",
+                      "Size":  125,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\README.md",
+                      "Name":  "README.md",
+                      "Size":  121,
+                      "Modified":  "2026-08-03 13:26:18"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\VERSION.md",
+                      "Name":  "VERSION.md",
+                      "Size":  87,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\COMPANY_PROFILE.md",
+                      "Name":  "COMPANY_PROFILE.md",
+                      "Size":  252,
+                      "Modified":  "2026-08-03 13:46:38"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\CORE_VALUES.md",
+                      "Name":  "CORE_VALUES.md",
+                      "Size":  183,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DECISION_LOG.md",
+                      "Name":  "DECISION_LOG.md",
+                      "Size":  199,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DOCUMENTATION_GENERATION_REPORT.txt",
+                      "Name":  "DOCUMENTATION_GENERATION_REPORT.txt",
+                      "Size":  171,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\DOCUMENTATION_GENERATOR_REPORT.txt",
+                      "Name":  "DOCUMENTATION_GENERATOR_REPORT.txt",
+                      "Size":  307,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\GIT_SETUP_REPORT.txt",
+                      "Name":  "GIT_SETUP_REPORT.txt",
+                      "Size":  156,
+                      "Modified":  "2026-08-03 13:50:01"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\LEADERSHIP_PRINCIPLES.md",
+                      "Name":  "LEADERSHIP_PRINCIPLES.md",
+                      "Size":  199,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\MISSION.md",
+                      "Name":  "MISSION.md",
+                      "Size":  203,
+                      "Modified":  "2026-08-03 13:46:38"
+                  },
+                  {
+                      "Extension":  ".txt",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+                      "Name":  "PROJECT_AUDIT_REPORT.txt",
+                      "Size":  2410,
+                      "Modified":  "2026-08-03 13:43:31"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_DASHBOARD.md",
+                      "Name":  "PROJECT_DASHBOARD.md",
+                      "Size":  428,
+                      "Modified":  "2026-08-03 19:57:14"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_HEALTH_REPORT.md",
+                      "Name":  "PROJECT_HEALTH_REPORT.md",
+                      "Size":  749,
+                      "Modified":  "2026-08-03 19:59:25"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_STATUS.md",
+                      "Name":  "PROJECT_STATUS.md",
+                      "Size":  1080,
+                      "Modified":  "2026-08-03 13:39:21"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_TREE.md",
+                      "Name":  "PROJECT_TREE.md",
+                      "Size":  56,
+                      "Modified":  "2026-08-03 19:58:24"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\VISION.md",
+                      "Name":  "VISION.md",
+                      "Size":  203,
+                      "Modified":  "2026-08-03 13:46:39"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md",
+                      "Name":  "API_REQUIREMENTS.md",
+                      "Size":  51,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md",
+                      "Name":  "BUSINESS_MODEL.md",
+                      "Size":  84,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\FEATURES.md",
+                      "Name":  "FEATURES.md",
+                      "Size":  177,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\PRD_MASTER.md",
+                      "Name":  "PRD_MASTER.md",
+                      "Size":  193,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\ROADMAP.md",
+                      "Name":  "ROADMAP.md",
+                      "Size":  173,
+                      "Modified":  "2026-08-03 13:46:40"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\USER_STORIES.md",
+                      "Name":  "USER_STORIES.md",
+                      "Size":  64,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SECURITY_MODEL.md",
+                      "Name":  "SECURITY_MODEL.md",
+                      "Size":  180,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\01_ARCHITECTURE\\SYSTEM_ARCHITECTURE.md",
+                      "Name":  "SYSTEM_ARCHITECTURE.md",
+                      "Size":  193,
+                      "Modified":  "2026-08-03 13:46:41"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\CHANGE_CONTROL.md",
+                      "Name":  "CHANGE_CONTROL.md",
+                      "Size":  102,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\DOCUMENT_STANDARD.md",
+                      "Name":  "DOCUMENT_STANDARD.md",
+                      "Size":  135,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\03_DOCUMENTS\\NAMING_CONVENTION.md",
+                      "Name":  "NAMING_CONVENTION.md",
+                      "Size":  105,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\DEVELOPMENT_PROCESS.md",
+                      "Name":  "DEVELOPMENT_PROCESS.md",
+                      "Size":  110,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\ENGINEERING_STANDARD.md",
+                      "Name":  "ENGINEERING_STANDARD.md",
+                      "Size":  97,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\04_ENGINEERING\\SECURITY_STANDARD.md",
+                      "Name":  "SECURITY_STANDARD.md",
+                      "Size":  101,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL\\COMPANY_LEGAL_STRUCTURE.md",
+                      "Name":  "COMPANY_LEGAL_STRUCTURE.md",
+                      "Size":  97,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\06_LEGAL\\INTELLECTUAL_PROPERTY.md",
+                      "Name":  "INTELLECTUAL_PROPERTY.md",
+                      "Size":  92,
+                      "Modified":  "2026-08-03 14:01:58"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\ISSUES.md",
+                      "Name":  "ISSUES.md",
+                      "Size":  51,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\README.md",
+                      "Name":  "README.md",
+                      "Size":  113,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\15_GITHUB\\RELEASES.md",
+                      "Name":  "RELEASES.md",
+                      "Size":  42,
+                      "Modified":  "2026-08-03 13:50:01"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\MODULE_INDEX.md",
+                      "Name":  "MODULE_INDEX.md",
+                      "Size":  119,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\README.md",
+                      "Name":  "README.md",
+                      "Size":  153,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".ps1",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\RUN_ALL.ps1",
+                      "Name":  "RUN_ALL.ps1",
+                      "Size":  42,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".ps1",
+                      "Path":  "\\\\11_BACKUP\\2026-08-03_19-59-55\\16_AUTOMATION\\VERIFY_ALL.ps1",
+                      "Name":  "VERIFY_ALL.ps1",
+                      "Size":  45,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\15_GITHUB\\ISSUES.md",
+                      "Name":  "ISSUES.md",
+                      "Size":  51,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\15_GITHUB\\README.md",
+                      "Name":  "README.md",
+                      "Size":  113,
+                      "Modified":  "2026-08-03 13:50:00"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\15_GITHUB\\RELEASES.md",
+                      "Name":  "RELEASES.md",
+                      "Size":  42,
+                      "Modified":  "2026-08-03 13:50:01"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\16_AUTOMATION\\MODULE_INDEX.md",
+                      "Name":  "MODULE_INDEX.md",
+                      "Size":  119,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".md",
+                      "Path":  "\\\\16_AUTOMATION\\README.md",
+                      "Name":  "README.md",
+                      "Size":  153,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".ps1",
+                      "Path":  "\\\\16_AUTOMATION\\RUN_ALL.ps1",
+                      "Name":  "RUN_ALL.ps1",
+                      "Size":  42,
+                      "Modified":  "2026-08-03 19:52:26"
+                  },
+                  {
+                      "Extension":  ".ps1",
+                      "Path":  "\\\\16_AUTOMATION\\VERIFY_ALL.ps1",
+                      "Name":  "VERIFY_ALL.ps1",
+                      "Size":  45,
+                      "Modified":  "2026-08-03 19:52:26"
+                  }
+              ],
+    "FileCount":  87,
+    "Generated":  "2026-08-03 20:04:06",
+    "Project":  "AKBARSHOH_FUTURE"
+}

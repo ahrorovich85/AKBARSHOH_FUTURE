@@ -1,0 +1,13 @@
+﻿AFDT-002 Documentation Generator
+
+Sana:
+08/03/2026 13:46:41
+
+Holat:
+COMPLETED
+
+Yaratilgan:
+- Foundation Documents
+- FOYDAPRO X PRD Documents
+- Architecture Documents
+
