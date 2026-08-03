@@ -1,0 +1,26 @@
+﻿{
+    "Generated":  "2026-08-03 23:59:20",
+    "Project":  "AKBARSHOH_FUTURE",
+    "Version":  "v8.2",
+    "Branch":  "master",
+    "Commit":  "0481b61",
+    "CurrentTag":  "v8.1-business-integration",
+    "IdentityModules":  [
+                            "User Registry",
+                            "Identity Profile",
+                            "Authentication Layer",
+                            "Role Management",
+                            "Permission Control",
+                            "Activity Tracking",
+                            "AI User Intelligence"
+                        ],
+    "Roles":  [
+                  "Super Admin",
+                  "Admin",
+                  "Manager",
+                  "Partner",
+                  "Investor",
+                  "User"
+              ],
+    "Status":  "IDENTITY_CORE_READY"
+}
