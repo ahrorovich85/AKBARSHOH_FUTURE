@@ -1,0 +1,161 @@
+﻿{
+    "Generated":  "2026-08-03 23:16:55",
+    "Nodes":  [
+                  {
+                      "Id":  "005_PROJECT_SUMMARY.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "006_PROJECT_CONTEXT.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "007_PROJECT_STATUS.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "008_PROJECT_DEPENDENCY.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "AFPOS_MASTER_PIPELINE.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "AFPOS031_FIX.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "PROJECT_MEMORY.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "RUN_AFPOS_PIPELINE.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "RUN_ALL.ps1",
+                      "Type":  "Module"
+                  },
+                  {
+                      "Id":  "VERIFY_ALL.ps1",
+                      "Type":  "Module"
+                  }
+              ],
+    "Edges":  [
+                  {
+                      "From":  "005_PROJECT_SUMMARY.ps1",
+                      "To":  "PROJECT_SUMMARY.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_CONTEXT.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_HEALTH.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_KNOWLEDGE.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_MEMORY.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_STATUS.json"
+                  },
+                  {
+                      "From":  "006_PROJECT_CONTEXT.ps1",
+                      "To":  "PROJECT_SUMMARY.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_CONTEXT.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_HEALTH.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_KNOWLEDGE.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_MEMORY.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_STATUS.json"
+                  },
+                  {
+                      "From":  "007_PROJECT_STATUS.ps1",
+                      "To":  "PROJECT_SUMMARY.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_CONTEXT.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_HEALTH.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_KNOWLEDGE.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_MEMORY.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_STATUS.json"
+                  },
+                  {
+                      "From":  "008_PROJECT_DEPENDENCY.ps1",
+                      "To":  "PROJECT_SUMMARY.json"
+                  },
+                  {
+                      "From":  "AFPOS_MASTER_PIPELINE.ps1",
+                      "To":  {
+
+                             }
+                  },
+                  {
+                      "From":  "AFPOS031_FIX.ps1",
+                      "To":  {
+
+                             }
+                  },
+                  {
+                      "From":  "PROJECT_MEMORY.ps1",
+                      "To":  "PROJECT_MEMORY.json"
+                  },
+                  {
+                      "From":  "RUN_AFPOS_PIPELINE.ps1",
+                      "To":  {
+
+                             }
+                  },
+                  {
+                      "From":  "RUN_ALL.ps1",
+                      "To":  {
+
+                             }
+                  },
+                  {
+                      "From":  "VERIFY_ALL.ps1",
+                      "To":  {
+
+                             }
+                  }
+              ],
+    "Summary":  {
+                    "Nodes":  10,
+                    "Edges":  25
+                }
+}
