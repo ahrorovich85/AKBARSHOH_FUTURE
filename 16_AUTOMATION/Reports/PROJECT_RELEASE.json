@@ -1,0 +1,112 @@
+﻿{
+    "Generated":  "2026-08-03 23:18:51",
+    "Branch":  "master",
+    "Commit":  "80005fb",
+    "Tags":  [
+                 "v1.0-foundation",
+                 "v1.1-documentation",
+                 "v1.3.0",
+                 "v3.5.1-business-fix",
+                 "v5.4-ai-master-orchestrator",
+                 "v5.5-digital-twin",
+                 "v5.6-autonomous-strategy",
+                 "v5.7-project-index",
+                 "v6.1-project-summary",
+                 "v6.2-project-context",
+                 "v6.3-project-status",
+                 "v6.4-project-dependency",
+                 "v6.5-project-graph"
+             ],
+    "LatestTag":  "v6.5-project-graph",
+    "Commits":  [
+                    "80005fb AFPOS-070 Add Project Graph Engine",
+                    "72c5802 AFPOS-069 Add Project Dependency Engine",
+                    "a0a32f3 AFPOS-068 Add Project Status Engine",
+                    "7866fb3 AFPOS-067 Add Project Context Engine",
+                    "58924ef AFPOS-066 Add Project Summary Engine",
+                    "0a12982 AFPOS-054 Create Project Index Engine",
+                    "fc9acaf AFPOS-052 Autonomous Strategy Engine created",
+                    "10caa04 AFPOS-051 Digital Twin Engine created",
+                    "9ce2123 AFPOS-050 AI Master Orchestrator created",
+                    "710764e AFPOS-031 Business Readiness Engine fixed"
+                ],
+    "WorkingTree":  [
+                        " D 16_AUTOMATION/AFPOS031_FIX.ps1",
+                        " D 16_AUTOMATION/AFPOS_MASTER_PIPELINE.ps1",
+                        " D 16_AUTOMATION/PROJECT_INDEX.json",
+                        " D 16_AUTOMATION/RUN_AFPOS_PIPELINE.ps1",
+                        " D 16_AUTOMATION/RUN_ALL.ps1",
+                        " D 16_AUTOMATION/VERIFY_ALL.ps1",
+                        "?? 00_FOUNDATION/AI_BUSINESS_SIMULATION_REPORT.md",
+                        "?? 00_FOUNDATION/BUSINESS_SIMULATION_MODEL.json",
+                        "?? 02_PROJECTS/FOYDAPRO_X/PROJECT_SCAN.txt",
+                        "?? 16_AUTOMATION/Core/",
+                        "?? 16_AUTOMATION/MIGRATE_FRAMEWORK.ps1",
+                        "?? 16_AUTOMATION/Modules/010_PROJECT_RELEASE.ps1",
+                        "?? 16_AUTOMATION/Modules/AFPOS031_FIX.ps1",
+                        "?? 16_AUTOMATION/Modules/AFPOS_MASTER_PIPELINE.ps1",
+                        "?? 16_AUTOMATION/Modules/PROJECT_MEMORY.ps1",
+                        "?? 16_AUTOMATION/Modules/RUN_AFPOS_PIPELINE.ps1",
+                        "?? 16_AUTOMATION/Modules/RUN_ALL.ps1",
+                        "?? 16_AUTOMATION/Modules/VERIFY_ALL.ps1",
+                        "?? 16_AUTOMATION/Reports/PROJECT_HEALTH.json",
+                        "?? 16_AUTOMATION/Reports/PROJECT_INDEX.json",
+                        "?? 16_AUTOMATION/Reports/PROJECT_KNOWLEDGE.json",
+                        "?? 16_AUTOMATION/Reports/PROJECT_MEMORY.json",
+                        "?? PROJECT_DNA/",
+                        "?? PROJECT_SOURCE.zip"
+                    ],
+    "Reports":  [
+                    {
+                        "Name":  "PROJECT_CONTEXT.json",
+                        "SizeKB":  3.99,
+                        "Modified":  "2026-08-03 23:09:36"
+                    },
+                    {
+                        "Name":  "PROJECT_DEPENDENCY.json",
+                        "SizeKB":  3.67,
+                        "Modified":  "2026-08-03 23:15:01"
+                    },
+                    {
+                        "Name":  "PROJECT_GRAPH.json",
+                        "SizeKB":  5.39,
+                        "Modified":  "2026-08-03 23:16:55"
+                    },
+                    {
+                        "Name":  "PROJECT_HEALTH.json",
+                        "SizeKB":  3.38,
+                        "Modified":  "2026-08-03 22:22:19"
+                    },
+                    {
+                        "Name":  "PROJECT_INDEX.json",
+                        "SizeKB":  52.34,
+                        "Modified":  "2026-08-03 22:01:47"
+                    },
+                    {
+                        "Name":  "PROJECT_KNOWLEDGE.json",
+                        "SizeKB":  2.97,
+                        "Modified":  "2026-08-03 22:20:48"
+                    },
+                    {
+                        "Name":  "PROJECT_MEMORY.json",
+                        "SizeKB":  71701.37,
+                        "Modified":  "2026-08-03 22:18:31"
+                    },
+                    {
+                        "Name":  "PROJECT_STATUS.json",
+                        "SizeKB":  1.28,
+                        "Modified":  "2026-08-03 23:11:38"
+                    },
+                    {
+                        "Name":  "PROJECT_SUMMARY.json",
+                        "SizeKB":  6.87,
+                        "Modified":  "2026-08-03 23:06:01"
+                    }
+                ],
+    "Summary":  {
+                    "ReportCount":  9,
+                    "TagCount":  13,
+                    "Commit":  "80005fb",
+                    "LatestTag":  "v6.5-project-graph"
+                }
+}
