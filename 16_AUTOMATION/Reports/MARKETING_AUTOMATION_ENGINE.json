@@ -1,0 +1,25 @@
+﻿{
+    "Generated":  "2026-08-04 00:08:40",
+    "Project":  "AKBARSHOH_FUTURE",
+    "Version":  "v8.5",
+    "Branch":  "master",
+    "Commit":  "43a137e",
+    "CurrentTag":  "v8.4-ai-business-assistant",
+    "MarketingModules":  [
+                             "Campaign Manager",
+                             "Audience Segmentation",
+                             "Notification Engine",
+                             "Referral Growth",
+                             "Analytics Tracking",
+                             "Content Automation",
+                             "Conversion Intelligence"
+                         ],
+    "GrowthSystems":  [
+                          "User Acquisition",
+                          "Retention Management",
+                          "Referral Optimization",
+                          "Community Growth",
+                          "Performance Tracking"
+                      ],
+    "Status":  "MARKETING_AUTOMATION_READY"
+}
