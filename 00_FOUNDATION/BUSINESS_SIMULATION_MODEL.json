@@ -1,0 +1,41 @@
+﻿{
+    "Components":  [
+                       {
+                           "Name":  "Revenue Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Daromad modeli simulyatsiya qilindi"
+                       },
+                       {
+                           "Name":  "Growth Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Foydalanuvchi o\u0027sishi modellashtirildi"
+                       },
+                       {
+                           "Name":  "Cost Analysis",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Xarajat modeli tayyor"
+                       },
+                       {
+                           "Name":  "Risk Forecast",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Biznes risklari prognoz qilindi"
+                       },
+                       {
+                           "Name":  "ROI Prediction",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Investitsiya natijalari bashorat qilindi"
+                       }
+                   ],
+    "SimulationScore":  100,
+    "Generated":  {
+                      "value":  "\/Date(1785771930055)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:45:30"
+                  },
+    "Level":  "AI BUSINESS SIMULATION ACTIVE"
+}

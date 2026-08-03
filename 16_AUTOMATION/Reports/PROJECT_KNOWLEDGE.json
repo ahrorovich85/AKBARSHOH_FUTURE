@@ -1,0 +1,55 @@
+﻿{
+    "Generated":  "2026-08-03 22:20:46",
+    "Project":  "AKBARSHOH_FUTURE",
+    "TotalFiles":  154,
+    "Versions":  [
+                     "v1.0",
+                     "v1.0.0",
+                     "v1.1",
+                     "v1.2.0",
+                     "v1.3.0"
+                 ],
+    "AIReports":  [
+                      "00_FOUNDATION\\AI_BUSINESS_ASSISTANT_REPORT.md",
+                      "00_FOUNDATION\\AI_BUSINESS_SIMULATION_REPORT.md",
+                      "00_FOUNDATION\\AI_GOVERNANCE_REPORT.md",
+                      "00_FOUNDATION\\AI_LEARNING_MEMORY.json",
+                      "00_FOUNDATION\\AI_MASTER_ORCHESTRATOR_REPORT.md",
+                      "00_FOUNDATION\\AI_PROJECT_ANALYSIS_REPORT.md",
+                      "00_FOUNDATION\\AUTOMATION_ORCHESTRATOR_REPORT.md",
+                      "00_FOUNDATION\\BUSINESS_READINESS_REPORT.md",
+                      "00_FOUNDATION\\BUSINESS_SIMULATION_MODEL.json",
+                      "00_FOUNDATION\\DIGITAL_TWIN_MODEL.json",
+                      "00_FOUNDATION\\DIGITAL_TWIN_REPORT.md",
+                      "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md",
+                      "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\BUSINESS_MODEL.md"
+                  ],
+    "Telegram":  [
+                     "00_FOUNDATION\\AI_PROJECT_ANALYSIS_REPORT.md",
+                     "00_FOUNDATION\\DECISION_INTELLIGENCE_REPORT.md",
+                     "00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+                     "00_FOUNDATION\\PROJECT_CLEANUP_REPORT.md",
+                     "00_FOUNDATION\\PROJECT_INDEX.md",
+                     "00_FOUNDATION\\PROJECT_MANIFEST.json",
+                     "00_FOUNDATION\\PROJECT_REBUILD_REPORT.md",
+                     "00_FOUNDATION\\PROJECT_VALIDATION_REPORT.md",
+                     "02_PROJECTS\\FOYDAPRO_X\\PROJECT_SCAN.txt",
+                     "10_ARCHIVE\\SNAPSHOTS\\2026-08-03_20-04-39\\00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt",
+                     "10_ARCHIVE\\SNAPSHOTS\\2026-08-03_20-04-39\\00_FOUNDATION\\PROJECT_INDEX.md",
+                     "10_ARCHIVE\\SNAPSHOTS\\2026-08-03_20-04-39\\00_FOUNDATION\\PROJECT_MANIFEST.json",
+                     "11_BACKUP\\2026-08-03_19-59-55\\00_FOUNDATION\\PROJECT_AUDIT_REPORT.txt"
+                 ],
+    "Todo":  null,
+    "Fixme":  null,
+    "Api":  [
+                "00_FOUNDATION\\PROJECT_FINGERPRINT.md",
+                "00_FOUNDATION\\PROJECT_INDEX.md",
+                "00_FOUNDATION\\PROJECT_INVENTORY.json",
+                "00_FOUNDATION\\PROJECT_INVENTORY.md",
+                "00_FOUNDATION\\SELF_AUDIT_REPORT.md",
+                "02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md",
+                "02_PROJECTS\\FOYDAPRO_X\\PROJECT_SCAN.txt",
+                "10_ARCHIVE\\SNAPSHOTS\\2026-08-03_20-04-39\\00_FOUNDATION\\PROJECT_INDEX.md",
+                "11_BACKUP\\2026-08-03_19-59-55\\02_PROJECTS\\FOYDAPRO_X\\00_PRD\\API_REQUIREMENTS.md"
+            ]
+}

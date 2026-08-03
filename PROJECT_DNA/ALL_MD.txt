@@ -1,0 +1,7903 @@
+===== E:\AKBARSHOH_FUTURE\CHANGELOG.md =====
+# CHANGELOG
+
+## v1.0.0
+
+Initial Foundation Release.
+
+Created:
+- Workspace
+- Documentation System
+- FOYDAPRO X Structure
+
+
+## 2026-08-03 20:00:34
+
+Version : v1.2.0
+Branch  : master
+Commit  : 2
+Last    : 25297f8 - AFDT-004: Documentation System created
+
+
+===== E:\AKBARSHOH_FUTURE\README.md =====
+# AKBARSHOH FUTURE
+
+Bu kompaniyaning asosiy Workspace papkasi.
+
+Foundation Version : 1.0
+Status             : ACTIVE
+
+===== E:\AKBARSHOH_FUTURE\VERSION.md =====
+# VERSION
+
+Current Version
+
+v1.2.0
+
+Generated
+
+08/03/2026 20:00:34
+
+Git Branch
+
+master
+
+Commit Count
+
+2
+
+Last Commit
+
+25297f8 - AFDT-004: Documentation System created
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_BUSINESS_ASSISTANT_REPORT.md =====
+# AFPOS AI BUSINESS ASSISTANT REPORT
+
+Generated:
+
+08/03/2026 20:27:11
+
+================================================
+
+AI BUSINESS SCORE
+
+100 /100
+
+
+LEVEL:
+
+AI BUSINESS AUTONOMOUS
+
+
+================================================
+
+AI ANALYSIS
+
+
+
+Business Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Strategiyani davom ettirish
+
+------------------------------
+ 
+Revenue Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Daromad oqimini optimallashtirish
+
+------------------------------
+ 
+Customer Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+User qiymatini oshirish
+
+------------------------------
+ 
+Automation Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Jarayonlarni avtomatlashtirish
+
+------------------------------
+ 
+Security Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Xavfsizlikni nazorat qilish
+
+------------------------------
+
+
+
+================================================
+
+AI DECISION PRIORITIES
+
+
+1. Fix weakest business areas
+
+2. Increase revenue channels
+
+3. Improve customer retention
+
+4. Automate repeated operations
+
+5. Maintain security
+
+
+================================================
+
+STATUS
+
+AI BUSINESS ASSISTANT READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_BUSINESS_SIMULATION_REPORT.md =====
+# AFPOS AI BUSINESS SIMULATION REPORT
+
+Generated:
+
+08/03/2026 20:45:30
+
+================================================
+
+BUSINESS SIMULATION SCORE
+
+100 /100
+
+
+LEVEL:
+
+AI BUSINESS SIMULATION ACTIVE
+
+
+================================================
+
+SIMULATION MODULES
+
+
+
+Revenue Simulation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Daromad modeli simulyatsiya qilindi
+
+------------------------------
+ 
+Growth Simulation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Foydalanuvchi o'sishi modellashtirildi
+
+------------------------------
+ 
+Cost Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Xarajat modeli tayyor
+
+------------------------------
+ 
+Risk Forecast
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Biznes risklari prognoz qilindi
+
+------------------------------
+ 
+ROI Prediction
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Investitsiya natijalari bashorat qilindi
+
+------------------------------
+
+
+
+================================================
+
+BUSINESS SIMULATION FLOW
+
+
+STRATEGY
+
+v
+
+SIMULATION
+
+v
+
+REVENUE TEST
+
+v
+
+GROWTH TEST
+
+v
+
+RISK TEST
+
+v
+
+ROI ANALYSIS
+
+v
+
+BUSINESS DECISION
+
+
+================================================
+
+SIMULATION STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_GOVERNANCE_REPORT.md =====
+# AFPOS AI GOVERNANCE REPORT
+
+Generated:
+
+08/03/2026 20:38:33
+
+================================================
+
+GOVERNANCE SCORE
+
+100 /100
+
+
+LEVEL:
+
+TRUSTED AUTONOMOUS AI
+
+
+================================================
+
+GOVERNANCE ANALYSIS
+
+
+
+AI Rule Control
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Standart AI qoidalari bazasi yaratildi
+
+------------------------------
+ 
+Decision Audit System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI qarorlari tarixlanadi
+
+------------------------------
+ 
+Compliance Check
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Standart tekshiruv faol
+
+------------------------------
+ 
+AI Safety Control
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI xavfsizlik nazorati faol
+
+------------------------------
+ 
+AI Transparency System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI bilim manbalari kuzatiladi
+
+------------------------------
+
+
+
+================================================
+
+AI GOVERNANCE FLOW
+
+
+RULES
+
+v
+
+DECISIONS
+
+v
+
+AUDIT
+
+v
+
+SAFETY
+
+v
+
+TRANSPARENCY
+
+
+================================================
+
+AI TRUST STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_MASTER_ORCHESTRATOR_REPORT.md =====
+# AFPOS AI MASTER ORCHESTRATOR REPORT
+
+Generated:
+
+08/03/2026 20:39:34
+
+================================================
+
+ORCHESTRATOR SCORE
+
+100 /100
+
+
+LEVEL:
+
+AI MASTER CORE ACTIVE
+
+
+================================================
+
+AI MODULE STATUS
+
+
+
+Knowledge Intelligence
+
+Status:
+ONLINE
+
+Score:
+20
+
+Role:
+AI Memory & Knowledge
+
+------------------------------
+ 
+Predictive Intelligence
+
+Status:
+ONLINE
+
+Score:
+20
+
+Role:
+Future Forecast
+
+------------------------------
+ 
+Autonomous Decision
+
+Status:
+ONLINE
+
+Score:
+20
+
+Role:
+AI Reasoning
+
+------------------------------
+ 
+Autonomous Operation
+
+Status:
+ONLINE
+
+Score:
+20
+
+Role:
+Execution Layer
+
+------------------------------
+ 
+AI Governance
+
+Status:
+ONLINE
+
+Score:
+20
+
+Role:
+Control Layer
+
+------------------------------
+
+
+
+================================================
+
+MASTER AI ARCHITECTURE
+
+
+KNOWLEDGE
+
+v
+
+PREDICTIVE
+
+v
+
+DECISION
+
+v
+
+OPERATION
+
+v
+
+LEARNING
+
+v
+
+GOVERNANCE
+
+v
+
+MASTER ORCHESTRATOR
+
+
+================================================
+
+SYSTEM STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_PROJECT_ANALYSIS_REPORT.md =====
+# AFPOS AI PROJECT ANALYSIS REPORT
+
+Generated:
+
+08/03/2026 20:15:18
+
+==================================================
+
+PROJECT
+
+AKBARSHOH FUTURE
+
+==================================================
+
+ANALYSIS STATISTICS
+
+Markdown Documents:
+
+104
+
+Total Lines:
+
+4848
+
+Estimated Words:
+
+8216
+
+Folders:
+
+94
+
+==================================================
+
+DETECTED SYSTEM AREAS
+
+Release
+AI
+Security
+Database
+Backend
+Telegram
+Testing
+Finance
+Architecture
+Business
+Legal
+
+==================================================
+
+MISSING / IMPROVEMENT AREAS
+
+
+
+==================================================
+
+PROJECT SCORE
+
+100 / 100
+
+Grade:
+
+A - Enterprise Ready B - Strong Foundation C - Development Stage
+
+==================================================
+
+AI RECOMMENDATION
+
+Next priorities:
+
+1. Complete missing engineering modules
+2. Expand backend documentation
+3. Prepare production architecture
+4. Add testing automation
+5. Create release workflow
+
+==================================================
+
+STATUS
+
+ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AUTOMATION_ORCHESTRATOR_REPORT.md =====
+# AFPOS AUTOMATION ORCHESTRATOR REPORT
+
+Generated
+
+08/03/2026 20:13:02
+
+====================================
+
+SYSTEM STATUS
+
+ACTIVE
+
+====================================
+
+Automation Modules
+
+Available:
+
+PROJECT_DASHBOARD.md
+PROJECT_TREE.md
+PROJECT_HEALTH_REPORT.md
+PROJECT_INDEX.md
+PROJECT_MANIFEST.md
+PROJECT_METRICS.md
+PROJECT_FINGERPRINT.md
+PROJECT_INVENTORY.md
+BACKUP_REPORT.md
+RELEASE_REPORT.md
+SECURITY_CHECK_REPORT.md
+
+====================================
+
+Missing:
+
+
+
+====================================
+
+Git
+
+Branch:
+
+master
+
+Commits:
+
+3
+
+Tags:
+
+3
+
+====================================
+
+Result
+
+READY FOR PIPELINE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AUTONOMOUS_DECISION_REPORT.md =====
+# AFPOS AUTONOMOUS DECISION REPORT
+
+Generated:
+
+08/03/2026 20:35:26
+
+================================================
+
+DECISION SCORE
+
+100 /100
+
+
+LEVEL:
+
+AUTONOMOUS AI OPERATOR
+
+
+================================================
+
+DECISION ANALYSIS
+
+
+
+Data Decision Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Ma'lumotlar asosida qaror tayyor
+
+------------------------------
+ 
+Business Decision Engine
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Biznes ustuvorliklari aniqlandi
+
+------------------------------
+ 
+AI Reasoning Layer
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI sabab-natija analizi faol
+
+------------------------------
+ 
+Priority Decision Engine
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Vazifalar ustuvorlashtiriladi
+
+------------------------------
+ 
+Action Generation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Amaliy qadamlar yaratildi
+
+------------------------------
+
+
+
+================================================
+
+AI DECISION FLOW
+
+
+INPUT DATA
+
+v
+
+ANALYSIS
+
+v
+
+PRIORITY
+
+v
+
+DECISION
+
+v
+
+ACTION PLAN
+
+
+================================================
+
+AUTONOMOUS STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AUTONOMOUS_OPERATION_REPORT.md =====
+# AFPOS AUTONOMOUS OPERATION REPORT
+
+Generated:
+
+08/03/2026 20:36:34
+
+================================================
+
+OPERATION SCORE
+
+100 /100
+
+
+LEVEL:
+
+AUTONOMOUS OPERATION ACTIVE
+
+
+================================================
+
+AUTONOMOUS OPERATION ANALYSIS
+
+
+
+Execution Engine
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Avtomatik bajarish tizimi faol
+
+------------------------------
+ 
+Workflow Management
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Jarayonlar boshqarilmoqda
+
+------------------------------
+ 
+Operation Monitoring
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Natijalar kuzatilmoqda
+
+------------------------------
+ 
+Feedback Loop
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Tizim o'zini yaxshilaydi
+
+------------------------------
+ 
+Optimization Engine
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI optimizatsiya faol
+
+------------------------------
+
+
+
+================================================
+
+AUTONOMOUS LOOP
+
+
+DECISION
+
+v
+
+EXECUTION
+
+v
+
+MONITORING
+
+v
+
+FEEDBACK
+
+v
+
+OPTIMIZATION
+
+
+================================================
+
+AUTONOMOUS STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AUTONOMOUS_STRATEGY_REPORT.md =====
+# AFPOS AUTONOMOUS STRATEGY REPORT
+
+Generated:
+
+08/03/2026 20:43:38
+
+================================================
+
+STRATEGY SCORE
+
+100 /100
+
+
+LEVEL:
+
+AUTONOMOUS STRATEGY ACTIVE
+
+
+================================================
+
+STRATEGY ANALYSIS
+
+
+
+Option Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Strategik variantlar analiz qilindi
+
+------------------------------
+ 
+Outcome Comparison
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Natijalar solishtirilmoqda
+
+------------------------------
+ 
+Strategy Selection
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Optimal strategiya tanlandi
+
+------------------------------
+ 
+Roadmap Generation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+30/60/90 kunlik reja tayyor
+
+------------------------------
+ 
+Strategic Execution
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Strategiya bajarishga tayyor
+
+------------------------------
+
+
+
+================================================
+
+STRATEGY FLOW
+
+
+DIGITAL TWIN
+
+v
+
+ANALYSIS
+
+v
+
+COMPARISON
+
+v
+
+STRATEGY SELECTION
+
+v
+
+ROADMAP
+
+v
+
+EXECUTION
+
+
+================================================
+
+STRATEGY STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\BACKUP_REPORT.md =====
+# AFPOS BACKUP REPORT
+
+Generated : 08/03/2026 19:59:56
+
+Backup Folder
+
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55
+
+Statistics
+
+Folders : 36
+
+Files : 41
+
+Size(MB) : 0.01
+
+Status
+
+SUCCESS
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\BACKUP_VERIFICATION_REPORT.md =====
+# AFPOS BACKUP VERIFICATION REPORT
+
+Generated
+
+08/03/2026 20:11:59
+
+====================================
+
+Backup Count
+
+1
+
+====================================
+
+
+Backup : 2026-08-03_19-59-55
+Files  : 41
+SizeMB : 0.01
+Status : VALID
+--------------------------------
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\BUSINESS_READINESS_REPORT.md =====
+# AFPOS BUSINESS READINESS REPORT
+
+Generated:
+08/03/2026 20:18:40
+
+==============================
+
+Score:
+
+70 / 100
+
+Level:
+
+BUSINESS READY
+
+
+==============================
+
+Checks:
+
+
+Projects
+Status: READY
+Score: 20
+
+ 
+FOYDAPRO_X PRD
+Status: READY
+Score: 20
+
+ 
+Finance
+Status: NEEDS WORK
+Score: 5
+
+ 
+Brand
+Status: NEEDS WORK
+Score: 5
+
+ 
+Security
+Status: NEEDS WORK
+Score: 5
+
+ 
+Automation
+Status: READY
+Score: 15
+
+
+
+==============================
+
+STATUS
+
+COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\COMMIT_REPORT.md =====
+# COMMIT REPORT
+
+Generated : 08/03/2026 20:02:30
+
+Branch
+
+master
+
+Commit Count
+
+3
+
+Version
+
+v1.3.0
+
+Last Commit
+
+bacfdad - AFPOS-012: Dashboard, Tree, Health, Backup, Release va Automation tizimi qo'shildi
+
+Status
+
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\COMPANY_PROFILE.md =====
+# AKBARSHOH FUTURE MChJ COMPANY PROFILE
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya haqida asosiy ma'lumotlar, faoliyat yo'nalishlari va tashkiliy tuzilma.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\CORE_VALUES.md =====
+# CORE VALUES
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya tamoyillari va qadriyatlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\CRM_INTELLIGENCE_REPORT.md =====
+# AFPOS CRM INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:26:08
+
+================================================
+
+CRM SCORE
+
+70 /100
+
+
+LEVEL:
+
+CRM READY
+
+
+================================================
+
+CRM ANALYSIS
+
+
+
+User Segmentation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Userlarni guruhlarga ajratish
+
+------------------------------
+ 
+VIP Customer Detection
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+VIP model yaratish
+
+------------------------------
+ 
+Active User Analytics
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+DAU/MAU kuzatuvi
+
+------------------------------
+ 
+Customer LTV Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Mijoz qiymatini hisoblash
+
+------------------------------
+ 
+Customer Reactivation
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+Reactivation tizimi yaratish
+
+------------------------------
+
+
+
+================================================
+
+CRM ROADMAP
+
+
+1. Segment users
+
+2. Identify VIP customers
+
+3. Track active users
+
+4. Calculate customer value
+
+5. Reactivate inactive users
+
+
+================================================
+
+STATUS
+
+CRM ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\CUSTOMER_LIFECYCLE_REPORT.md =====
+# AFPOS CUSTOMER LIFECYCLE REPORT
+
+Generated:
+
+08/03/2026 20:24:58
+
+================================================
+
+CUSTOMER LIFECYCLE SCORE
+
+85 /100
+
+
+LEVEL:
+
+LIFECYCLE READY
+
+
+================================================
+
+CUSTOMER JOURNEY ANALYSIS
+
+
+
+User Onboarding
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Yangi foydalanuvchini tez aktivlashtirish
+
+------------------------------
+ 
+User Activation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Birinchi qiymat beruvchi harakatni aniqlash
+
+------------------------------
+ 
+User Retention
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+Retention tizimi yaratish
+
+------------------------------
+ 
+Churn Monitoring
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Faollik pasayishini aniqlash
+
+------------------------------
+ 
+Customer Value
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Customer LTV oshirish
+
+------------------------------
+
+
+
+================================================
+
+CUSTOMER JOURNEY ROADMAP
+
+
+STAGE 1
+
+Acquisition
+- User kelishi
+
+
+STAGE 2
+
+Activation
+- Birinchi qiymat olish
+
+
+STAGE 3
+
+Retention
+- Qayta foydalanish
+
+
+STAGE 4
+
+Monetization
+- To'lovga o'tish
+
+
+STAGE 5
+
+Referral
+- Boshqa user olib kelish
+
+
+================================================
+
+STATUS
+
+CUSTOMER LIFECYCLE ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DECISION_INTELLIGENCE_REPORT.md =====
+# AFPOS DECISION INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:16:28
+
+================================================
+
+PURPOSE
+
+AI based project priority analysis.
+
+================================================
+
+CURRENT PROJECT AREAS
+
+
+
+FOYDAPRO_X PRD
+Files : 6
+Status : ACTIVE
+ 
+Engineering
+Files : 3
+Status : ACTIVE
+ 
+Legal
+Files : 2
+Status : ACTIVE
+ 
+Architecture
+Files : 2
+Status : ACTIVE
+ 
+Finance
+Files : 0
+Status : NEEDS WORK
+ 
+Brand
+Files : 0
+Status : NEEDS WORK
+ 
+Security
+Files : 0
+Status : NEEDS WORK
+
+
+================================================
+
+AI RECOMMENDED PRIORITY ORDER
+
+
+1. FOYDAPRO_X PRODUCT DEVELOPMENT
+
+Reason:
+Direct business value and monetization.
+
+
+2. BACKEND + DATABASE
+
+Reason:
+Core technical foundation.
+
+
+3. TELEGRAM AUTOMATION
+
+Reason:
+Current user acquisition channel.
+
+
+4. TESTING + SECURITY
+
+Reason:
+Production reliability.
+
+
+5. BRAND + MARKETING
+
+Reason:
+Growth acceleration.
+
+
+================================================
+
+30 DAY ACTION PLAN
+
+
+WEEK 1
+- Complete PRD
+- Define database model
+- Finalize architecture
+
+
+WEEK 2
+- Backend foundation
+- Telegram integration
+
+
+WEEK 3
+- Testing system
+- Security audit
+
+
+WEEK 4
+- Release preparation
+- First production version
+
+
+================================================
+
+STATUS
+
+DECISION READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DECISION_LOG.md =====
+# DECISION LOG
+
+---
+
+## Hujjat maqsadi
+
+Loyiha bo'yicha qabul qilingan muhim qarorlar tarixi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DIGITAL_TWIN_REPORT.md =====
+# AFPOS DIGITAL TWIN REPORT
+
+Generated:
+
+08/03/2026 20:42:05
+
+================================================
+
+DIGITAL TWIN SCORE
+
+100 /100
+
+
+LEVEL:
+
+DIGITAL TWIN ACTIVE
+
+
+================================================
+
+DIGITAL TWIN COMPONENTS
+
+
+
+System Replica
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Virtual loyiha modeli yaratildi
+
+------------------------------
+ 
+Scenario Simulation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Turli ssenariylar sinov qilinadi
+
+------------------------------
+ 
+Business Simulation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Biznes modellashtirish faol
+
+------------------------------
+ 
+Risk Simulation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Risk ssenariylari tekshiriladi
+
+------------------------------
+ 
+Optimization Testing
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Yaxshi variantlar tanlanadi
+
+------------------------------
+
+
+
+================================================
+
+DIGITAL TWIN FLOW
+
+
+REAL SYSTEM
+
+v
+
+VIRTUAL MODEL
+
+v
+
+SIMULATION
+
+v
+
+OPTIMIZATION
+
+v
+
+IMPROVED SYSTEM
+
+
+================================================
+
+DIGITAL TWIN STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\ENTERPRISE_CONTROL_CENTER_REPORT.md =====
+# AFPOS ENTERPRISE CONTROL CENTER REPORT
+
+Generated:
+
+08/03/2026 20:28:11
+
+================================================
+
+ENTERPRISE SCORE
+
+100 /100
+
+
+LEVEL:
+
+ENTERPRISE CONTROL READY
+
+
+================================================
+
+SYSTEM STATUS
+
+
+
+Foundation System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Core hujjatlar mavjud
+
+------------------------------
+ 
+Automation System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Pipeline ishlayapti
+
+------------------------------
+ 
+Business Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Business analiz faol
+
+------------------------------
+ 
+AI Decision System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI analiz faol
+
+------------------------------
+ 
+Security Control
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Himoya tizimi faol
+
+------------------------------
+
+
+
+================================================
+
+COMMAND CENTER MODULES
+
+
+[1] Foundation Monitor
+
+[2] Automation Monitor
+
+[3] Business Monitor
+
+[4] AI Decision Monitor
+
+[5] Security Monitor
+
+
+================================================
+
+CONTROL STATUS
+
+ENTERPRISE COMMAND CENTER ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\EXECUTIVE_DASHBOARD_REPORT.md =====
+# AFPOS EXECUTIVE DASHBOARD REPORT
+
+Generated:
+
+08/03/2026 20:29:25
+
+================================================
+
+EXECUTIVE SCORE
+
+100 /100
+
+
+LEVEL:
+
+EXECUTIVE READY
+
+
+================================================
+
+CEO OVERVIEW
+
+
+
+Foundation Health
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Asosiy tizim barqaror
+
+------------------------------
+ 
+Business Performance
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Biznes tizimi faol
+
+------------------------------
+ 
+AI Intelligence
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+AI qaror tizimi faol
+
+------------------------------
+ 
+Automation Level
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Jarayonlar avtomatik
+
+------------------------------
+ 
+Security Status
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Himoya faol
+
+------------------------------
+
+
+
+================================================
+
+EXECUTIVE VIEW
+
+
+SYSTEM:
+AFPOS Enterprise Platform
+
+
+CORE:
+ACTIVE
+
+
+AI:
+ACTIVE
+
+
+BUSINESS:
+READY
+
+
+SECURITY:
+ACTIVE
+
+
+================================================
+
+MANAGEMENT PRIORITIES
+
+
+1. Increase revenue channels
+
+2. Improve customer retention
+
+3. Expand automation
+
+4. Strengthen premium services
+
+5. Monitor business KPIs
+
+
+================================================
+
+STATUS
+
+EXECUTIVE DASHBOARD GENERATED
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\GROWTH_STRATEGY_REPORT.md =====
+# AFPOS GROWTH STRATEGY REPORT
+
+Generated:
+
+08/03/2026 20:23:45
+
+================================================
+
+GROWTH SCORE
+
+70 /100
+
+
+LEVEL:
+
+GROWTH READY
+
+
+================================================
+
+GROWTH ANALYSIS
+
+
+
+User Acquisition
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Reklama va trafik kanallarini kengaytirish
+
+------------------------------
+ 
+Referral Growth
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+Referral tizimini yaratish
+
+------------------------------
+ 
+User Retention
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Foydalanuvchini ushlab qolish
+
+------------------------------
+ 
+Growth Analytics
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+DAU/MAU va KPI kuzatish
+
+------------------------------
+ 
+Marketing Funnel
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+Sotuv funnel yaratish
+
+------------------------------
+
+
+
+================================================
+
+30 DAY GROWTH ROADMAP
+
+
+WEEK 1
+
+- Marketing kanallarini aniqlash
+- Referral mexanizmini tayyorlash
+
+
+WEEK 2
+
+- Reklama kampaniyalari
+- User acquisition
+
+
+WEEK 3
+
+- Retention tizimi
+- Bonus mexanizmlari
+
+
+WEEK 4
+
+- Analytics va optimizatsiya
+
+
+================================================
+
+STATUS
+
+GROWTH ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\KNOWLEDGE_INTELLIGENCE_REPORT.md =====
+# AFPOS KNOWLEDGE INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:33:27
+
+================================================
+
+KNOWLEDGE SCORE
+
+100 /100
+
+
+LEVEL:
+
+AI KNOWLEDGE READY
+
+
+================================================
+
+KNOWLEDGE ANALYSIS
+
+
+
+Document Knowledge Scan
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Loyiha hujjatlari indekslandi
+
+------------------------------
+ 
+Knowledge Indexing
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Markdown bilim bazasi yaratildi
+
+------------------------------
+ 
+Project Memory System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Muhim qarorlar saqlandi
+
+------------------------------
+ 
+AI Knowledge Preparation
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI bilim qatlamiga tayyor
+
+------------------------------
+ 
+Knowledge Relationship Map
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Modullar o'zaro bog'landi
+
+------------------------------
+
+
+
+================================================
+
+KNOWLEDGE SYSTEM
+
+
+Documents:
+
+136
+
+
+Markdown:
+
+119
+
+
+Reports:
+
+48
+
+
+================================================
+
+AI KNOWLEDGE STATUS
+
+READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md =====
+# LEADERSHIP PRINCIPLES
+
+---
+
+## Hujjat maqsadi
+
+Boshqaruv va qaror qabul qilish tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\MASTER_PIPELINE_REPORT.md =====
+# AFPOS MASTER PIPELINE REPORT
+
+Generated:
+
+08/03/2026 20:13:35
+
+================================
+
+Pipeline:
+
+CREATED
+
+================================
+
+Launcher:
+
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\AFPOS_MASTER_PIPELINE.ps1
+
+================================
+
+Purpose:
+
+One click control system for:
+
+- Audit
+- Health
+- Inventory
+- Security
+- Backup
+- Release
+
+Status:
+
+READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\MISSION.md =====
+# MISSION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning asosiy missiyasi va jamiyatga beradigan qiymati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\MONETIZATION_STRATEGY_REPORT.md =====
+# AFPOS MONETIZATION STRATEGY REPORT
+
+Generated:
+
+08/03/2026 20:22:32
+
+================================================
+
+MONETIZATION SCORE
+
+55 /100
+
+
+LEVEL:
+
+EARLY MONETIZATION
+
+
+================================================
+
+MODEL ANALYSIS
+
+
+
+Premium VIP Model
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Recommendation:
+Premium paketlar yaratish
+
+------------------------------
+ 
+Advertising Packages
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Reklama paketlarini sotuvga chiqarish
+
+------------------------------
+ 
+Referral Revenue
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Recommendation:
+Referral tizimini ishlab chiqish
+
+------------------------------
+ 
+Commission Model
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Recommendation:
+Komissiya modelini belgilash
+
+------------------------------
+ 
+Customer Value System
+
+Status:
+READY
+
+Score:
+20
+
+Recommendation:
+Retention va LTV oshirish
+
+------------------------------
+
+
+
+================================================
+
+REVENUE PRIORITIES
+
+
+1. Premium/VIP monetization
+
+2. Advertising packages
+
+3. Referral income
+
+4. Commission optimization
+
+5. Customer retention
+
+
+================================================
+
+STATUS
+
+MONETIZATION ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\OPERATION_INTELLIGENCE_REPORT.md =====
+# AFPOS OPERATION INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:32:30
+
+================================================
+
+OPERATION SCORE
+
+100 /100
+
+
+LEVEL:
+
+HIGH PERFORMANCE OPERATIONS
+
+
+================================================
+
+OPERATION ANALYSIS
+
+
+
+Process Monitoring
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Jarayonlar kuzatuv ostida
+
+------------------------------
+ 
+Automation Efficiency
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Avtomatlashtirish faol
+
+------------------------------
+ 
+Performance Analytics
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Operatsion KPI mavjud
+
+------------------------------
+ 
+Resource Management
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Resurs nazorati mavjud
+
+------------------------------
+ 
+Continuous Improvement
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Doimiy yaxshilash tizimi faol
+
+------------------------------
+
+
+
+================================================
+
+OPTIMIZATION ROADMAP
+
+
+1. Monitor daily processes
+
+2. Improve automation efficiency
+
+3. Track operational KPIs
+
+4. Optimize resources
+
+5. Apply continuous improvement
+
+
+================================================
+
+OPERATION STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PAYMENT_READINESS_REPORT.md =====
+# AFPOS PAYMENT READINESS REPORT
+
+Generated:
+
+08/03/2026 20:21:37
+
+================================================
+
+PAYMENT SCORE
+
+70 /100
+
+
+LEVEL:
+
+PAYMENT READY
+
+
+================================================
+
+CHECK RESULTS
+
+
+
+Payment Documentation
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+Payment hujjatlarini yaratish
+
+------------------------------
+ 
+Balance System
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Action:
+User wallet tizimini ishlab chiqish
+
+------------------------------
+ 
+Transaction Tracking
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Audit va payment tarixini saqlash
+
+------------------------------
+ 
+Payment Provider
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Provider integratsiyasini yakunlash
+
+------------------------------
+ 
+Payment Security
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Production payment xavfsizligini kuchaytirish
+
+------------------------------
+
+
+
+================================================
+
+AI RECOMMENDATION
+
+
+1. Payment provider integratsiyasini yakunlash
+
+2. User wallet/balance tizimini yaratish
+
+3. Transaction history qo'shish
+
+4. Payment security audit o'tkazish
+
+
+================================================
+
+STATUS
+
+PAYMENT ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PIPELINE_EXECUTION_REPORT.md =====
+# AFPOS PIPELINE EXECUTION REPORT
+
+Generated:
+
+08/03/2026 20:14:02
+
+=================================
+
+Execution Time
+
+0.0959458 seconds
+
+=================================
+
+Steps
+
+
+
+=================================
+
+FINAL STATUS
+
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PREDICTIVE_INTELLIGENCE_REPORT.md =====
+# AFPOS PREDICTIVE INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:34:32
+
+================================================
+
+PREDICTIVE SCORE
+
+100 /100
+
+
+LEVEL:
+
+PREDICTIVE AI READY
+
+
+================================================
+
+PREDICTION ANALYSIS
+
+
+
+Data Trend Forecast
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Ma'lumotlar asosida trend aniqlanadi
+
+------------------------------
+ 
+Revenue Prediction
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Daromad yo'nalishi prognozi
+
+------------------------------
+ 
+User Growth Prediction
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+User rivojlanish yo'nalishi
+
+------------------------------
+ 
+Future Risk Prediction
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Kelajak xavflari kuzatiladi
+
+------------------------------
+ 
+AI Recommendation Engine
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI tavsiyalar faol
+
+------------------------------
+
+
+
+================================================
+
+AI FORECAST AREAS
+
+
+1. Business Growth Forecast
+
+2. Revenue Prediction
+
+3. User Behavior Prediction
+
+4. Risk Prediction
+
+5. Strategic Recommendation
+
+
+================================================
+
+PREDICTIVE ENGINE STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_CLEANUP_REPORT.md =====
+# AFPOS PROJECT CLEANUP REPORT
+
+Generated
+
+08/03/2026 20:06:54
+
+====================================
+
+Empty Directories Found
+
+51
+
+====================================
+
+Moved Directories
+
+01_CORPORATE
+05_BRAND
+07_FINANCE
+08_SECURITY
+09_RESEARCH
+12_TEMPLATES
+13_TOOLS
+14_LOGS
+02_PROJECTS\FOYDAPRO_X\02_DATABASE
+02_PROJECTS\FOYDAPRO_X\03_BACKEND
+02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+02_PROJECTS\FOYDAPRO_X\06_AI
+02_PROJECTS\FOYDAPRO_X\07_TESTING
+02_PROJECTS\FOYDAPRO_X\08_RELEASE
+02_PROJECTS\FOYDAPRO_X\09_ASSETS
+11_BACKUP\2026-08-03_19-59-55\01_CORPORATE
+11_BACKUP\2026-08-03_19-59-55\05_BRAND
+11_BACKUP\2026-08-03_19-59-55\07_FINANCE
+11_BACKUP\2026-08-03_19-59-55\08_SECURITY
+11_BACKUP\2026-08-03_19-59-55\09_RESEARCH
+11_BACKUP\2026-08-03_19-59-55\10_ARCHIVE
+11_BACKUP\2026-08-03_19-59-55\12_TEMPLATES
+11_BACKUP\2026-08-03_19-59-55\13_TOOLS
+11_BACKUP\2026-08-03_19-59-55\14_LOGS
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\02_DATABASE
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\03_BACKEND
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\06_AI
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\07_TESTING
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\08_RELEASE
+11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\09_ASSETS
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\BACKUP
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\DOCUMENTATION
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\FOUNDATION
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GIT
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GOVERNANCE
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\PRODUCTS
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\REPORTS
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\SECURITY
+11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\UTILS
+16_AUTOMATION\BACKUP
+16_AUTOMATION\DOCUMENTATION
+16_AUTOMATION\FOUNDATION
+16_AUTOMATION\GIT
+16_AUTOMATION\GOVERNANCE
+16_AUTOMATION\PRODUCTS
+16_AUTOMATION\REPORTS
+16_AUTOMATION\SECURITY
+16_AUTOMATION\UTILS
+
+====================================
+
+Archive
+
+E:\AKBARSHOH_FUTURE\10_ARCHIVE\EMPTY_DIRECTORIES
+
+====================================
+
+Status
+
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_DASHBOARD.md =====
+
+# PROJECT DASHBOARD
+
+Generated :
+
+2026-08-03 19:57:13
+
+---
+
+## GENERAL
+
+Project : AKBARSHOH FUTURE
+
+Root :
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+## STATISTICS
+
+Folders : 37
+
+Files : 38
+
+Size(MB) : 0.01
+
+---
+
+## FILE TYPES
+
+Markdown : 31
+
+PowerShell : 2
+
+Text : 4
+
+Json : 0
+
+---
+
+## GIT
+
+Enabled : True
+
+Branch :
+
+master
+
+Commits :
+
+2
+
+Tags :
+
+2
+
+Last Commit :
+
+25297f8 - AFDT-004: Documentation System created
+
+---
+
+Status :
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_FINGERPRINT.md =====
+# AFPOS PROJECT FINGERPRINT
+
+Generated
+
+08/03/2026 20:09:06
+
+========================================
+
+Files
+
+119
+
+========================================
+
+MASTER SHA256
+
+923572A65C5A7CE98846D2ACFA54206FB52465C5066C441B59ECE0EDB47D1BA3
+
+========================================
+
+FILE HASHES
+
+
+File
+\\.gitignore
+SHA256
+3F65D4D80C2490B85C05846697E9BD7E8BAD13D78A33FE6857C7A9164EEF8814
+
+File
+\\00_FOUNDATION\BACKUP_REPORT.md
+SHA256
+6C18857C2A7C43E251199E29144C072E428A8F363CC82771DB2F2549FF052C82
+
+File
+\\00_FOUNDATION\COMMIT_REPORT.md
+SHA256
+D92D6F56BB2D1C5F9772B8BFF241AFD3A39A38EE62E6834508739E3940F6E9EF
+
+File
+\\00_FOUNDATION\COMPANY_PROFILE.md
+SHA256
+F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+File
+\\00_FOUNDATION\CORE_VALUES.md
+SHA256
+A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+File
+\\00_FOUNDATION\DECISION_LOG.md
+SHA256
+9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+File
+\\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+SHA256
+106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+File
+\\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+SHA256
+BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+File
+\\00_FOUNDATION\GIT_SETUP_REPORT.txt
+SHA256
+E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+File
+\\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+SHA256
+031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+File
+\\00_FOUNDATION\MISSION.md
+SHA256
+EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+File
+\\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+SHA256
+7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+File
+\\00_FOUNDATION\PROJECT_CLEANUP_REPORT.md
+SHA256
+9594972FEB9F33E2FE759D1C1A205040BED35F79FBB775BC858C3DDF9144E0F6
+
+File
+\\00_FOUNDATION\PROJECT_DASHBOARD.md
+SHA256
+0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+File
+\\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+SHA256
+6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+File
+\\00_FOUNDATION\PROJECT_INDEX.json
+SHA256
+8DA538750C30E66AD5E49AC922798F7CCED58ADE203656D4FDF7D5DAAB70F83B
+
+File
+\\00_FOUNDATION\PROJECT_INDEX.md
+SHA256
+19C2B2D00646D239DF8603DFE5C6CBA7B0531A0515934AFDF88ED8E5068A5116
+
+File
+\\00_FOUNDATION\PROJECT_MANIFEST.json
+SHA256
+2AA19EC4CD48AAFE6FC3FB1A947EB2C9E83B59EB0CED32CC4F9C119BBB48739F
+
+File
+\\00_FOUNDATION\PROJECT_MANIFEST.md
+SHA256
+628BF64AC4094F9E83606B8B17FE4D456FE1EB2CD7C68A49CC7BC10DA7C5DF57
+
+File
+\\00_FOUNDATION\PROJECT_METRICS.md
+SHA256
+FD11FF8A14671EF2585AC3DC6B10C61C296D414E5369A31C0F4A22C0CEBB10BF
+
+File
+\\00_FOUNDATION\PROJECT_REBUILD_REPORT.md
+SHA256
+68D1B6851550D768A0227ED1EE7821D2E5DC76666ACCA3E1AA085336A0295F08
+
+File
+\\00_FOUNDATION\PROJECT_STATUS.md
+SHA256
+0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+File
+\\00_FOUNDATION\PROJECT_TREE.md
+SHA256
+3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+File
+\\00_FOUNDATION\PROJECT_VALIDATION_REPORT.md
+SHA256
+1159BE7A0BA06AA3114930433B7F0B4F30E4ACDC3F078BDCDAFAA41517CF670A
+
+File
+\\00_FOUNDATION\RELEASE_REPORT.md
+SHA256
+6A521B5D645B1D543650E7425AF1E69EF0CC5F2859DA81A1E74070576E0BB40D
+
+File
+\\00_FOUNDATION\SELF_AUDIT_REPORT.md
+SHA256
+60FBC6E0C19595EDA7E770BE7E60EC7E032C25AC0D7BEEC708D6379148DEFF33
+
+File
+\\00_FOUNDATION\VISION.md
+SHA256
+3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+SHA256
+6E3261FE3C9469F7BA1BE65C09454F0F3F0E9BD187EFBD363BEC4D015C4BC673
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+SHA256
+0FDB1199FF3D44EAEB7F6E31757F1832582B6C7D0FC12C00CFD0153AD18BF61B
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+SHA256
+BC1699D3C863216ECAE0726C1B5E3BDEB0A3810BF046154E69EF70C38EBA7262
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+SHA256
+B59FAB21CFEB90503D7C68520ED9142185005025EF7FC6649A798728DFD2C1C7
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+SHA256
+27A051C9E965A30F823B43F92FAD8511DE61131DF5AD2F75CE52355F8DF62D0D
+
+File
+\\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+SHA256
+2E66276C180FACB15FB94DA91DD9181C79447CDBF05A944EC8CE6CE2DADB5A68
+
+File
+\\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+SHA256
+433DC2EBDE7562BF056170BADAA004D46F1FF41098E6670D74B1DFC614ECD757
+
+File
+\\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+SHA256
+3A7F750C41DEC72308250F1BB0DDFFAB643C81A0882E2A33A56B205608670D06
+
+File
+\\03_DOCUMENTS\CHANGE_CONTROL.md
+SHA256
+8093F3A11DA7054450F6D451E46F433989A6ABBFBA47CEEFB5701137C1664EB1
+
+File
+\\03_DOCUMENTS\DOCUMENT_STANDARD.md
+SHA256
+B378FEB987B1228F2D5E6076A78DB75CEFDECC2427E32D502F380CF0A2AFCFC4
+
+File
+\\03_DOCUMENTS\NAMING_CONVENTION.md
+SHA256
+60821E4059340DCF1CDB222D18FC6D0A95FC24050B2B1F13757C6BC0771166BF
+
+File
+\\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+SHA256
+E4FF52563E8AE4463DE1E5FD076D1555F7CD1C8A9E19C0E4F6043692B988CF86
+
+File
+\\04_ENGINEERING\ENGINEERING_STANDARD.md
+SHA256
+9951D5B8B2E5775B35A304C4F2BE1174239C1B936E848A0CA04E3CFE3344BA20
+
+File
+\\04_ENGINEERING\SECURITY_STANDARD.md
+SHA256
+E260EE27EFF8D4A8EC6BD13C346EE558BF3E14EA98A194BB03D1CC2B690850AC
+
+File
+\\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+SHA256
+66ABF887D02B09FB7550EFD0CE6EBDC579C1463E3537BCA0D469C3661858D71F
+
+File
+\\06_LEGAL\INTELLECTUAL_PROPERTY.md
+SHA256
+F1FE3903EB592E7724353B03A807EAC6D5145C09FB6E93E94D4857F648A27C46
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\BACKUP_REPORT.md
+SHA256
+6C18857C2A7C43E251199E29144C072E428A8F363CC82771DB2F2549FF052C82
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMMIT_REPORT.md
+SHA256
+D92D6F56BB2D1C5F9772B8BFF241AFD3A39A38EE62E6834508739E3940F6E9EF
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMPANY_PROFILE.md
+SHA256
+F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\CORE_VALUES.md
+SHA256
+A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DECISION_LOG.md
+SHA256
+9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+SHA256
+106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+SHA256
+BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\GIT_SETUP_REPORT.txt
+SHA256
+E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+SHA256
+031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\MISSION.md
+SHA256
+EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+SHA256
+7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_DASHBOARD.md
+SHA256
+0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+SHA256
+6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_INDEX.json
+SHA256
+8DA538750C30E66AD5E49AC922798F7CCED58ADE203656D4FDF7D5DAAB70F83B
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_INDEX.md
+SHA256
+19C2B2D00646D239DF8603DFE5C6CBA7B0531A0515934AFDF88ED8E5068A5116
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_MANIFEST.json
+SHA256
+2AA19EC4CD48AAFE6FC3FB1A947EB2C9E83B59EB0CED32CC4F9C119BBB48739F
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_MANIFEST.md
+SHA256
+628BF64AC4094F9E83606B8B17FE4D456FE1EB2CD7C68A49CC7BC10DA7C5DF57
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_STATUS.md
+SHA256
+0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_TREE.md
+SHA256
+3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\RELEASE_REPORT.md
+SHA256
+6A521B5D645B1D543650E7425AF1E69EF0CC5F2859DA81A1E74070576E0BB40D
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\VISION.md
+SHA256
+3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\CHANGELOG.md
+SHA256
+CEB3F6ABBB85AAA7C6AB254B94F500BEF382792F59387250689029B988F8AEC9
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\README.md
+SHA256
+720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\SNAPSHOT_INFO.md
+SHA256
+B8B5CF6B4F74F64A18300AA062FFC3ED6687DFC7D7314AC10858E79747396CE0
+
+File
+\\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\VERSION.md
+SHA256
+FEDA1244ACBB9D9ED9EE33B96CA3B644CA09C0CF666149C959A941D0A7372413
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\.gitignore
+SHA256
+3F65D4D80C2490B85C05846697E9BD7E8BAD13D78A33FE6857C7A9164EEF8814
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\COMPANY_PROFILE.md
+SHA256
+F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\CORE_VALUES.md
+SHA256
+A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DECISION_LOG.md
+SHA256
+9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+SHA256
+106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+SHA256
+BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\GIT_SETUP_REPORT.txt
+SHA256
+E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+SHA256
+031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\MISSION.md
+SHA256
+EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+SHA256
+7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_DASHBOARD.md
+SHA256
+0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+SHA256
+6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_STATUS.md
+SHA256
+0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_TREE.md
+SHA256
+3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\VISION.md
+SHA256
+3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+SHA256
+6E3261FE3C9469F7BA1BE65C09454F0F3F0E9BD187EFBD363BEC4D015C4BC673
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+SHA256
+0FDB1199FF3D44EAEB7F6E31757F1832582B6C7D0FC12C00CFD0153AD18BF61B
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+SHA256
+BC1699D3C863216ECAE0726C1B5E3BDEB0A3810BF046154E69EF70C38EBA7262
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+SHA256
+B59FAB21CFEB90503D7C68520ED9142185005025EF7FC6649A798728DFD2C1C7
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+SHA256
+27A051C9E965A30F823B43F92FAD8511DE61131DF5AD2F75CE52355F8DF62D0D
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+SHA256
+2E66276C180FACB15FB94DA91DD9181C79447CDBF05A944EC8CE6CE2DADB5A68
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+SHA256
+433DC2EBDE7562BF056170BADAA004D46F1FF41098E6670D74B1DFC614ECD757
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+SHA256
+3A7F750C41DEC72308250F1BB0DDFFAB643C81A0882E2A33A56B205608670D06
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\CHANGE_CONTROL.md
+SHA256
+8093F3A11DA7054450F6D451E46F433989A6ABBFBA47CEEFB5701137C1664EB1
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\DOCUMENT_STANDARD.md
+SHA256
+B378FEB987B1228F2D5E6076A78DB75CEFDECC2427E32D502F380CF0A2AFCFC4
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\NAMING_CONVENTION.md
+SHA256
+60821E4059340DCF1CDB222D18FC6D0A95FC24050B2B1F13757C6BC0771166BF
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+SHA256
+E4FF52563E8AE4463DE1E5FD076D1555F7CD1C8A9E19C0E4F6043692B988CF86
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\ENGINEERING_STANDARD.md
+SHA256
+9951D5B8B2E5775B35A304C4F2BE1174239C1B936E848A0CA04E3CFE3344BA20
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\SECURITY_STANDARD.md
+SHA256
+E260EE27EFF8D4A8EC6BD13C346EE558BF3E14EA98A194BB03D1CC2B690850AC
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+SHA256
+66ABF887D02B09FB7550EFD0CE6EBDC579C1463E3537BCA0D469C3661858D71F
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\INTELLECTUAL_PROPERTY.md
+SHA256
+F1FE3903EB592E7724353B03A807EAC6D5145C09FB6E93E94D4857F648A27C46
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\ISSUES.md
+SHA256
+FBCE7DDFD869DDD04E2E4D74A745537CB8F91DF2E6BE7FD7492C0E71ACFFBF11
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\README.md
+SHA256
+6178889A66A7662A9E444736A528461A95310B5B2CD4C51D7904084832B43752
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\RELEASES.md
+SHA256
+FF36C2AC15A98A3A2AC2F605D601E01E5E85294E3141CC946A9E4E80BDAC7586
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\MODULE_INDEX.md
+SHA256
+C18146D7BA51C7A16E002CDBFA02A180991227F6B3552127E6817682FEBE38DC
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\README.md
+SHA256
+B4EB0115565ABAA928927818F128AECD9DB921451863421B3DAFFA323F6A99DC
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\RUN_ALL.ps1
+SHA256
+15615D0267E6ECDAEB91E084AEAEF875FC25CEB15920F08CD051EB881CD80CB4
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\VERIFY_ALL.ps1
+SHA256
+35B8E5EC518A4391BA2CA699A757C8D936BA8B3FB344057FA04792C49B658824
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\CHANGELOG.md
+SHA256
+05F67B71E742CB9AD5EF48EE4D0AB954676EDD50433A0A48F55169BF3938259E
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\README.md
+SHA256
+720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+File
+\\11_BACKUP\2026-08-03_19-59-55\VERSION.md
+SHA256
+D9F89D645182348A1CC6FCFB815FF498B5536875D597021AB55E7FB1FBD40F03
+
+File
+\\15_GITHUB\ISSUES.md
+SHA256
+FBCE7DDFD869DDD04E2E4D74A745537CB8F91DF2E6BE7FD7492C0E71ACFFBF11
+
+File
+\\15_GITHUB\README.md
+SHA256
+6178889A66A7662A9E444736A528461A95310B5B2CD4C51D7904084832B43752
+
+File
+\\15_GITHUB\RELEASES.md
+SHA256
+FF36C2AC15A98A3A2AC2F605D601E01E5E85294E3141CC946A9E4E80BDAC7586
+
+File
+\\16_AUTOMATION\MODULE_INDEX.md
+SHA256
+C18146D7BA51C7A16E002CDBFA02A180991227F6B3552127E6817682FEBE38DC
+
+File
+\\16_AUTOMATION\README.md
+SHA256
+B4EB0115565ABAA928927818F128AECD9DB921451863421B3DAFFA323F6A99DC
+
+File
+\\16_AUTOMATION\RUN_ALL.ps1
+SHA256
+15615D0267E6ECDAEB91E084AEAEF875FC25CEB15920F08CD051EB881CD80CB4
+
+File
+\\16_AUTOMATION\VERIFY_ALL.ps1
+SHA256
+35B8E5EC518A4391BA2CA699A757C8D936BA8B3FB344057FA04792C49B658824
+
+File
+\\CHANGELOG.md
+SHA256
+CEB3F6ABBB85AAA7C6AB254B94F500BEF382792F59387250689029B988F8AEC9
+
+File
+\\README.md
+SHA256
+720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+File
+\\VERSION.md
+SHA256
+FEDA1244ACBB9D9ED9EE33B96CA3B644CA09C0CF666149C959A941D0A7372413
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_HEALTH_REPORT.md =====
+# AFPOS PROJECT HEALTH REPORT
+
+Generated : 08/03/2026 19:59:23
+
+## Folder Check
+? 00_FOUNDATION
+? 01_CORPORATE
+? 02_PROJECTS
+? 03_DOCUMENTS
+? 04_ENGINEERING
+? 05_BRAND
+? 06_LEGAL
+? 07_FINANCE
+? 08_SECURITY
+? 09_RESEARCH
+? 10_ARCHIVE
+? 11_BACKUP
+? 12_TEMPLATES
+? 13_TOOLS
+? 14_LOGS
+? 15_GITHUB
+? 16_AUTOMATION
+
+## File Check
+? README.md
+? VERSION.md
+? CHANGELOG.md
+? .gitignore
+? 00_FOUNDATION\PROJECT_STATUS.md
+? 00_FOUNDATION\PROJECT_DASHBOARD.md
+? 00_FOUNDATION\PROJECT_TREE.md
+
+## Git Check
+? Git Repository
+Branch : master
+Commits : 2
+Tags : 2
+
+=======================================
+SUCCESS : 25
+FAILED  : 0
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_INDEX.md =====
+# PROJECT INDEX
+
+Generated : 08/03/2026 20:03:09
+
+Total Objects : 324
+
+- [Directory] .git
+- [Directory] 00_FOUNDATION
+- [Directory] 01_CORPORATE
+- [Directory] 02_PROJECTS
+- [Directory] 03_DOCUMENTS
+- [Directory] 04_ENGINEERING
+- [Directory] 05_BRAND
+- [Directory] 06_LEGAL
+- [Directory] 07_FINANCE
+- [Directory] 08_SECURITY
+- [Directory] 09_RESEARCH
+- [Directory] 10_ARCHIVE
+- [Directory] 11_BACKUP
+- [Directory] 12_TEMPLATES
+- [Directory] 13_TOOLS
+- [Directory] 14_LOGS
+- [Directory] 15_GITHUB
+- [Directory] 16_AUTOMATION
+- [File] .gitignore
+- [File] CHANGELOG.md
+- [File] README.md
+- [File] VERSION.md
+- [Directory] .git\hooks
+- [Directory] .git\info
+- [Directory] .git\logs
+- [Directory] .git\objects
+- [Directory] .git\refs
+- [File] .git\COMMIT_EDITMSG
+- [File] .git\config
+- [File] .git\description
+- [File] .git\HEAD
+- [File] .git\index
+- [File] .git\hooks\applypatch-msg.sample
+- [File] .git\hooks\commit-msg.sample
+- [File] .git\hooks\fsmonitor-watchman.sample
+- [File] .git\hooks\post-update.sample
+- [File] .git\hooks\pre-applypatch.sample
+- [File] .git\hooks\pre-commit.sample
+- [File] .git\hooks\pre-merge-commit.sample
+- [File] .git\hooks\pre-push.sample
+- [File] .git\hooks\pre-rebase.sample
+- [File] .git\hooks\pre-receive.sample
+- [File] .git\hooks\prepare-commit-msg.sample
+- [File] .git\hooks\push-to-checkout.sample
+- [File] .git\hooks\sendemail-validate.sample
+- [File] .git\hooks\update.sample
+- [File] .git\info\exclude
+- [Directory] .git\logs\refs
+- [File] .git\logs\HEAD
+- [Directory] .git\logs\refs\heads
+- [File] .git\logs\refs\heads\master
+- [Directory] .git\objects\01
+- [Directory] .git\objects\08
+- [Directory] .git\objects\09
+- [Directory] .git\objects\0c
+- [Directory] .git\objects\0e
+- [Directory] .git\objects\0f
+- [Directory] .git\objects\12
+- [Directory] .git\objects\1a
+- [Directory] .git\objects\1b
+- [Directory] .git\objects\1d
+- [Directory] .git\objects\1f
+- [Directory] .git\objects\24
+- [Directory] .git\objects\25
+- [Directory] .git\objects\33
+- [Directory] .git\objects\35
+- [Directory] .git\objects\39
+- [Directory] .git\objects\3b
+- [Directory] .git\objects\3e
+- [Directory] .git\objects\3f
+- [Directory] .git\objects\51
+- [Directory] .git\objects\52
+- [Directory] .git\objects\5a
+- [Directory] .git\objects\5f
+- [Directory] .git\objects\61
+- [Directory] .git\objects\62
+- [Directory] .git\objects\6c
+- [Directory] .git\objects\75
+- [Directory] .git\objects\7f
+- [Directory] .git\objects\8c
+- [Directory] .git\objects\8d
+- [Directory] .git\objects\98
+- [Directory] .git\objects\9b
+- [Directory] .git\objects\a1
+- [Directory] .git\objects\a3
+- [Directory] .git\objects\a5
+- [Directory] .git\objects\b0
+- [Directory] .git\objects\b1
+- [Directory] .git\objects\ba
+- [Directory] .git\objects\bc
+- [Directory] .git\objects\bd
+- [Directory] .git\objects\be
+- [Directory] .git\objects\c0
+- [Directory] .git\objects\c2
+- [Directory] .git\objects\c6
+- [Directory] .git\objects\c8
+- [Directory] .git\objects\c9
+- [Directory] .git\objects\cc
+- [Directory] .git\objects\d0
+- [Directory] .git\objects\d3
+- [Directory] .git\objects\e2
+- [Directory] .git\objects\e9
+- [Directory] .git\objects\ea
+- [Directory] .git\objects\ec
+- [Directory] .git\objects\f4
+- [Directory] .git\objects\f6
+- [Directory] .git\objects\f7
+- [Directory] .git\objects\fb
+- [Directory] .git\objects\ff
+- [Directory] .git\objects\info
+- [Directory] .git\objects\pack
+- [File] .git\objects\01\84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7
+- [File] .git\objects\08\c8d822dae58ec63ff01ad49d21785e59943028
+- [File] .git\objects\09\6aea18b68b6b4656ac5700b8a7a013433a08b0
+- [File] .git\objects\0c\80cfe18f1795785f09ca180966450b2d8bf128
+- [File] .git\objects\0e\05e2434bbe71059dbf7e4cda8812ecf71aa700
+- [File] .git\objects\0f\ac2e663b27de7003005b26ae80fe8df78defe9
+- [File] .git\objects\0f\cef6f0e0fb47d936865c4db53150cb0b9cae9f
+- [File] .git\objects\12\416e5fb4fb30851214c198aff3251dcd23f1f0
+- [File] .git\objects\1a\7d4e0dcd3e74070f953c123a4fb2d217482aff
+- [File] .git\objects\1a\8d52371a178ddb7bb8db8cf886e5604bb11a6d
+- [File] .git\objects\1a\9cfe5e408a162f01789cad97e4835f9bc938f7
+- [File] .git\objects\1b\854bf1a0aa48ff3fa25eab7c8bf7d432b3682a
+- [File] .git\objects\1d\dfc4b7e98fc56229b8da849dd57f249f0af92e
+- [File] .git\objects\1f\7b116f37d42e34a09d175ff8c8638df3ca9e94
+- [File] .git\objects\24\ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9
+- [File] .git\objects\25\297f8852c0c92d49018194d3098c075a4c5e24
+- [File] .git\objects\33\72a264e706c942fac4f38687723bd4e4894d9a
+- [File] .git\objects\35\8d953aaacc248b35c2f4dc09c4fab198f32a01
+- [File] .git\objects\39\a2b57e603ce2d9c025a7a2ddbb80345f349034
+- [File] .git\objects\3b\1534f843868754dfcff9b926b4290748f65004
+- [File] .git\objects\3e\2981dd6f2a58aa10a479290ff09899eba11d01
+- [File] .git\objects\3f\5c55da22f1b23604d4ba2bf132a7ded9ecc83f
+- [File] .git\objects\3f\b984a2b23a77816413d3831b7f5f52cfa66d75
+- [File] .git\objects\51\881f471fd135f45af71b60b8eb262cb1a5b9de
+- [File] .git\objects\52\c7bf6533548422b8f56062adc339ea2a8e7613
+- [File] .git\objects\5a\7d3c815378cf4b1e13b9fac31e80814bd21431
+- [File] .git\objects\5f\77c9425962ce80d294ee3ec8bb08c4da05f4e8
+- [File] .git\objects\5f\e3fb6df41e8b6da0839c503cd890290840c5ba
+- [File] .git\objects\61\57d1926fe213b49839b5ce98ed997e379344a9
+- [File] .git\objects\62\a1b96e6025f66c6e4ea15c41248f7733348db6
+- [File] .git\objects\6c\67e749543c2fb41e0ad4afaca479ca88698ea3
+- [File] .git\objects\75\7e4f25b2cc73927d24d00934e026b93eec2f8e
+- [File] .git\objects\7f\5256250016f553803e119a2c6e6335f80044fb
+- [File] .git\objects\8c\254ed7061cd79af9435db11a288c482d090831
+- [File] .git\objects\8d\ef8bc2527c8b3ed1049022a586f75acbaee47e
+- [File] .git\objects\8d\f2c178d0b3c8d548d19d453a6e70eb03c052d5
+- [File] .git\objects\98\627adc16c447a9ea693a10ad72bf3fe6331ed2
+- [File] .git\objects\9b\42f10f8d160a55f5518ce4175ce0058b5f6e47
+- [File] .git\objects\a1\ec1b7c27e8be841b143c0141b2cc24a3783cbd
+- [File] .git\objects\a1\f664099fad8d6db2d9882527fe020c8d3cc5f4
+- [File] .git\objects\a3\4c1e4e208186ed55eabee958be2e0ce8d8e75a
+- [File] .git\objects\a5\028f5b3d296229fe09677af6cf4e588f2ff6df
+- [File] .git\objects\a5\9f59e530ee1f74e190e18b3fd3913f4ee92634
+- [File] .git\objects\b0\1f0873555f93bd0bf206d9c4e32045fe12c615
+- [File] .git\objects\b1\45bf2f0f28cef49d0178e1edaaf6f60db35eb2
+- [File] .git\objects\ba\cfdad18970273d7dd97e16a12720f193449f2f
+- [File] .git\objects\bc\3603b653ef4dfd48d518c4f4c5d73627ee9d8a
+- [File] .git\objects\bd\0e8448cf1db94e8daf285c6ba38d981fa07c1c
+- [File] .git\objects\bd\bc52341dac6f103e79cc76eb47349a2af987e1
+- [File] .git\objects\be\465f890ac9d01931dae1a2a99ba9d5bfb4ad02
+- [File] .git\objects\c0\0c1233e6d81c7eec0c9ccc0f22b51aae410f8f
+- [File] .git\objects\c0\55624e57ecebaac0aa2a12d044518f7fdf6483
+- [File] .git\objects\c2\b5d5068a5e84e223ae989039d3f24ce4e9bfde
+- [File] .git\objects\c6\c3d615c0d8a235e9c9fcd60a8221e5d48bff90
+- [File] .git\objects\c8\bdf3787971a78fc551b1a36d62c7029be10f04
+- [File] .git\objects\c8\dc05e4b550ca74bffd7ebd92ed6ee44e873616
+- [File] .git\objects\c9\8000e4e9ef1c27ce933dd9007c579a880d6e1a
+- [File] .git\objects\cc\2951cf6d148263e9188c69ebee4a49e78b799d
+- [File] .git\objects\d0\74d7c1b1eaf17139e49411f7de2fb794219a51
+- [File] .git\objects\d3\76a3c36de2cc2ce907ac6ce7b6679e87d77ec5
+- [File] .git\objects\e2\7918a4214adb8cc1aa1fa76577eb44a46cb651
+- [File] .git\objects\e9\cf3a24ae2bd14b12a826e7517d3303734da11a
+- [File] .git\objects\ea\84e77774f02e758b6927184654b7146ffb46fe
+- [File] .git\objects\ec\acdc42be08badc15e083b8de8934d4277eb6c0
+- [File] .git\objects\f4\067abd01e3a4b92383d857345017847df0692e
+- [File] .git\objects\f6\9917cda1b9bbbaa83b821a7f1304904bf022dd
+- [File] .git\objects\f7\284b89e0e975c6e1433e97a48f276b193e7e90
+- [File] .git\objects\fb\a6bcb93c1655f8875eece0321705a509ff4f51
+- [File] .git\objects\ff\dffbe1d2009419f46c43a75f67505e42f3aec3
+- [Directory] .git\refs\heads
+- [Directory] .git\refs\tags
+- [File] .git\refs\heads\master
+- [File] .git\refs\tags\v1.0-foundation
+- [File] .git\refs\tags\v1.1-documentation
+- [File] .git\refs\tags\v1.3.0
+- [File] 00_FOUNDATION\BACKUP_REPORT.md
+- [File] 00_FOUNDATION\COMMIT_REPORT.md
+- [File] 00_FOUNDATION\COMPANY_PROFILE.md
+- [File] 00_FOUNDATION\CORE_VALUES.md
+- [File] 00_FOUNDATION\DECISION_LOG.md
+- [File] 00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+- [File] 00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+- [File] 00_FOUNDATION\GIT_SETUP_REPORT.txt
+- [File] 00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+- [File] 00_FOUNDATION\MISSION.md
+- [File] 00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+- [File] 00_FOUNDATION\PROJECT_DASHBOARD.md
+- [File] 00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+- [File] 00_FOUNDATION\PROJECT_STATUS.md
+- [File] 00_FOUNDATION\PROJECT_TREE.md
+- [File] 00_FOUNDATION\RELEASE_REPORT.md
+- [File] 00_FOUNDATION\VISION.md
+- [Directory] 02_PROJECTS\FOYDAPRO_X
+- [Directory] 02_PROJECTS\FOYDAPRO_X\00_PRD
+- [Directory] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\02_DATABASE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\03_BACKEND
+- [Directory] 02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+- [Directory] 02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+- [Directory] 02_PROJECTS\FOYDAPRO_X\06_AI
+- [Directory] 02_PROJECTS\FOYDAPRO_X\07_TESTING
+- [Directory] 02_PROJECTS\FOYDAPRO_X\08_RELEASE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\09_ASSETS
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+- [File] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+- [File] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+- [File] 03_DOCUMENTS\CHANGE_CONTROL.md
+- [File] 03_DOCUMENTS\DOCUMENT_STANDARD.md
+- [File] 03_DOCUMENTS\NAMING_CONVENTION.md
+- [File] 04_ENGINEERING\DEVELOPMENT_PROCESS.md
+- [File] 04_ENGINEERING\ENGINEERING_STANDARD.md
+- [File] 04_ENGINEERING\SECURITY_STANDARD.md
+- [File] 06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+- [File] 06_LEGAL\INTELLECTUAL_PROPERTY.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\01_CORPORATE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\05_BRAND
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\07_FINANCE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\08_SECURITY
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\09_RESEARCH
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\10_ARCHIVE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\12_TEMPLATES
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\13_TOOLS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\14_LOGS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION
+- [File] 11_BACKUP\2026-08-03_19-59-55\.gitignore
+- [File] 11_BACKUP\2026-08-03_19-59-55\CHANGELOG.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\VERSION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\COMPANY_PROFILE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\CORE_VALUES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DECISION_LOG.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\GIT_SETUP_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\MISSION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_DASHBOARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_STATUS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_TREE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\VISION.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\02_DATABASE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\03_BACKEND
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\06_AI
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\07_TESTING
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\08_RELEASE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\09_ASSETS
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\CHANGE_CONTROL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\DOCUMENT_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\NAMING_CONVENTION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\ENGINEERING_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\SECURITY_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL\INTELLECTUAL_PROPERTY.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\ISSUES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\RELEASES.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\BACKUP
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\DOCUMENTATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\FOUNDATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GIT
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GOVERNANCE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\PRODUCTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\REPORTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\SECURITY
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\UTILS
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\MODULE_INDEX.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\RUN_ALL.ps1
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\VERIFY_ALL.ps1
+- [File] 15_GITHUB\ISSUES.md
+- [File] 15_GITHUB\README.md
+- [File] 15_GITHUB\RELEASES.md
+- [Directory] 16_AUTOMATION\BACKUP
+- [Directory] 16_AUTOMATION\DOCUMENTATION
+- [Directory] 16_AUTOMATION\FOUNDATION
+- [Directory] 16_AUTOMATION\GIT
+- [Directory] 16_AUTOMATION\GOVERNANCE
+- [Directory] 16_AUTOMATION\PRODUCTS
+- [Directory] 16_AUTOMATION\REPORTS
+- [Directory] 16_AUTOMATION\SECURITY
+- [Directory] 16_AUTOMATION\UTILS
+- [File] 16_AUTOMATION\MODULE_INDEX.md
+- [File] 16_AUTOMATION\README.md
+- [File] 16_AUTOMATION\RUN_ALL.ps1
+- [File] 16_AUTOMATION\VERIFY_ALL.ps1
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_INVENTORY.md =====
+# AFPOS PROJECT INVENTORY
+
+Generated
+
+08/03/2026 20:10:20
+
+======================================
+
+Total Files
+
+120
+
+======================================
+
+Inventory
+
+
+--------------------------------------
+Name      : .gitignore
+Path      : \\.gitignore
+Extension : .gitignore
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:50:00
+SHA256    : 3F65D4D80C2490B85C05846697E9BD7E8BAD13D78A33FE6857C7A9164EEF8814
+
+--------------------------------------
+Name      : BACKUP_REPORT.md
+Path      : \\00_FOUNDATION\BACKUP_REPORT.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 19:59:56
+SHA256    : 6C18857C2A7C43E251199E29144C072E428A8F363CC82771DB2F2549FF052C82
+
+--------------------------------------
+Name      : COMMIT_REPORT.md
+Path      : \\00_FOUNDATION\COMMIT_REPORT.md
+Extension : .md
+Size(KB)  : 0.22
+Modified  : 2026-08-03 20:02:30
+SHA256    : D92D6F56BB2D1C5F9772B8BFF241AFD3A39A38EE62E6834508739E3940F6E9EF
+
+--------------------------------------
+Name      : COMPANY_PROFILE.md
+Path      : \\00_FOUNDATION\COMPANY_PROFILE.md
+Extension : .md
+Size(KB)  : 0.25
+Modified  : 2026-08-03 13:46:38
+SHA256    : F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+--------------------------------------
+Name      : CORE_VALUES.md
+Path      : \\00_FOUNDATION\CORE_VALUES.md
+Extension : .md
+Size(KB)  : 0.18
+Modified  : 2026-08-03 13:46:39
+SHA256    : A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+--------------------------------------
+Name      : DECISION_LOG.md
+Path      : \\00_FOUNDATION\DECISION_LOG.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATION_REPORT.txt
+Path      : \\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:41
+SHA256    : 106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATOR_REPORT.txt
+Path      : \\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.3
+Modified  : 2026-08-03 14:01:58
+SHA256    : BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+--------------------------------------
+Name      : GIT_SETUP_REPORT.txt
+Path      : \\00_FOUNDATION\GIT_SETUP_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.15
+Modified  : 2026-08-03 13:50:01
+SHA256    : E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+--------------------------------------
+Name      : LEADERSHIP_PRINCIPLES.md
+Path      : \\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+--------------------------------------
+Name      : MISSION.md
+Path      : \\00_FOUNDATION\MISSION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:38
+SHA256    : EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+--------------------------------------
+Name      : PROJECT_AUDIT_REPORT.txt
+Path      : \\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+Extension : .txt
+Size(KB)  : 2.35
+Modified  : 2026-08-03 13:43:31
+SHA256    : 7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+--------------------------------------
+Name      : PROJECT_CLEANUP_REPORT.md
+Path      : \\00_FOUNDATION\PROJECT_CLEANUP_REPORT.md
+Extension : .md
+Size(KB)  : 2.26
+Modified  : 2026-08-03 20:06:54
+SHA256    : 9594972FEB9F33E2FE759D1C1A205040BED35F79FBB775BC858C3DDF9144E0F6
+
+--------------------------------------
+Name      : PROJECT_DASHBOARD.md
+Path      : \\00_FOUNDATION\PROJECT_DASHBOARD.md
+Extension : .md
+Size(KB)  : 0.42
+Modified  : 2026-08-03 19:57:14
+SHA256    : 0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+--------------------------------------
+Name      : PROJECT_FINGERPRINT.md
+Path      : \\00_FOUNDATION\PROJECT_FINGERPRINT.md
+Extension : .md
+Size(KB)  : 16.22
+Modified  : 2026-08-03 20:09:42
+SHA256    : 4BF36938EC1D48DE1DADE1B94F0059560D99BDAB36FCABC1F76EC58B3F9EA953
+
+--------------------------------------
+Name      : PROJECT_HEALTH_REPORT.md
+Path      : \\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+Extension : .md
+Size(KB)  : 0.73
+Modified  : 2026-08-03 19:59:25
+SHA256    : 6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+--------------------------------------
+Name      : PROJECT_INDEX.json
+Path      : \\00_FOUNDATION\PROJECT_INDEX.json
+Extension : .json
+Size(KB)  : 81.81
+Modified  : 2026-08-03 20:03:09
+SHA256    : 8DA538750C30E66AD5E49AC922798F7CCED58ADE203656D4FDF7D5DAAB70F83B
+
+--------------------------------------
+Name      : PROJECT_INDEX.md
+Path      : \\00_FOUNDATION\PROJECT_INDEX.md
+Extension : .md
+Size(KB)  : 15.94
+Modified  : 2026-08-03 20:03:31
+SHA256    : 19C2B2D00646D239DF8603DFE5C6CBA7B0531A0515934AFDF88ED8E5068A5116
+
+--------------------------------------
+Name      : PROJECT_MANIFEST.json
+Path      : \\00_FOUNDATION\PROJECT_MANIFEST.json
+Extension : .json
+Size(KB)  : 40.16
+Modified  : 2026-08-03 20:04:06
+SHA256    : 2AA19EC4CD48AAFE6FC3FB1A947EB2C9E83B59EB0CED32CC4F9C119BBB48739F
+
+--------------------------------------
+Name      : PROJECT_MANIFEST.md
+Path      : \\00_FOUNDATION\PROJECT_MANIFEST.md
+Extension : .md
+Size(KB)  : 0.24
+Modified  : 2026-08-03 20:04:07
+SHA256    : 628BF64AC4094F9E83606B8B17FE4D456FE1EB2CD7C68A49CC7BC10DA7C5DF57
+
+--------------------------------------
+Name      : PROJECT_METRICS.md
+Path      : \\00_FOUNDATION\PROJECT_METRICS.md
+Extension : .md
+Size(KB)  : 0.48
+Modified  : 2026-08-03 20:08:29
+SHA256    : FD11FF8A14671EF2585AC3DC6B10C61C296D414E5369A31C0F4A22C0CEBB10BF
+
+--------------------------------------
+Name      : PROJECT_REBUILD_REPORT.md
+Path      : \\00_FOUNDATION\PROJECT_REBUILD_REPORT.md
+Extension : .md
+Size(KB)  : 0.85
+Modified  : 2026-08-03 20:07:24
+SHA256    : 68D1B6851550D768A0227ED1EE7821D2E5DC76666ACCA3E1AA085336A0295F08
+
+--------------------------------------
+Name      : PROJECT_STATUS.md
+Path      : \\00_FOUNDATION\PROJECT_STATUS.md
+Extension : .md
+Size(KB)  : 1.05
+Modified  : 2026-08-03 13:39:21
+SHA256    : 0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+--------------------------------------
+Name      : PROJECT_TREE.md
+Path      : \\00_FOUNDATION\PROJECT_TREE.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 19:58:24
+SHA256    : 3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+--------------------------------------
+Name      : PROJECT_VALIDATION_REPORT.md
+Path      : \\00_FOUNDATION\PROJECT_VALIDATION_REPORT.md
+Extension : .md
+Size(KB)  : 3.3
+Modified  : 2026-08-03 20:06:24
+SHA256    : 1159BE7A0BA06AA3114930433B7F0B4F30E4ACDC3F078BDCDAFAA41517CF670A
+
+--------------------------------------
+Name      : RELEASE_REPORT.md
+Path      : \\00_FOUNDATION\RELEASE_REPORT.md
+Extension : .md
+Size(KB)  : 0.58
+Modified  : 2026-08-03 20:01:19
+SHA256    : 6A521B5D645B1D543650E7425AF1E69EF0CC5F2859DA81A1E74070576E0BB40D
+
+--------------------------------------
+Name      : SELF_AUDIT_REPORT.md
+Path      : \\00_FOUNDATION\SELF_AUDIT_REPORT.md
+Extension : .md
+Size(KB)  : 1.84
+Modified  : 2026-08-03 20:07:54
+SHA256    : 60FBC6E0C19595EDA7E770BE7E60EC7E032C25AC0D7BEEC708D6379148DEFF33
+
+--------------------------------------
+Name      : VISION.md
+Path      : \\00_FOUNDATION\VISION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:39
+SHA256    : 3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+--------------------------------------
+Name      : API_REQUIREMENTS.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 14:01:58
+SHA256    : 6E3261FE3C9469F7BA1BE65C09454F0F3F0E9BD187EFBD363BEC4D015C4BC673
+
+--------------------------------------
+Name      : BUSINESS_MODEL.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+Extension : .md
+Size(KB)  : 0.08
+Modified  : 2026-08-03 14:01:58
+SHA256    : 0FDB1199FF3D44EAEB7F6E31757F1832582B6C7D0FC12C00CFD0153AD18BF61B
+
+--------------------------------------
+Name      : FEATURES.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:40
+SHA256    : BC1699D3C863216ECAE0726C1B5E3BDEB0A3810BF046154E69EF70C38EBA7262
+
+--------------------------------------
+Name      : PRD_MASTER.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:40
+SHA256    : B59FAB21CFEB90503D7C68520ED9142185005025EF7FC6649A798728DFD2C1C7
+
+--------------------------------------
+Name      : ROADMAP.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:40
+SHA256    : 27A051C9E965A30F823B43F92FAD8511DE61131DF5AD2F75CE52355F8DF62D0D
+
+--------------------------------------
+Name      : USER_STORIES.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+Extension : .md
+Size(KB)  : 0.06
+Modified  : 2026-08-03 14:01:58
+SHA256    : 2E66276C180FACB15FB94DA91DD9181C79447CDBF05A944EC8CE6CE2DADB5A68
+
+--------------------------------------
+Name      : SECURITY_MODEL.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+Extension : .md
+Size(KB)  : 0.18
+Modified  : 2026-08-03 13:46:41
+SHA256    : 433DC2EBDE7562BF056170BADAA004D46F1FF41098E6670D74B1DFC614ECD757
+
+--------------------------------------
+Name      : SYSTEM_ARCHITECTURE.md
+Path      : \\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:41
+SHA256    : 3A7F750C41DEC72308250F1BB0DDFFAB643C81A0882E2A33A56B205608670D06
+
+--------------------------------------
+Name      : CHANGE_CONTROL.md
+Path      : \\03_DOCUMENTS\CHANGE_CONTROL.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : 8093F3A11DA7054450F6D451E46F433989A6ABBFBA47CEEFB5701137C1664EB1
+
+--------------------------------------
+Name      : DOCUMENT_STANDARD.md
+Path      : \\03_DOCUMENTS\DOCUMENT_STANDARD.md
+Extension : .md
+Size(KB)  : 0.13
+Modified  : 2026-08-03 14:01:58
+SHA256    : B378FEB987B1228F2D5E6076A78DB75CEFDECC2427E32D502F380CF0A2AFCFC4
+
+--------------------------------------
+Name      : NAMING_CONVENTION.md
+Path      : \\03_DOCUMENTS\NAMING_CONVENTION.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : 60821E4059340DCF1CDB222D18FC6D0A95FC24050B2B1F13757C6BC0771166BF
+
+--------------------------------------
+Name      : DEVELOPMENT_PROCESS.md
+Path      : \\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+Extension : .md
+Size(KB)  : 0.11
+Modified  : 2026-08-03 14:01:58
+SHA256    : E4FF52563E8AE4463DE1E5FD076D1555F7CD1C8A9E19C0E4F6043692B988CF86
+
+--------------------------------------
+Name      : ENGINEERING_STANDARD.md
+Path      : \\04_ENGINEERING\ENGINEERING_STANDARD.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : 9951D5B8B2E5775B35A304C4F2BE1174239C1B936E848A0CA04E3CFE3344BA20
+
+--------------------------------------
+Name      : SECURITY_STANDARD.md
+Path      : \\04_ENGINEERING\SECURITY_STANDARD.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : E260EE27EFF8D4A8EC6BD13C346EE558BF3E14EA98A194BB03D1CC2B690850AC
+
+--------------------------------------
+Name      : COMPANY_LEGAL_STRUCTURE.md
+Path      : \\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : 66ABF887D02B09FB7550EFD0CE6EBDC579C1463E3537BCA0D469C3661858D71F
+
+--------------------------------------
+Name      : INTELLECTUAL_PROPERTY.md
+Path      : \\06_LEGAL\INTELLECTUAL_PROPERTY.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : F1FE3903EB592E7724353B03A807EAC6D5145C09FB6E93E94D4857F648A27C46
+
+--------------------------------------
+Name      : BACKUP_REPORT.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\BACKUP_REPORT.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 19:59:56
+SHA256    : 6C18857C2A7C43E251199E29144C072E428A8F363CC82771DB2F2549FF052C82
+
+--------------------------------------
+Name      : COMMIT_REPORT.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMMIT_REPORT.md
+Extension : .md
+Size(KB)  : 0.22
+Modified  : 2026-08-03 20:02:30
+SHA256    : D92D6F56BB2D1C5F9772B8BFF241AFD3A39A38EE62E6834508739E3940F6E9EF
+
+--------------------------------------
+Name      : COMPANY_PROFILE.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMPANY_PROFILE.md
+Extension : .md
+Size(KB)  : 0.25
+Modified  : 2026-08-03 13:46:38
+SHA256    : F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+--------------------------------------
+Name      : CORE_VALUES.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\CORE_VALUES.md
+Extension : .md
+Size(KB)  : 0.18
+Modified  : 2026-08-03 13:46:39
+SHA256    : A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+--------------------------------------
+Name      : DECISION_LOG.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DECISION_LOG.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATION_REPORT.txt
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:41
+SHA256    : 106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATOR_REPORT.txt
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.3
+Modified  : 2026-08-03 14:01:58
+SHA256    : BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+--------------------------------------
+Name      : GIT_SETUP_REPORT.txt
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\GIT_SETUP_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.15
+Modified  : 2026-08-03 13:50:01
+SHA256    : E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+--------------------------------------
+Name      : LEADERSHIP_PRINCIPLES.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+--------------------------------------
+Name      : MISSION.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\MISSION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:38
+SHA256    : EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+--------------------------------------
+Name      : PROJECT_AUDIT_REPORT.txt
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+Extension : .txt
+Size(KB)  : 2.35
+Modified  : 2026-08-03 13:43:31
+SHA256    : 7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+--------------------------------------
+Name      : PROJECT_DASHBOARD.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_DASHBOARD.md
+Extension : .md
+Size(KB)  : 0.42
+Modified  : 2026-08-03 19:57:14
+SHA256    : 0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+--------------------------------------
+Name      : PROJECT_HEALTH_REPORT.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+Extension : .md
+Size(KB)  : 0.73
+Modified  : 2026-08-03 19:59:25
+SHA256    : 6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+--------------------------------------
+Name      : PROJECT_INDEX.json
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_INDEX.json
+Extension : .json
+Size(KB)  : 81.81
+Modified  : 2026-08-03 20:03:09
+SHA256    : 8DA538750C30E66AD5E49AC922798F7CCED58ADE203656D4FDF7D5DAAB70F83B
+
+--------------------------------------
+Name      : PROJECT_INDEX.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_INDEX.md
+Extension : .md
+Size(KB)  : 15.94
+Modified  : 2026-08-03 20:03:31
+SHA256    : 19C2B2D00646D239DF8603DFE5C6CBA7B0531A0515934AFDF88ED8E5068A5116
+
+--------------------------------------
+Name      : PROJECT_MANIFEST.json
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_MANIFEST.json
+Extension : .json
+Size(KB)  : 40.16
+Modified  : 2026-08-03 20:04:06
+SHA256    : 2AA19EC4CD48AAFE6FC3FB1A947EB2C9E83B59EB0CED32CC4F9C119BBB48739F
+
+--------------------------------------
+Name      : PROJECT_MANIFEST.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_MANIFEST.md
+Extension : .md
+Size(KB)  : 0.24
+Modified  : 2026-08-03 20:04:07
+SHA256    : 628BF64AC4094F9E83606B8B17FE4D456FE1EB2CD7C68A49CC7BC10DA7C5DF57
+
+--------------------------------------
+Name      : PROJECT_STATUS.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_STATUS.md
+Extension : .md
+Size(KB)  : 1.05
+Modified  : 2026-08-03 13:39:21
+SHA256    : 0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+--------------------------------------
+Name      : PROJECT_TREE.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_TREE.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 19:58:24
+SHA256    : 3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+--------------------------------------
+Name      : RELEASE_REPORT.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\RELEASE_REPORT.md
+Extension : .md
+Size(KB)  : 0.58
+Modified  : 2026-08-03 20:01:19
+SHA256    : 6A521B5D645B1D543650E7425AF1E69EF0CC5F2859DA81A1E74070576E0BB40D
+
+--------------------------------------
+Name      : VISION.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\VISION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:39
+SHA256    : 3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+--------------------------------------
+Name      : CHANGELOG.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\CHANGELOG.md
+Extension : .md
+Size(KB)  : 0.26
+Modified  : 2026-08-03 20:00:34
+SHA256    : CEB3F6ABBB85AAA7C6AB254B94F500BEF382792F59387250689029B988F8AEC9
+
+--------------------------------------
+Name      : README.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\README.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:26:18
+SHA256    : 720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+--------------------------------------
+Name      : SNAPSHOT_INFO.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\SNAPSHOT_INFO.md
+Extension : .md
+Size(KB)  : 0.25
+Modified  : 2026-08-03 20:04:40
+SHA256    : B8B5CF6B4F74F64A18300AA062FFC3ED6687DFC7D7314AC10858E79747396CE0
+
+--------------------------------------
+Name      : VERSION.md
+Path      : \\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\VERSION.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 20:00:34
+SHA256    : FEDA1244ACBB9D9ED9EE33B96CA3B644CA09C0CF666149C959A941D0A7372413
+
+--------------------------------------
+Name      : .gitignore
+Path      : \\11_BACKUP\2026-08-03_19-59-55\.gitignore
+Extension : .gitignore
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:50:00
+SHA256    : 3F65D4D80C2490B85C05846697E9BD7E8BAD13D78A33FE6857C7A9164EEF8814
+
+--------------------------------------
+Name      : COMPANY_PROFILE.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\COMPANY_PROFILE.md
+Extension : .md
+Size(KB)  : 0.25
+Modified  : 2026-08-03 13:46:38
+SHA256    : F66680FE4DE9CE1AC82C7EFBA83D6979B7EBEBBAD72247AA3B1D162772CB3ACE
+
+--------------------------------------
+Name      : CORE_VALUES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\CORE_VALUES.md
+Extension : .md
+Size(KB)  : 0.18
+Modified  : 2026-08-03 13:46:39
+SHA256    : A3EE3096248E2AD7F9C9648A821A2A168AE96369BC4E2E1F6BCE32D7B9E20AC3
+
+--------------------------------------
+Name      : DECISION_LOG.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DECISION_LOG.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 9B611F68D6FE7CC4A5B5C4F091CCB16F37DB2B5ECD29C39992B5CCBE9895DC94
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATION_REPORT.txt
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:41
+SHA256    : 106EB0275C901E704E221AE485E66D5493F4A8BE8A11F94D814FDA1431C8A547
+
+--------------------------------------
+Name      : DOCUMENTATION_GENERATOR_REPORT.txt
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.3
+Modified  : 2026-08-03 14:01:58
+SHA256    : BBB172624282BDB0B2D4DDA788FB3C09ACA22EF9D670EE1384ADF63D41450400
+
+--------------------------------------
+Name      : GIT_SETUP_REPORT.txt
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\GIT_SETUP_REPORT.txt
+Extension : .txt
+Size(KB)  : 0.15
+Modified  : 2026-08-03 13:50:01
+SHA256    : E4B15D697FC9793835CCFDEC22F27D563498DF94053C9A7C763C729560FC3F6E
+
+--------------------------------------
+Name      : LEADERSHIP_PRINCIPLES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:39
+SHA256    : 031FBD021A906AAC681A8A5D35D816C9210BE68D316CB366B45D07813E825A22
+
+--------------------------------------
+Name      : MISSION.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\MISSION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:38
+SHA256    : EA7074A781F1DB3071A692DA9F78F0940C7C9200E26B9B616D6B6032E913E00F
+
+--------------------------------------
+Name      : PROJECT_AUDIT_REPORT.txt
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+Extension : .txt
+Size(KB)  : 2.35
+Modified  : 2026-08-03 13:43:31
+SHA256    : 7C5DDAA7810984F15003F83006FD885ABE0E2622B61040A2BB1BA60850EEB886
+
+--------------------------------------
+Name      : PROJECT_DASHBOARD.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_DASHBOARD.md
+Extension : .md
+Size(KB)  : 0.42
+Modified  : 2026-08-03 19:57:14
+SHA256    : 0773E1247E35ED3DCF733A6B4F26EC7E1B6D0B7E003A471AD23C987C1D76C5BA
+
+--------------------------------------
+Name      : PROJECT_HEALTH_REPORT.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+Extension : .md
+Size(KB)  : 0.73
+Modified  : 2026-08-03 19:59:25
+SHA256    : 6758B43C802DE99B2B24A329956EE2EE6CBE20B37776405245877AA7854CEFAF
+
+--------------------------------------
+Name      : PROJECT_STATUS.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_STATUS.md
+Extension : .md
+Size(KB)  : 1.05
+Modified  : 2026-08-03 13:39:21
+SHA256    : 0867D6FA39CB71FE5BDB1D4428FA9C138A63A4C76EBDA661071665291C8088BE
+
+--------------------------------------
+Name      : PROJECT_TREE.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_TREE.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 19:58:24
+SHA256    : 3A7A8E1378B8B49658832858D299738DF767E37B7E25294595923D4DCC4B129D
+
+--------------------------------------
+Name      : VISION.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\VISION.md
+Extension : .md
+Size(KB)  : 0.2
+Modified  : 2026-08-03 13:46:39
+SHA256    : 3A00DB3B24B2EC00509934B6348E8223D930F2FFD23B5C7074392B47AA2A80EC
+
+--------------------------------------
+Name      : API_REQUIREMENTS.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 14:01:58
+SHA256    : 6E3261FE3C9469F7BA1BE65C09454F0F3F0E9BD187EFBD363BEC4D015C4BC673
+
+--------------------------------------
+Name      : BUSINESS_MODEL.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+Extension : .md
+Size(KB)  : 0.08
+Modified  : 2026-08-03 14:01:58
+SHA256    : 0FDB1199FF3D44EAEB7F6E31757F1832582B6C7D0FC12C00CFD0153AD18BF61B
+
+--------------------------------------
+Name      : FEATURES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:40
+SHA256    : BC1699D3C863216ECAE0726C1B5E3BDEB0A3810BF046154E69EF70C38EBA7262
+
+--------------------------------------
+Name      : PRD_MASTER.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:40
+SHA256    : B59FAB21CFEB90503D7C68520ED9142185005025EF7FC6649A798728DFD2C1C7
+
+--------------------------------------
+Name      : ROADMAP.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 13:46:40
+SHA256    : 27A051C9E965A30F823B43F92FAD8511DE61131DF5AD2F75CE52355F8DF62D0D
+
+--------------------------------------
+Name      : USER_STORIES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+Extension : .md
+Size(KB)  : 0.06
+Modified  : 2026-08-03 14:01:58
+SHA256    : 2E66276C180FACB15FB94DA91DD9181C79447CDBF05A944EC8CE6CE2DADB5A68
+
+--------------------------------------
+Name      : SECURITY_MODEL.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+Extension : .md
+Size(KB)  : 0.18
+Modified  : 2026-08-03 13:46:41
+SHA256    : 433DC2EBDE7562BF056170BADAA004D46F1FF41098E6670D74B1DFC614ECD757
+
+--------------------------------------
+Name      : SYSTEM_ARCHITECTURE.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+Extension : .md
+Size(KB)  : 0.19
+Modified  : 2026-08-03 13:46:41
+SHA256    : 3A7F750C41DEC72308250F1BB0DDFFAB643C81A0882E2A33A56B205608670D06
+
+--------------------------------------
+Name      : CHANGE_CONTROL.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\CHANGE_CONTROL.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : 8093F3A11DA7054450F6D451E46F433989A6ABBFBA47CEEFB5701137C1664EB1
+
+--------------------------------------
+Name      : DOCUMENT_STANDARD.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\DOCUMENT_STANDARD.md
+Extension : .md
+Size(KB)  : 0.13
+Modified  : 2026-08-03 14:01:58
+SHA256    : B378FEB987B1228F2D5E6076A78DB75CEFDECC2427E32D502F380CF0A2AFCFC4
+
+--------------------------------------
+Name      : NAMING_CONVENTION.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\NAMING_CONVENTION.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : 60821E4059340DCF1CDB222D18FC6D0A95FC24050B2B1F13757C6BC0771166BF
+
+--------------------------------------
+Name      : DEVELOPMENT_PROCESS.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+Extension : .md
+Size(KB)  : 0.11
+Modified  : 2026-08-03 14:01:58
+SHA256    : E4FF52563E8AE4463DE1E5FD076D1555F7CD1C8A9E19C0E4F6043692B988CF86
+
+--------------------------------------
+Name      : ENGINEERING_STANDARD.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\ENGINEERING_STANDARD.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : 9951D5B8B2E5775B35A304C4F2BE1174239C1B936E848A0CA04E3CFE3344BA20
+
+--------------------------------------
+Name      : SECURITY_STANDARD.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\SECURITY_STANDARD.md
+Extension : .md
+Size(KB)  : 0.1
+Modified  : 2026-08-03 14:01:58
+SHA256    : E260EE27EFF8D4A8EC6BD13C346EE558BF3E14EA98A194BB03D1CC2B690850AC
+
+--------------------------------------
+Name      : COMPANY_LEGAL_STRUCTURE.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : 66ABF887D02B09FB7550EFD0CE6EBDC579C1463E3537BCA0D469C3661858D71F
+
+--------------------------------------
+Name      : INTELLECTUAL_PROPERTY.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\INTELLECTUAL_PROPERTY.md
+Extension : .md
+Size(KB)  : 0.09
+Modified  : 2026-08-03 14:01:58
+SHA256    : F1FE3903EB592E7724353B03A807EAC6D5145C09FB6E93E94D4857F648A27C46
+
+--------------------------------------
+Name      : ISSUES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\ISSUES.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 13:50:00
+SHA256    : FBCE7DDFD869DDD04E2E4D74A745537CB8F91DF2E6BE7FD7492C0E71ACFFBF11
+
+--------------------------------------
+Name      : README.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\README.md
+Extension : .md
+Size(KB)  : 0.11
+Modified  : 2026-08-03 13:50:00
+SHA256    : 6178889A66A7662A9E444736A528461A95310B5B2CD4C51D7904084832B43752
+
+--------------------------------------
+Name      : RELEASES.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\RELEASES.md
+Extension : .md
+Size(KB)  : 0.04
+Modified  : 2026-08-03 13:50:01
+SHA256    : FF36C2AC15A98A3A2AC2F605D601E01E5E85294E3141CC946A9E4E80BDAC7586
+
+--------------------------------------
+Name      : MODULE_INDEX.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\MODULE_INDEX.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 19:52:26
+SHA256    : C18146D7BA51C7A16E002CDBFA02A180991227F6B3552127E6817682FEBE38DC
+
+--------------------------------------
+Name      : README.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\README.md
+Extension : .md
+Size(KB)  : 0.15
+Modified  : 2026-08-03 19:52:26
+SHA256    : B4EB0115565ABAA928927818F128AECD9DB921451863421B3DAFFA323F6A99DC
+
+--------------------------------------
+Name      : RUN_ALL.ps1
+Path      : \\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\RUN_ALL.ps1
+Extension : .ps1
+Size(KB)  : 0.04
+Modified  : 2026-08-03 19:52:26
+SHA256    : 15615D0267E6ECDAEB91E084AEAEF875FC25CEB15920F08CD051EB881CD80CB4
+
+--------------------------------------
+Name      : VERIFY_ALL.ps1
+Path      : \\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\VERIFY_ALL.ps1
+Extension : .ps1
+Size(KB)  : 0.04
+Modified  : 2026-08-03 19:52:26
+SHA256    : 35B8E5EC518A4391BA2CA699A757C8D936BA8B3FB344057FA04792C49B658824
+
+--------------------------------------
+Name      : CHANGELOG.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\CHANGELOG.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:50:00
+SHA256    : 05F67B71E742CB9AD5EF48EE4D0AB954676EDD50433A0A48F55169BF3938259E
+
+--------------------------------------
+Name      : README.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\README.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:26:18
+SHA256    : 720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+--------------------------------------
+Name      : VERSION.md
+Path      : \\11_BACKUP\2026-08-03_19-59-55\VERSION.md
+Extension : .md
+Size(KB)  : 0.08
+Modified  : 2026-08-03 13:50:00
+SHA256    : D9F89D645182348A1CC6FCFB815FF498B5536875D597021AB55E7FB1FBD40F03
+
+--------------------------------------
+Name      : ISSUES.md
+Path      : \\15_GITHUB\ISSUES.md
+Extension : .md
+Size(KB)  : 0.05
+Modified  : 2026-08-03 13:50:00
+SHA256    : FBCE7DDFD869DDD04E2E4D74A745537CB8F91DF2E6BE7FD7492C0E71ACFFBF11
+
+--------------------------------------
+Name      : README.md
+Path      : \\15_GITHUB\README.md
+Extension : .md
+Size(KB)  : 0.11
+Modified  : 2026-08-03 13:50:00
+SHA256    : 6178889A66A7662A9E444736A528461A95310B5B2CD4C51D7904084832B43752
+
+--------------------------------------
+Name      : RELEASES.md
+Path      : \\15_GITHUB\RELEASES.md
+Extension : .md
+Size(KB)  : 0.04
+Modified  : 2026-08-03 13:50:01
+SHA256    : FF36C2AC15A98A3A2AC2F605D601E01E5E85294E3141CC946A9E4E80BDAC7586
+
+--------------------------------------
+Name      : MODULE_INDEX.md
+Path      : \\16_AUTOMATION\MODULE_INDEX.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 19:52:26
+SHA256    : C18146D7BA51C7A16E002CDBFA02A180991227F6B3552127E6817682FEBE38DC
+
+--------------------------------------
+Name      : README.md
+Path      : \\16_AUTOMATION\README.md
+Extension : .md
+Size(KB)  : 0.15
+Modified  : 2026-08-03 19:52:26
+SHA256    : B4EB0115565ABAA928927818F128AECD9DB921451863421B3DAFFA323F6A99DC
+
+--------------------------------------
+Name      : RUN_ALL.ps1
+Path      : \\16_AUTOMATION\RUN_ALL.ps1
+Extension : .ps1
+Size(KB)  : 0.04
+Modified  : 2026-08-03 19:52:26
+SHA256    : 15615D0267E6ECDAEB91E084AEAEF875FC25CEB15920F08CD051EB881CD80CB4
+
+--------------------------------------
+Name      : VERIFY_ALL.ps1
+Path      : \\16_AUTOMATION\VERIFY_ALL.ps1
+Extension : .ps1
+Size(KB)  : 0.04
+Modified  : 2026-08-03 19:52:26
+SHA256    : 35B8E5EC518A4391BA2CA699A757C8D936BA8B3FB344057FA04792C49B658824
+
+--------------------------------------
+Name      : CHANGELOG.md
+Path      : \\CHANGELOG.md
+Extension : .md
+Size(KB)  : 0.26
+Modified  : 2026-08-03 20:00:34
+SHA256    : CEB3F6ABBB85AAA7C6AB254B94F500BEF382792F59387250689029B988F8AEC9
+
+--------------------------------------
+Name      : README.md
+Path      : \\README.md
+Extension : .md
+Size(KB)  : 0.12
+Modified  : 2026-08-03 13:26:18
+SHA256    : 720A448D1BE7D4A67852C1B6E9FD81A0B45DAD73146BD577D270FB43A27852A3
+
+--------------------------------------
+Name      : VERSION.md
+Path      : \\VERSION.md
+Extension : .md
+Size(KB)  : 0.17
+Modified  : 2026-08-03 20:00:34
+SHA256    : FEDA1244ACBB9D9ED9EE33B96CA3B644CA09C0CF666149C959A941D0A7372413
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_MANIFEST.md =====
+# PROJECT MANIFEST
+
+Generated : 08/03/2026 20:04:06
+
+Folders : 74
+Files   : 87
+
+## File Types
+- .md : 72
+- .txt : 8
+- .ps1 : 4
+- .gitignore : 2
+- .json : 1
+
+Manifest :
+E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_MANIFEST.json
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_METRICS.md =====
+# AFPOS PROJECT METRICS
+
+Generated
+08/03/2026 20:08:29
+
+====================================
+
+Folders
+94
+
+Files
+118
+
+Markdown
+96
+
+PowerShell
+4
+
+JSON
+4
+
+Text
+12
+
+====================================
+
+Estimated Lines
+
+10330
+
+====================================
+
+Repository Size (MB)
+
+0.31
+
+====================================
+
+Git Branch
+
+master
+
+Commits
+
+3
+
+Tags
+
+3
+
+====================================
+
+Health Score
+
+100 / 100
+
+====================================
+
+Status
+
+HEALTHY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_REBUILD_REPORT.md =====
+# AFPOS PROJECT REBUILD REPORT
+
+Generated
+
+08/03/2026 20:07:24
+
+====================================
+
+Created
+
+16
+
+01_CORPORATE
+02_PROJECTS\FOYDAPRO_X\02_DATABASE
+02_PROJECTS\FOYDAPRO_X\03_BACKEND
+02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+02_PROJECTS\FOYDAPRO_X\06_AI
+02_PROJECTS\FOYDAPRO_X\07_TESTING
+02_PROJECTS\FOYDAPRO_X\08_RELEASE
+02_PROJECTS\FOYDAPRO_X\09_ASSETS
+05_BRAND
+07_FINANCE
+08_SECURITY
+09_RESEARCH
+12_TEMPLATES
+13_TOOLS
+14_LOGS
+
+====================================
+
+Already Existing
+
+14
+
+00_FOUNDATION
+02_PROJECTS
+02_PROJECTS\FOYDAPRO_X
+02_PROJECTS\FOYDAPRO_X\00_PRD
+02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+03_DOCUMENTS
+04_ENGINEERING
+06_LEGAL
+10_ARCHIVE
+10_ARCHIVE\SNAPSHOTS
+10_ARCHIVE\EMPTY_DIRECTORIES
+11_BACKUP
+15_GITHUB
+16_AUTOMATION
+
+====================================
+
+Result
+
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_STATUS.md =====
+# AKBARSHOH FUTURE MChJ
+## PROJECT STATUS DOCUMENT
+
+---
+
+## Loyiha
+
+**Kompaniya:**
+AKBARSHOH FUTURE MChJ
+
+**Asosiy mahsulot:**
+FOYDAPRO X
+
+**Hujjat turi:**
+Project Continuation Status
+
+**Versiya:**
+1.0
+
+**Holat:**
+ACTIVE
+
+---
+
+# Ishlash tamoyillari
+
+1. Avval tahlil.
+2. Keyin arxitektura.
+3. Keyin ishlab chiqish.
+4. Har bir qaror hujjatlashtiriladi.
+5. Imkon qadar qayta ishlashni kamaytirish.
+
+---
+
+# Workspace
+
+Asosiy yo'l:
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+# Bajarilgan ishlar
+
+[OK] AKBARSHOH FUTURE Workspace yaratildi.
+
+[OK] Asosiy papkalar yaratildi.
+
+[OK] FOYDAPRO X loyiha skeleti yaratildi.
+
+[OK] 15_GITHUB strukturasi rejalashtirildi.
+
+---
+
+# Joriy bosqich
+
+Foundation Sprint-001
+
+---
+
+# Keyingi vazifa
+
+AFDT-001
+
+AKBARSHOH FUTURE Developer Toolkit
+
+Birinchi modul:
+
+AF-INIT.ps1
+
+Maqsad:
+
+Kompaniya strukturasi va loyihalarni avtomatik yaratuvchi PowerShell vositasini ishlab chiqish.
+
+---
+
+# Sessiya davomiyligi
+
+Bu hujjat yangi chat yoki yangi ish sessiyasida loyihani davom ettirish uchun asosiy manba hisoblanadi.
+
+---
+
+# Status
+
+ACTIVE
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_TREE.md =====
+# PROJECT TREE
+
+Generated : 2026-08-03 19:58:24
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_VALIDATION_REPORT.md =====
+# AFPOS PROJECT VALIDATION REPORT
+
+Generated:
+08/03/2026 20:06:24
+
+==================================
+
+Folders : 77
+
+Files : 114
+
+Git Branch : master
+
+Commits : 3
+
+Tags : 3
+
+==================================
+
+ERRORS
+
+
+
+==================================
+
+WARNINGS
+
+
+
+==================================
+
+EMPTY DIRECTORIES
+
+E:\AKBARSHOH_FUTURE\01_CORPORATE
+E:\AKBARSHOH_FUTURE\05_BRAND
+E:\AKBARSHOH_FUTURE\07_FINANCE
+E:\AKBARSHOH_FUTURE\08_SECURITY
+E:\AKBARSHOH_FUTURE\09_RESEARCH
+E:\AKBARSHOH_FUTURE\12_TEMPLATES
+E:\AKBARSHOH_FUTURE\13_TOOLS
+E:\AKBARSHOH_FUTURE\14_LOGS
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\02_DATABASE
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\03_BACKEND
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\06_AI
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\07_TESTING
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\08_RELEASE
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\09_ASSETS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\01_CORPORATE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\05_BRAND
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\07_FINANCE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\08_SECURITY
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\09_RESEARCH
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\10_ARCHIVE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\12_TEMPLATES
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\13_TOOLS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\14_LOGS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\02_DATABASE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\03_BACKEND
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\06_AI
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\07_TESTING
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\08_RELEASE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\09_ASSETS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\BACKUP
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\DOCUMENTATION
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\FOUNDATION
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GIT
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GOVERNANCE
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\PRODUCTS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\REPORTS
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\SECURITY
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\UTILS
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\BACKUP
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\DOCUMENTATION
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\FOUNDATION
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\GIT
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\GOVERNANCE
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\PRODUCTS
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\REPORTS
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\SECURITY
+E:\AKBARSHOH_FUTURE\16_AUTOMATION\UTILS
+
+==================================
+
+Validation Result
+
+PASS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\RELEASE_REPORT.md =====
+# AFPOS RELEASE REPORT
+
+Generated
+
+08/03/2026 20:01:19
+
+====================================
+
+Release Status
+
+READY
+
+====================================
+
+Git Branch
+
+master
+
+Commits
+
+2
+
+Latest Tag
+
+v1.1-documentation
+
+====================================
+
+Project Statistics
+
+Folders : 74
+
+Files : 83
+
+Size(MB) : 0.02
+
+====================================
+
+Required Reports
+
+Dashboard : True
+
+Tree : True
+
+Health : True
+
+Backup : True
+
+Version : True
+
+Changelog : True
+
+====================================
+
+Missing Files
+
+
+
+====================================
+
+Release Decision
+
+READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\REVENUE_INTELLIGENCE_REPORT.md =====
+# AFPOS REVENUE INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:20:27
+
+================================================
+
+REVENUE SCORE
+
+85 /100
+
+
+LEVEL
+
+MONETIZATION READY
+
+
+================================================
+
+ANALYSIS
+
+
+
+Product Monetization
+
+Status:
+READY
+
+Score:
+20
+
+Recommended Action:
+Premium va pullik funksiyalarni ishga tushirish
+
+-----------------------------
+ 
+Advertising Revenue
+
+Status:
+READY
+
+Score:
+20
+
+Recommended Action:
+Reklama platformasini monetizatsiya qilish
+
+-----------------------------
+ 
+Payment Infrastructure
+
+Status:
+NEEDS WORK
+
+Score:
+5
+
+Recommended Action:
+To'lov arxitekturasini tayyorlash
+
+-----------------------------
+ 
+User Growth System
+
+Status:
+READY
+
+Score:
+20
+
+Recommended Action:
+Referral va acquisition kuchaytirish
+
+-----------------------------
+ 
+Brand Sales System
+
+Status:
+READY
+
+Score:
+20
+
+Recommended Action:
+Marketing funnel yaratish
+
+-----------------------------
+
+
+
+================================================
+
+30 DAY REVENUE ROADMAP
+
+
+WEEK 1
+
+- Monetization model finalizatsiyasi
+- Tariflar tayyorlash
+
+
+WEEK 2
+
+- Payment flow
+- Premium funksiyalar
+
+
+WEEK 3
+
+- Marketing funnel
+- User acquisition
+
+
+WEEK 4
+
+- First revenue testing
+
+
+================================================
+
+STATUS
+
+REVENUE ANALYSIS COMPLETE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\RISK_INTELLIGENCE_REPORT.md =====
+# AFPOS RISK INTELLIGENCE REPORT
+
+Generated:
+
+08/03/2026 20:31:43
+
+================================================
+
+RISK SCORE
+
+100 /100
+
+
+LEVEL:
+
+LOW RISK - ENTERPRISE SAFE
+
+
+================================================
+
+RISK ANALYSIS
+
+
+
+Technical Risk Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Kod va avtomatlashtirish nazoratda
+
+------------------------------
+ 
+Data Protection Risk
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Backup va restore mavjud
+
+------------------------------
+ 
+Business Risk Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Biznes yo'nalishi nazoratda
+
+------------------------------
+ 
+Security Risk Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Xavfsizlik nazoratda
+
+------------------------------
+ 
+Growth Risk Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+O'sish tizimi kuzatuvda
+
+------------------------------
+
+
+
+================================================
+
+RISK MANAGEMENT PLAN
+
+
+1. Monitor technical stability
+
+2. Protect important data
+
+3. Control business risks
+
+4. Maintain security
+
+5. Track growth risks
+
+
+================================================
+
+AI RISK MONITOR
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\SECURITY_CHECK_REPORT.md =====
+# AFPOS SECURITY CHECK REPORT
+
+Generated
+
+08/03/2026 20:12:30
+
+====================================
+
+Sensitive Files Found
+
+0
+
+
+
+====================================
+
+Gitignore
+
+True
+
+====================================
+
+Untracked Files
+
+15
+
+?? 00_FOUNDATION/BACKUP_VERIFICATION_REPORT.md
+?? 00_FOUNDATION/COMMIT_REPORT.md
+?? 00_FOUNDATION/PROJECT_CLEANUP_REPORT.md
+?? 00_FOUNDATION/PROJECT_FINGERPRINT.md
+?? 00_FOUNDATION/PROJECT_INDEX.json
+?? 00_FOUNDATION/PROJECT_INDEX.md
+?? 00_FOUNDATION/PROJECT_INVENTORY.json
+?? 00_FOUNDATION/PROJECT_INVENTORY.md
+?? 00_FOUNDATION/PROJECT_MANIFEST.json
+?? 00_FOUNDATION/PROJECT_MANIFEST.md
+?? 00_FOUNDATION/PROJECT_METRICS.md
+?? 00_FOUNDATION/PROJECT_REBUILD_REPORT.md
+?? 00_FOUNDATION/PROJECT_VALIDATION_REPORT.md
+?? 00_FOUNDATION/SELF_AUDIT_REPORT.md
+?? 10_ARCHIVE/
+
+====================================
+
+Security Result
+
+SECURE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\SELF_AUDIT_REPORT.md =====
+# AFPOS SELF AUDIT REPORT
+
+Generated
+
+08/03/2026 20:07:54
+
+==================================================
+
+GENERAL
+
+Folders : 94
+
+Files : 117
+
+Size(MB) : 0.3
+
+==================================================
+
+GIT
+
+Branch : master
+
+Commits : 3
+
+Tags : 3
+
+Last Commit
+
+bacfdad - AFPOS-012: Dashboard, Tree, Health, Backup, Release va Automation tizimi qo'shildi
+
+==================================================
+
+EMPTY FILES
+
+Count : 0
+
+
+
+==================================================
+
+LARGE FILES (>5MB)
+
+Count : 0
+
+
+
+==================================================
+
+DUPLICATE FILE NAMES
+
+Count : 46
+
+.gitignore (2x) CHANGELOG.md (3x) README.md (7x) VERSION.md (3x) BACKUP_REPORT.md (2x) COMMIT_REPORT.md (2x) COMPANY_PROFILE.md (3x) CORE_VALUES.md (3x) DECISION_LOG.md (3x) DOCUMENTATION_GENERATION_REPORT.txt (3x) DOCUMENTATION_GENERATOR_REPORT.txt (3x) GIT_SETUP_REPORT.txt (3x) LEADERSHIP_PRINCIPLES.md (3x) MISSION.md (3x) PROJECT_AUDIT_REPORT.txt (3x) PROJECT_DASHBOARD.md (3x) PROJECT_HEALTH_REPORT.md (3x) PROJECT_INDEX.json (2x) PROJECT_INDEX.md (2x) PROJECT_MANIFEST.json (2x) PROJECT_MANIFEST.md (2x) PROJECT_STATUS.md (3x) PROJECT_TREE.md (3x) RELEASE_REPORT.md (2x) VISION.md (3x) API_REQUIREMENTS.md (2x) BUSINESS_MODEL.md (2x) FEATURES.md (2x) PRD_MASTER.md (2x) ROADMAP.md (2x) USER_STORIES.md (2x) SECURITY_MODEL.md (2x) SYSTEM_ARCHITECTURE.md (2x) CHANGE_CONTROL.md (2x) DOCUMENT_STANDARD.md (2x) NAMING_CONVENTION.md (2x) DEVELOPMENT_PROCESS.md (2x) ENGINEERING_STANDARD.md (2x) SECURITY_STANDARD.md (2x) COMPANY_LEGAL_STRUCTURE.md (2x) INTELLECTUAL_PROPERTY.md (2x) ISSUES.md (2x) RELEASES.md (2x) MODULE_INDEX.md (2x) RUN_ALL.ps1 (2x) VERIFY_ALL.ps1 (2x)
+
+==================================================
+
+FILE TYPES
+
+.md : 95 .txt : 12 .json : 4 .ps1 : 4 .gitignore : 2
+
+==================================================
+
+RESULT
+
+PASS
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\SELF_LEARNING_REPORT.md =====
+# AFPOS SELF LEARNING REPORT
+
+Generated:
+
+08/03/2026 20:37:30
+
+================================================
+
+LEARNING SCORE
+
+100 /100
+
+
+LEVEL:
+
+SELF LEARNING AI ACTIVE
+
+
+================================================
+
+LEARNING ANALYSIS
+
+
+
+Experience Collection
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Oldingi natijalar yig'ildi
+
+------------------------------
+ 
+Pattern Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Takroriy patternlar topildi
+
+------------------------------
+ 
+Error Learning System
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Xatolardan o'rganish faol
+
+------------------------------
+ 
+AI Rule Improvement
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI qoidalari yangilanadi
+
+------------------------------
+ 
+Knowledge Update
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+AI xotira yangilanadi
+
+------------------------------
+
+
+
+================================================
+
+SELF LEARNING LOOP
+
+
+EXPERIENCE
+
+v
+
+ANALYSIS
+
+v
+
+LEARNING
+
+v
+
+KNOWLEDGE UPDATE
+
+v
+
+BETTER DECISIONS
+
+
+================================================
+
+AI EVOLUTION STATUS
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\STRATEGIC_PLANNER_REPORT.md =====
+# AFPOS STRATEGIC PLANNER REPORT
+
+Generated:
+
+08/03/2026 20:30:41
+
+================================================
+
+STRATEGIC SCORE
+
+100 /100
+
+
+LEVEL:
+
+STRATEGIC READY
+
+
+================================================
+
+STRATEGIC ANALYSIS
+
+
+
+Current System Analysis
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Mavjud tizim holati aniqlandi
+
+------------------------------
+ 
+30 Day Growth Plan
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Tezkor o'sish vazifalari tayyor
+
+------------------------------
+ 
+60 Day Scale Plan
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Daromad kengaytirish rejasi
+
+------------------------------
+ 
+90 Day Vision
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Strategik yo'nalish tayyor
+
+------------------------------
+ 
+Risk Management
+
+Status:
+READY
+
+Score:
+20
+
+Action:
+Risk nazorati faol
+
+------------------------------
+
+
+
+================================================
+
+ROADMAP
+
+
+30 DAYS:
+- Growth optimization
+- User activation
+- Marketing improvements
+
+
+60 DAYS:
+- Revenue expansion
+- Monetization improvements
+- Customer scaling
+
+
+90 DAYS:
+- Enterprise growth
+- AI optimization
+- Market expansion
+
+
+================================================
+
+AI STRATEGIC STATUS
+
+READY
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\VISION.md =====
+# VISION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning kelajakdagi maqsadlari va rivojlanish yo'nalishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md =====
+# API REQUIREMENTS
+
+Future API documentation.
+
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md =====
+# FOYDAPRO X BUSINESS MODEL
+
+Platform:
+Advertising and monetization ecosystem.
+
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md =====
+# FEATURE LIST
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot funksiyalari ro'yxati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md =====
+# FOYDAPRO X MASTER PRD
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot talablari va funksional reja.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md =====
+# PRODUCT ROADMAP
+
+---
+
+## Hujjat maqsadi
+
+Rivojlanish bosqichlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md =====
+# USER STORIES
+
+Users:
+- Advertiser
+- User
+- Administrator
+
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md =====
+# SECURITY MODEL
+
+---
+
+## Hujjat maqsadi
+
+Axborot xavfsizligi tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md =====
+# SYSTEM ARCHITECTURE
+
+---
+
+## Hujjat maqsadi
+
+Tizim arxitekturasi va texnik tuzilishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\03_DOCUMENTS\CHANGE_CONTROL.md =====
+# CHANGE CONTROL
+
+All important changes must be:
+
+1. Planned
+2. Reviewed
+3. Approved
+4. Recorded
+
+
+===== E:\AKBARSHOH_FUTURE\03_DOCUMENTS\DOCUMENT_STANDARD.md =====
+# DOCUMENT STANDARD
+
+Company:
+AKBARSHOH FUTURE MChJ
+
+Purpose:
+All official documents must follow unified standards.
+
+Version:
+1.0
+
+
+===== E:\AKBARSHOH_FUTURE\03_DOCUMENTS\NAMING_CONVENTION.md =====
+# NAMING CONVENTION
+
+File naming rules:
+
+PROJECT_CATEGORY_NAME_VERSION
+
+Example:
+
+FOYDAPRO_PRD_v1.0
+
+
+===== E:\AKBARSHOH_FUTURE\04_ENGINEERING\DEVELOPMENT_PROCESS.md =====
+# DEVELOPMENT PROCESS
+
+Flow:
+
+Idea
+v
+Analysis
+v
+Architecture
+v
+Development
+v
+Testing
+v
+Release
+
+
+===== E:\AKBARSHOH_FUTURE\04_ENGINEERING\ENGINEERING_STANDARD.md =====
+# ENGINEERING STANDARD
+
+Principles:
+
+- Quality first
+- Security first
+- Documentation first
+
+
+===== E:\AKBARSHOH_FUTURE\04_ENGINEERING\SECURITY_STANDARD.md =====
+# SECURITY STANDARD
+
+Security requirements:
+
+- Access control
+- Data protection
+- Audit logging
+
+
+===== E:\AKBARSHOH_FUTURE\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md =====
+# COMPANY LEGAL STRUCTURE
+
+Company:
+
+AKBARSHOH FUTURE MChJ
+
+Legal documentation repository.
+
+
+===== E:\AKBARSHOH_FUTURE\06_LEGAL\INTELLECTUAL_PROPERTY.md =====
+# INTELLECTUAL PROPERTY
+
+All created software,
+documents and assets must be protected.
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\CHANGELOG.md =====
+# CHANGELOG
+
+## v1.0.0
+
+Initial Foundation Release.
+
+Created:
+- Workspace
+- Documentation System
+- FOYDAPRO X Structure
+
+
+## 2026-08-03 20:00:34
+
+Version : v1.2.0
+Branch  : master
+Commit  : 2
+Last    : 25297f8 - AFDT-004: Documentation System created
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\README.md =====
+# AKBARSHOH FUTURE
+
+Bu kompaniyaning asosiy Workspace papkasi.
+
+Foundation Version : 1.0
+Status             : ACTIVE
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\SNAPSHOT_INFO.md =====
+# AFPOS PROJECT SNAPSHOT
+
+Generated
+08/03/2026 20:04:40
+
+Snapshot
+E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39
+
+Git Branch
+master
+
+Commit Count
+3
+
+Last Commit
+bacfdad18970273d7dd97e16a12720f193449f2f
+
+Latest Tag
+v1.3.0
+
+Status
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\VERSION.md =====
+# VERSION
+
+Current Version
+
+v1.2.0
+
+Generated
+
+08/03/2026 20:00:34
+
+Git Branch
+
+master
+
+Commit Count
+
+2
+
+Last Commit
+
+25297f8 - AFDT-004: Documentation System created
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\BACKUP_REPORT.md =====
+# AFPOS BACKUP REPORT
+
+Generated : 08/03/2026 19:59:56
+
+Backup Folder
+
+E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55
+
+Statistics
+
+Folders : 36
+
+Files : 41
+
+Size(MB) : 0.01
+
+Status
+
+SUCCESS
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMMIT_REPORT.md =====
+# COMMIT REPORT
+
+Generated : 08/03/2026 20:02:30
+
+Branch
+
+master
+
+Commit Count
+
+3
+
+Version
+
+v1.3.0
+
+Last Commit
+
+bacfdad - AFPOS-012: Dashboard, Tree, Health, Backup, Release va Automation tizimi qo'shildi
+
+Status
+
+SUCCESS
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\COMPANY_PROFILE.md =====
+# AKBARSHOH FUTURE MChJ COMPANY PROFILE
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya haqida asosiy ma'lumotlar, faoliyat yo'nalishlari va tashkiliy tuzilma.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\CORE_VALUES.md =====
+# CORE VALUES
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya tamoyillari va qadriyatlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DECISION_LOG.md =====
+# DECISION LOG
+
+---
+
+## Hujjat maqsadi
+
+Loyiha bo'yicha qabul qilingan muhim qarorlar tarixi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md =====
+# LEADERSHIP PRINCIPLES
+
+---
+
+## Hujjat maqsadi
+
+Boshqaruv va qaror qabul qilish tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\MISSION.md =====
+# MISSION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning asosiy missiyasi va jamiyatga beradigan qiymati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_DASHBOARD.md =====
+
+# PROJECT DASHBOARD
+
+Generated :
+
+2026-08-03 19:57:13
+
+---
+
+## GENERAL
+
+Project : AKBARSHOH FUTURE
+
+Root :
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+## STATISTICS
+
+Folders : 37
+
+Files : 38
+
+Size(MB) : 0.01
+
+---
+
+## FILE TYPES
+
+Markdown : 31
+
+PowerShell : 2
+
+Text : 4
+
+Json : 0
+
+---
+
+## GIT
+
+Enabled : True
+
+Branch :
+
+master
+
+Commits :
+
+2
+
+Tags :
+
+2
+
+Last Commit :
+
+25297f8 - AFDT-004: Documentation System created
+
+---
+
+Status :
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_HEALTH_REPORT.md =====
+# AFPOS PROJECT HEALTH REPORT
+
+Generated : 08/03/2026 19:59:23
+
+## Folder Check
+? 00_FOUNDATION
+? 01_CORPORATE
+? 02_PROJECTS
+? 03_DOCUMENTS
+? 04_ENGINEERING
+? 05_BRAND
+? 06_LEGAL
+? 07_FINANCE
+? 08_SECURITY
+? 09_RESEARCH
+? 10_ARCHIVE
+? 11_BACKUP
+? 12_TEMPLATES
+? 13_TOOLS
+? 14_LOGS
+? 15_GITHUB
+? 16_AUTOMATION
+
+## File Check
+? README.md
+? VERSION.md
+? CHANGELOG.md
+? .gitignore
+? 00_FOUNDATION\PROJECT_STATUS.md
+? 00_FOUNDATION\PROJECT_DASHBOARD.md
+? 00_FOUNDATION\PROJECT_TREE.md
+
+## Git Check
+? Git Repository
+Branch : master
+Commits : 2
+Tags : 2
+
+=======================================
+SUCCESS : 25
+FAILED  : 0
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_INDEX.md =====
+# PROJECT INDEX
+
+Generated : 08/03/2026 20:03:09
+
+Total Objects : 324
+
+- [Directory] .git
+- [Directory] 00_FOUNDATION
+- [Directory] 01_CORPORATE
+- [Directory] 02_PROJECTS
+- [Directory] 03_DOCUMENTS
+- [Directory] 04_ENGINEERING
+- [Directory] 05_BRAND
+- [Directory] 06_LEGAL
+- [Directory] 07_FINANCE
+- [Directory] 08_SECURITY
+- [Directory] 09_RESEARCH
+- [Directory] 10_ARCHIVE
+- [Directory] 11_BACKUP
+- [Directory] 12_TEMPLATES
+- [Directory] 13_TOOLS
+- [Directory] 14_LOGS
+- [Directory] 15_GITHUB
+- [Directory] 16_AUTOMATION
+- [File] .gitignore
+- [File] CHANGELOG.md
+- [File] README.md
+- [File] VERSION.md
+- [Directory] .git\hooks
+- [Directory] .git\info
+- [Directory] .git\logs
+- [Directory] .git\objects
+- [Directory] .git\refs
+- [File] .git\COMMIT_EDITMSG
+- [File] .git\config
+- [File] .git\description
+- [File] .git\HEAD
+- [File] .git\index
+- [File] .git\hooks\applypatch-msg.sample
+- [File] .git\hooks\commit-msg.sample
+- [File] .git\hooks\fsmonitor-watchman.sample
+- [File] .git\hooks\post-update.sample
+- [File] .git\hooks\pre-applypatch.sample
+- [File] .git\hooks\pre-commit.sample
+- [File] .git\hooks\pre-merge-commit.sample
+- [File] .git\hooks\pre-push.sample
+- [File] .git\hooks\pre-rebase.sample
+- [File] .git\hooks\pre-receive.sample
+- [File] .git\hooks\prepare-commit-msg.sample
+- [File] .git\hooks\push-to-checkout.sample
+- [File] .git\hooks\sendemail-validate.sample
+- [File] .git\hooks\update.sample
+- [File] .git\info\exclude
+- [Directory] .git\logs\refs
+- [File] .git\logs\HEAD
+- [Directory] .git\logs\refs\heads
+- [File] .git\logs\refs\heads\master
+- [Directory] .git\objects\01
+- [Directory] .git\objects\08
+- [Directory] .git\objects\09
+- [Directory] .git\objects\0c
+- [Directory] .git\objects\0e
+- [Directory] .git\objects\0f
+- [Directory] .git\objects\12
+- [Directory] .git\objects\1a
+- [Directory] .git\objects\1b
+- [Directory] .git\objects\1d
+- [Directory] .git\objects\1f
+- [Directory] .git\objects\24
+- [Directory] .git\objects\25
+- [Directory] .git\objects\33
+- [Directory] .git\objects\35
+- [Directory] .git\objects\39
+- [Directory] .git\objects\3b
+- [Directory] .git\objects\3e
+- [Directory] .git\objects\3f
+- [Directory] .git\objects\51
+- [Directory] .git\objects\52
+- [Directory] .git\objects\5a
+- [Directory] .git\objects\5f
+- [Directory] .git\objects\61
+- [Directory] .git\objects\62
+- [Directory] .git\objects\6c
+- [Directory] .git\objects\75
+- [Directory] .git\objects\7f
+- [Directory] .git\objects\8c
+- [Directory] .git\objects\8d
+- [Directory] .git\objects\98
+- [Directory] .git\objects\9b
+- [Directory] .git\objects\a1
+- [Directory] .git\objects\a3
+- [Directory] .git\objects\a5
+- [Directory] .git\objects\b0
+- [Directory] .git\objects\b1
+- [Directory] .git\objects\ba
+- [Directory] .git\objects\bc
+- [Directory] .git\objects\bd
+- [Directory] .git\objects\be
+- [Directory] .git\objects\c0
+- [Directory] .git\objects\c2
+- [Directory] .git\objects\c6
+- [Directory] .git\objects\c8
+- [Directory] .git\objects\c9
+- [Directory] .git\objects\cc
+- [Directory] .git\objects\d0
+- [Directory] .git\objects\d3
+- [Directory] .git\objects\e2
+- [Directory] .git\objects\e9
+- [Directory] .git\objects\ea
+- [Directory] .git\objects\ec
+- [Directory] .git\objects\f4
+- [Directory] .git\objects\f6
+- [Directory] .git\objects\f7
+- [Directory] .git\objects\fb
+- [Directory] .git\objects\ff
+- [Directory] .git\objects\info
+- [Directory] .git\objects\pack
+- [File] .git\objects\01\84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7
+- [File] .git\objects\08\c8d822dae58ec63ff01ad49d21785e59943028
+- [File] .git\objects\09\6aea18b68b6b4656ac5700b8a7a013433a08b0
+- [File] .git\objects\0c\80cfe18f1795785f09ca180966450b2d8bf128
+- [File] .git\objects\0e\05e2434bbe71059dbf7e4cda8812ecf71aa700
+- [File] .git\objects\0f\ac2e663b27de7003005b26ae80fe8df78defe9
+- [File] .git\objects\0f\cef6f0e0fb47d936865c4db53150cb0b9cae9f
+- [File] .git\objects\12\416e5fb4fb30851214c198aff3251dcd23f1f0
+- [File] .git\objects\1a\7d4e0dcd3e74070f953c123a4fb2d217482aff
+- [File] .git\objects\1a\8d52371a178ddb7bb8db8cf886e5604bb11a6d
+- [File] .git\objects\1a\9cfe5e408a162f01789cad97e4835f9bc938f7
+- [File] .git\objects\1b\854bf1a0aa48ff3fa25eab7c8bf7d432b3682a
+- [File] .git\objects\1d\dfc4b7e98fc56229b8da849dd57f249f0af92e
+- [File] .git\objects\1f\7b116f37d42e34a09d175ff8c8638df3ca9e94
+- [File] .git\objects\24\ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9
+- [File] .git\objects\25\297f8852c0c92d49018194d3098c075a4c5e24
+- [File] .git\objects\33\72a264e706c942fac4f38687723bd4e4894d9a
+- [File] .git\objects\35\8d953aaacc248b35c2f4dc09c4fab198f32a01
+- [File] .git\objects\39\a2b57e603ce2d9c025a7a2ddbb80345f349034
+- [File] .git\objects\3b\1534f843868754dfcff9b926b4290748f65004
+- [File] .git\objects\3e\2981dd6f2a58aa10a479290ff09899eba11d01
+- [File] .git\objects\3f\5c55da22f1b23604d4ba2bf132a7ded9ecc83f
+- [File] .git\objects\3f\b984a2b23a77816413d3831b7f5f52cfa66d75
+- [File] .git\objects\51\881f471fd135f45af71b60b8eb262cb1a5b9de
+- [File] .git\objects\52\c7bf6533548422b8f56062adc339ea2a8e7613
+- [File] .git\objects\5a\7d3c815378cf4b1e13b9fac31e80814bd21431
+- [File] .git\objects\5f\77c9425962ce80d294ee3ec8bb08c4da05f4e8
+- [File] .git\objects\5f\e3fb6df41e8b6da0839c503cd890290840c5ba
+- [File] .git\objects\61\57d1926fe213b49839b5ce98ed997e379344a9
+- [File] .git\objects\62\a1b96e6025f66c6e4ea15c41248f7733348db6
+- [File] .git\objects\6c\67e749543c2fb41e0ad4afaca479ca88698ea3
+- [File] .git\objects\75\7e4f25b2cc73927d24d00934e026b93eec2f8e
+- [File] .git\objects\7f\5256250016f553803e119a2c6e6335f80044fb
+- [File] .git\objects\8c\254ed7061cd79af9435db11a288c482d090831
+- [File] .git\objects\8d\ef8bc2527c8b3ed1049022a586f75acbaee47e
+- [File] .git\objects\8d\f2c178d0b3c8d548d19d453a6e70eb03c052d5
+- [File] .git\objects\98\627adc16c447a9ea693a10ad72bf3fe6331ed2
+- [File] .git\objects\9b\42f10f8d160a55f5518ce4175ce0058b5f6e47
+- [File] .git\objects\a1\ec1b7c27e8be841b143c0141b2cc24a3783cbd
+- [File] .git\objects\a1\f664099fad8d6db2d9882527fe020c8d3cc5f4
+- [File] .git\objects\a3\4c1e4e208186ed55eabee958be2e0ce8d8e75a
+- [File] .git\objects\a5\028f5b3d296229fe09677af6cf4e588f2ff6df
+- [File] .git\objects\a5\9f59e530ee1f74e190e18b3fd3913f4ee92634
+- [File] .git\objects\b0\1f0873555f93bd0bf206d9c4e32045fe12c615
+- [File] .git\objects\b1\45bf2f0f28cef49d0178e1edaaf6f60db35eb2
+- [File] .git\objects\ba\cfdad18970273d7dd97e16a12720f193449f2f
+- [File] .git\objects\bc\3603b653ef4dfd48d518c4f4c5d73627ee9d8a
+- [File] .git\objects\bd\0e8448cf1db94e8daf285c6ba38d981fa07c1c
+- [File] .git\objects\bd\bc52341dac6f103e79cc76eb47349a2af987e1
+- [File] .git\objects\be\465f890ac9d01931dae1a2a99ba9d5bfb4ad02
+- [File] .git\objects\c0\0c1233e6d81c7eec0c9ccc0f22b51aae410f8f
+- [File] .git\objects\c0\55624e57ecebaac0aa2a12d044518f7fdf6483
+- [File] .git\objects\c2\b5d5068a5e84e223ae989039d3f24ce4e9bfde
+- [File] .git\objects\c6\c3d615c0d8a235e9c9fcd60a8221e5d48bff90
+- [File] .git\objects\c8\bdf3787971a78fc551b1a36d62c7029be10f04
+- [File] .git\objects\c8\dc05e4b550ca74bffd7ebd92ed6ee44e873616
+- [File] .git\objects\c9\8000e4e9ef1c27ce933dd9007c579a880d6e1a
+- [File] .git\objects\cc\2951cf6d148263e9188c69ebee4a49e78b799d
+- [File] .git\objects\d0\74d7c1b1eaf17139e49411f7de2fb794219a51
+- [File] .git\objects\d3\76a3c36de2cc2ce907ac6ce7b6679e87d77ec5
+- [File] .git\objects\e2\7918a4214adb8cc1aa1fa76577eb44a46cb651
+- [File] .git\objects\e9\cf3a24ae2bd14b12a826e7517d3303734da11a
+- [File] .git\objects\ea\84e77774f02e758b6927184654b7146ffb46fe
+- [File] .git\objects\ec\acdc42be08badc15e083b8de8934d4277eb6c0
+- [File] .git\objects\f4\067abd01e3a4b92383d857345017847df0692e
+- [File] .git\objects\f6\9917cda1b9bbbaa83b821a7f1304904bf022dd
+- [File] .git\objects\f7\284b89e0e975c6e1433e97a48f276b193e7e90
+- [File] .git\objects\fb\a6bcb93c1655f8875eece0321705a509ff4f51
+- [File] .git\objects\ff\dffbe1d2009419f46c43a75f67505e42f3aec3
+- [Directory] .git\refs\heads
+- [Directory] .git\refs\tags
+- [File] .git\refs\heads\master
+- [File] .git\refs\tags\v1.0-foundation
+- [File] .git\refs\tags\v1.1-documentation
+- [File] .git\refs\tags\v1.3.0
+- [File] 00_FOUNDATION\BACKUP_REPORT.md
+- [File] 00_FOUNDATION\COMMIT_REPORT.md
+- [File] 00_FOUNDATION\COMPANY_PROFILE.md
+- [File] 00_FOUNDATION\CORE_VALUES.md
+- [File] 00_FOUNDATION\DECISION_LOG.md
+- [File] 00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+- [File] 00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+- [File] 00_FOUNDATION\GIT_SETUP_REPORT.txt
+- [File] 00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+- [File] 00_FOUNDATION\MISSION.md
+- [File] 00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+- [File] 00_FOUNDATION\PROJECT_DASHBOARD.md
+- [File] 00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+- [File] 00_FOUNDATION\PROJECT_STATUS.md
+- [File] 00_FOUNDATION\PROJECT_TREE.md
+- [File] 00_FOUNDATION\RELEASE_REPORT.md
+- [File] 00_FOUNDATION\VISION.md
+- [Directory] 02_PROJECTS\FOYDAPRO_X
+- [Directory] 02_PROJECTS\FOYDAPRO_X\00_PRD
+- [Directory] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\02_DATABASE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\03_BACKEND
+- [Directory] 02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+- [Directory] 02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+- [Directory] 02_PROJECTS\FOYDAPRO_X\06_AI
+- [Directory] 02_PROJECTS\FOYDAPRO_X\07_TESTING
+- [Directory] 02_PROJECTS\FOYDAPRO_X\08_RELEASE
+- [Directory] 02_PROJECTS\FOYDAPRO_X\09_ASSETS
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+- [File] 02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+- [File] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+- [File] 02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+- [File] 03_DOCUMENTS\CHANGE_CONTROL.md
+- [File] 03_DOCUMENTS\DOCUMENT_STANDARD.md
+- [File] 03_DOCUMENTS\NAMING_CONVENTION.md
+- [File] 04_ENGINEERING\DEVELOPMENT_PROCESS.md
+- [File] 04_ENGINEERING\ENGINEERING_STANDARD.md
+- [File] 04_ENGINEERING\SECURITY_STANDARD.md
+- [File] 06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+- [File] 06_LEGAL\INTELLECTUAL_PROPERTY.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\01_CORPORATE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\05_BRAND
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\07_FINANCE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\08_SECURITY
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\09_RESEARCH
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\10_ARCHIVE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\12_TEMPLATES
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\13_TOOLS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\14_LOGS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION
+- [File] 11_BACKUP\2026-08-03_19-59-55\.gitignore
+- [File] 11_BACKUP\2026-08-03_19-59-55\CHANGELOG.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\VERSION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\COMPANY_PROFILE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\CORE_VALUES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DECISION_LOG.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\GIT_SETUP_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\MISSION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_DASHBOARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_HEALTH_REPORT.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_STATUS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_TREE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\VISION.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\02_DATABASE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\03_BACKEND
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\06_AI
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\07_TESTING
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\08_RELEASE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\09_ASSETS
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\CHANGE_CONTROL.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\DOCUMENT_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\NAMING_CONVENTION.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\DEVELOPMENT_PROCESS.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\ENGINEERING_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\SECURITY_STANDARD.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\06_LEGAL\INTELLECTUAL_PROPERTY.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\ISSUES.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\15_GITHUB\RELEASES.md
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\BACKUP
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\DOCUMENTATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\FOUNDATION
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GIT
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\GOVERNANCE
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\PRODUCTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\REPORTS
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\SECURITY
+- [Directory] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\UTILS
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\MODULE_INDEX.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\README.md
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\RUN_ALL.ps1
+- [File] 11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\VERIFY_ALL.ps1
+- [File] 15_GITHUB\ISSUES.md
+- [File] 15_GITHUB\README.md
+- [File] 15_GITHUB\RELEASES.md
+- [Directory] 16_AUTOMATION\BACKUP
+- [Directory] 16_AUTOMATION\DOCUMENTATION
+- [Directory] 16_AUTOMATION\FOUNDATION
+- [Directory] 16_AUTOMATION\GIT
+- [Directory] 16_AUTOMATION\GOVERNANCE
+- [Directory] 16_AUTOMATION\PRODUCTS
+- [Directory] 16_AUTOMATION\REPORTS
+- [Directory] 16_AUTOMATION\SECURITY
+- [Directory] 16_AUTOMATION\UTILS
+- [File] 16_AUTOMATION\MODULE_INDEX.md
+- [File] 16_AUTOMATION\README.md
+- [File] 16_AUTOMATION\RUN_ALL.ps1
+- [File] 16_AUTOMATION\VERIFY_ALL.ps1
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_MANIFEST.md =====
+# PROJECT MANIFEST
+
+Generated : 08/03/2026 20:04:06
+
+Folders : 74
+Files   : 87
+
+## File Types
+- .md : 72
+- .txt : 8
+- .ps1 : 4
+- .gitignore : 2
+- .json : 1
+
+Manifest :
+E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_MANIFEST.json
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_STATUS.md =====
+# AKBARSHOH FUTURE MChJ
+## PROJECT STATUS DOCUMENT
+
+---
+
+## Loyiha
+
+**Kompaniya:**
+AKBARSHOH FUTURE MChJ
+
+**Asosiy mahsulot:**
+FOYDAPRO X
+
+**Hujjat turi:**
+Project Continuation Status
+
+**Versiya:**
+1.0
+
+**Holat:**
+ACTIVE
+
+---
+
+# Ishlash tamoyillari
+
+1. Avval tahlil.
+2. Keyin arxitektura.
+3. Keyin ishlab chiqish.
+4. Har bir qaror hujjatlashtiriladi.
+5. Imkon qadar qayta ishlashni kamaytirish.
+
+---
+
+# Workspace
+
+Asosiy yo'l:
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+# Bajarilgan ishlar
+
+[OK] AKBARSHOH FUTURE Workspace yaratildi.
+
+[OK] Asosiy papkalar yaratildi.
+
+[OK] FOYDAPRO X loyiha skeleti yaratildi.
+
+[OK] 15_GITHUB strukturasi rejalashtirildi.
+
+---
+
+# Joriy bosqich
+
+Foundation Sprint-001
+
+---
+
+# Keyingi vazifa
+
+AFDT-001
+
+AKBARSHOH FUTURE Developer Toolkit
+
+Birinchi modul:
+
+AF-INIT.ps1
+
+Maqsad:
+
+Kompaniya strukturasi va loyihalarni avtomatik yaratuvchi PowerShell vositasini ishlab chiqish.
+
+---
+
+# Sessiya davomiyligi
+
+Bu hujjat yangi chat yoki yangi ish sessiyasida loyihani davom ettirish uchun asosiy manba hisoblanadi.
+
+---
+
+# Status
+
+ACTIVE
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_TREE.md =====
+# PROJECT TREE
+
+Generated : 2026-08-03 19:58:24
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\RELEASE_REPORT.md =====
+# AFPOS RELEASE REPORT
+
+Generated
+
+08/03/2026 20:01:19
+
+====================================
+
+Release Status
+
+READY
+
+====================================
+
+Git Branch
+
+master
+
+Commits
+
+2
+
+Latest Tag
+
+v1.1-documentation
+
+====================================
+
+Project Statistics
+
+Folders : 74
+
+Files : 83
+
+Size(MB) : 0.02
+
+====================================
+
+Required Reports
+
+Dashboard : True
+
+Tree : True
+
+Health : True
+
+Backup : True
+
+Version : True
+
+Changelog : True
+
+====================================
+
+Missing Files
+
+
+
+====================================
+
+Release Decision
+
+READY
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\VISION.md =====
+# VISION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning kelajakdagi maqsadlari va rivojlanish yo'nalishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\CHANGELOG.md =====
+# CHANGELOG
+
+## v1.0.0
+
+Initial Foundation Release.
+
+Created:
+- Workspace
+- Documentation System
+- FOYDAPRO X Structure
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\README.md =====
+# AKBARSHOH FUTURE
+
+Bu kompaniyaning asosiy Workspace papkasi.
+
+Foundation Version : 1.0
+Status             : ACTIVE
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\VERSION.md =====
+# AKBARSHOH FUTURE VERSION
+
+Current Version:
+
+v1.0.0
+
+Status:
+
+Foundation Release
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\COMPANY_PROFILE.md =====
+# AKBARSHOH FUTURE MChJ COMPANY PROFILE
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya haqida asosiy ma'lumotlar, faoliyat yo'nalishlari va tashkiliy tuzilma.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\CORE_VALUES.md =====
+# CORE VALUES
+
+---
+
+## Hujjat maqsadi
+
+Kompaniya tamoyillari va qadriyatlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DECISION_LOG.md =====
+# DECISION LOG
+
+---
+
+## Hujjat maqsadi
+
+Loyiha bo'yicha qabul qilingan muhim qarorlar tarixi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\LEADERSHIP_PRINCIPLES.md =====
+# LEADERSHIP PRINCIPLES
+
+---
+
+## Hujjat maqsadi
+
+Boshqaruv va qaror qabul qilish tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\MISSION.md =====
+# MISSION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning asosiy missiyasi va jamiyatga beradigan qiymati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:38
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_DASHBOARD.md =====
+
+# PROJECT DASHBOARD
+
+Generated :
+
+2026-08-03 19:57:13
+
+---
+
+## GENERAL
+
+Project : AKBARSHOH FUTURE
+
+Root :
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+## STATISTICS
+
+Folders : 37
+
+Files : 38
+
+Size(MB) : 0.01
+
+---
+
+## FILE TYPES
+
+Markdown : 31
+
+PowerShell : 2
+
+Text : 4
+
+Json : 0
+
+---
+
+## GIT
+
+Enabled : True
+
+Branch :
+
+master
+
+Commits :
+
+2
+
+Tags :
+
+2
+
+Last Commit :
+
+25297f8 - AFDT-004: Documentation System created
+
+---
+
+Status :
+
+ACTIVE
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_HEALTH_REPORT.md =====
+# AFPOS PROJECT HEALTH REPORT
+
+Generated : 08/03/2026 19:59:23
+
+## Folder Check
+? 00_FOUNDATION
+? 01_CORPORATE
+? 02_PROJECTS
+? 03_DOCUMENTS
+? 04_ENGINEERING
+? 05_BRAND
+? 06_LEGAL
+? 07_FINANCE
+? 08_SECURITY
+? 09_RESEARCH
+? 10_ARCHIVE
+? 11_BACKUP
+? 12_TEMPLATES
+? 13_TOOLS
+? 14_LOGS
+? 15_GITHUB
+? 16_AUTOMATION
+
+## File Check
+? README.md
+? VERSION.md
+? CHANGELOG.md
+? .gitignore
+? 00_FOUNDATION\PROJECT_STATUS.md
+? 00_FOUNDATION\PROJECT_DASHBOARD.md
+? 00_FOUNDATION\PROJECT_TREE.md
+
+## Git Check
+? Git Repository
+Branch : master
+Commits : 2
+Tags : 2
+
+=======================================
+SUCCESS : 25
+FAILED  : 0
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_STATUS.md =====
+# AKBARSHOH FUTURE MChJ
+## PROJECT STATUS DOCUMENT
+
+---
+
+## Loyiha
+
+**Kompaniya:**
+AKBARSHOH FUTURE MChJ
+
+**Asosiy mahsulot:**
+FOYDAPRO X
+
+**Hujjat turi:**
+Project Continuation Status
+
+**Versiya:**
+1.0
+
+**Holat:**
+ACTIVE
+
+---
+
+# Ishlash tamoyillari
+
+1. Avval tahlil.
+2. Keyin arxitektura.
+3. Keyin ishlab chiqish.
+4. Har bir qaror hujjatlashtiriladi.
+5. Imkon qadar qayta ishlashni kamaytirish.
+
+---
+
+# Workspace
+
+Asosiy yo'l:
+
+E:\AKBARSHOH_FUTURE
+
+---
+
+# Bajarilgan ishlar
+
+[OK] AKBARSHOH FUTURE Workspace yaratildi.
+
+[OK] Asosiy papkalar yaratildi.
+
+[OK] FOYDAPRO X loyiha skeleti yaratildi.
+
+[OK] 15_GITHUB strukturasi rejalashtirildi.
+
+---
+
+# Joriy bosqich
+
+Foundation Sprint-001
+
+---
+
+# Keyingi vazifa
+
+AFDT-001
+
+AKBARSHOH FUTURE Developer Toolkit
+
+Birinchi modul:
+
+AF-INIT.ps1
+
+Maqsad:
+
+Kompaniya strukturasi va loyihalarni avtomatik yaratuvchi PowerShell vositasini ishlab chiqish.
+
+---
+
+# Sessiya davomiyligi
+
+Bu hujjat yangi chat yoki yangi ish sessiyasida loyihani davom ettirish uchun asosiy manba hisoblanadi.
+
+---
+
+# Status
+
+ACTIVE
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_TREE.md =====
+# PROJECT TREE
+
+Generated : 2026-08-03 19:58:24
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\VISION.md =====
+# VISION
+
+---
+
+## Hujjat maqsadi
+
+Kompaniyaning kelajakdagi maqsadlari va rivojlanish yo'nalishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:39
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md =====
+# API REQUIREMENTS
+
+Future API documentation.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md =====
+# FOYDAPRO X BUSINESS MODEL
+
+Platform:
+Advertising and monetization ecosystem.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md =====
+# FEATURE LIST
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot funksiyalari ro'yxati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md =====
+# FOYDAPRO X MASTER PRD
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot talablari va funksional reja.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md =====
+# PRODUCT ROADMAP
+
+---
+
+## Hujjat maqsadi
+
+Rivojlanish bosqichlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md =====
+# USER STORIES
+
+Users:
+- Advertiser
+- User
+- Administrator
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md =====
+# SECURITY MODEL
+
+---
+
+## Hujjat maqsadi
+
+Axborot xavfsizligi tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md =====
+# SYSTEM ARCHITECTURE
+
+---
+
+## Hujjat maqsadi
+
+Tizim arxitekturasi va texnik tuzilishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\CHANGE_CONTROL.md =====
+# CHANGE CONTROL
+
+All important changes must be:
+
+1. Planned
+2. Reviewed
+3. Approved
+4. Recorded
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\DOCUMENT_STANDARD.md =====
+# DOCUMENT STANDARD
+
+Company:
+AKBARSHOH FUTURE MChJ
+
+Purpose:
+All official documents must follow unified standards.
+
+Version:
+1.0
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\03_DOCUMENTS\NAMING_CONVENTION.md =====
+# NAMING CONVENTION
+
+File naming rules:
+
+PROJECT_CATEGORY_NAME_VERSION
+
+Example:
+
+FOYDAPRO_PRD_v1.0
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\DEVELOPMENT_PROCESS.md =====
+# DEVELOPMENT PROCESS
+
+Flow:
+
+Idea
+v
+Analysis
+v
+Architecture
+v
+Development
+v
+Testing
+v
+Release
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\ENGINEERING_STANDARD.md =====
+# ENGINEERING STANDARD
+
+Principles:
+
+- Quality first
+- Security first
+- Documentation first
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\04_ENGINEERING\SECURITY_STANDARD.md =====
+# SECURITY STANDARD
+
+Security requirements:
+
+- Access control
+- Data protection
+- Audit logging
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\COMPANY_LEGAL_STRUCTURE.md =====
+# COMPANY LEGAL STRUCTURE
+
+Company:
+
+AKBARSHOH FUTURE MChJ
+
+Legal documentation repository.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\06_LEGAL\INTELLECTUAL_PROPERTY.md =====
+# INTELLECTUAL PROPERTY
+
+All created software,
+documents and assets must be protected.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\ISSUES.md =====
+# ISSUES
+
+Project problems and solutions log.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\README.md =====
+# AKBARSHOH FUTURE Git Repository
+
+Purpose:
+
+Source control and project history.
+
+Main Project:
+
+FOYDAPRO X
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\15_GITHUB\RELEASES.md =====
+# RELEASES
+
+Version release history.
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\MODULE_INDEX.md =====
+# MODULE INDEX
+
+AFDT-001 Foundation
+AFDT-002 Audit
+AFDT-003 Git
+AFDT-004 Documentation
+AFDT-005 Automation Library
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\16_AUTOMATION\README.md =====
+# Automation Library
+
+Bu papka AFPOS PowerShell modullarini saqlaydi.
+
+Har bir modul:
+
+- CREATE
+- VERIFY
+- UPDATE
+- README
+
+standartiga amal qiladi.
+
+===== E:\AKBARSHOH_FUTURE\15_GITHUB\ISSUES.md =====
+# ISSUES
+
+Project problems and solutions log.
+
+
+===== E:\AKBARSHOH_FUTURE\15_GITHUB\README.md =====
+# AKBARSHOH FUTURE Git Repository
+
+Purpose:
+
+Source control and project history.
+
+Main Project:
+
+FOYDAPRO X
+
+
+===== E:\AKBARSHOH_FUTURE\15_GITHUB\RELEASES.md =====
+# RELEASES
+
+Version release history.
+
+
+===== E:\AKBARSHOH_FUTURE\16_AUTOMATION\MODULE_INDEX.md =====
+# MODULE INDEX
+
+AFDT-001 Foundation
+AFDT-002 Audit
+AFDT-003 Git
+AFDT-004 Documentation
+AFDT-005 Automation Library
+
+===== E:\AKBARSHOH_FUTURE\16_AUTOMATION\README.md =====
+# Automation Library
+
+Bu papka AFPOS PowerShell modullarini saqlaydi.
+
+Har bir modul:
+
+- CREATE
+- VERIFY
+- UPDATE
+- README
+
+standartiga amal qiladi.
+

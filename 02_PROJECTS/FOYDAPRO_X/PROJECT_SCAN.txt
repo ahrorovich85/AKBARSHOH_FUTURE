@@ -1,0 +1,243 @@
+﻿================ PROJECT SCAN ================
+Date: 08/03/2026 21:02:56
+Root: E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X
+
+========== DIRECTORY TREE ==========
+Структура папок
+Серийный номер тома: 8E18-49EF
+E:.
+│   PROJECT_SCAN.txt
+│   
+├───00_PRD
+│       API_REQUIREMENTS.md
+│       BUSINESS_MODEL.md
+│       FEATURES.md
+│       PRD_MASTER.md
+│       ROADMAP.md
+│       USER_STORIES.md
+│       
+├───01_ARCHITECTURE
+│       SECURITY_MODEL.md
+│       SYSTEM_ARCHITECTURE.md
+│       
+├───02_DATABASE
+├───03_BACKEND
+├───04_TELEGRAM
+├───05_ADMIN_PANEL
+├───06_AI
+├───07_TESTING
+├───08_RELEASE
+└───09_ASSETS
+
+
+========== ALL FILES ==========
+
+FullName                                                                          Length LastWriteTime      
+--------                                                                          ------ -------------      
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md                 51 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md                   84 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md                        177 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md                      193 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md                         173 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md                     64 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md         180 03.08.2026 13:46:41
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md    193 03.08.2026 13:46:41
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\PROJECT_SCAN.txt                          805 03.08.2026 21:02:58
+
+
+
+
+========== IMPORTANT FILES ==========
+
+========== MARKDOWN FILES ==========
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md -----
+# API REQUIREMENTS
+
+Future API documentation.
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md -----
+# FOYDAPRO X BUSINESS MODEL
+
+Platform:
+Advertising and monetization ecosystem.
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md -----
+# FEATURE LIST
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot funksiyalari ro'yxati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md -----
+# FOYDAPRO X MASTER PRD
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot talablari va funksional reja.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md -----
+# PRODUCT ROADMAP
+
+---
+
+## Hujjat maqsadi
+
+Rivojlanish bosqichlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md -----
+# USER STORIES
+
+Users:
+- Advertiser
+- User
+- Administrator
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md -----
+# SECURITY MODEL
+
+---
+
+## Hujjat maqsadi
+
+Axborot xavfsizligi tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md -----
+# SYSTEM ARCHITECTURE
+
+---
+
+## Hujjat maqsadi
+
+Tizim arxitekturasi va texnik tuzilishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+========== GIT ==========
+
+========== SYSTEM ==========
+
+Name                           Value                                                                                                                                                           
+----                           -----                                                                                                                                                           
+PSVersion                      5.1.19041.6456                                                                                                                                                  
+PSEdition                      Desktop                                                                                                                                                         
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}                                                                                                                                         
+BuildVersion                   10.0.19041.6456                                                                                                                                                 
+CLRVersion                     4.0.30319.42000                                                                                                                                                 
+WSManStackVersion              3.0                                                                                                                                                             
+PSRemotingProtocolVersion      2.3                                                                                                                                                             
+SerializationVersion           1.1.0.1                                                                                                                                                         
+
+
+
+
+Python:
+Python 3.13.12
+
+Node:
+v22.20.0
+
+npm:
+10.9.3
+
+Docker:
+
+Git:
+git version 2.46.0.windows.1
+
+========== DONE ==========

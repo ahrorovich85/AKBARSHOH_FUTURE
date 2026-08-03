@@ -1,0 +1,1942 @@
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt =====
+AFDT-002 Documentation Generator
+
+Sana:
+08/03/2026 13:46:41
+
+Holat:
+COMPLETED
+
+Yaratilgan:
+- Foundation Documents
+- FOYDAPRO X PRD Documents
+- Architecture Documents
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt =====
+=======================================
+AFDT-004 DOCUMENTATION GENERATOR REPORT
+=======================================
+
+Status:
+COMPLETED
+
+Created:
+Documentation Standard
+Engineering Standard
+Legal Foundation
+FOYDAPRO X PRD Documents
+
+Date:
+08/03/2026 14:01:58
+
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\GIT_SETUP_REPORT.txt =====
+AFDT-003 Git Foundation Report
+
+Date:
+08/03/2026 13:50:01
+
+Status:
+
+COMPLETED
+
+
+Created:
+
+- VERSION.md
+- CHANGELOG.md
+- .gitignore
+- Git Documentation
+
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt =====
+=======================================
+AKBARSHOH FUTURE PROJECT AUDIT REPORT
+=======================================
+
+Sana: 08/03/2026 13:43:27
+Asosiy yo'l: E:\AKBARSHOH_FUTURE
+
+UMUMIY HAJM: 0 MB
+
+========== PAPKALAR ==========
+[DIR] \00_FOUNDATION | Fayllar: 1
+[DIR] \01_CORPORATE | Fayllar: 0
+[DIR] \02_PROJECTS | Fayllar: 0
+[DIR] \03_DOCUMENTS | Fayllar: 0
+[DIR] \04_ENGINEERING | Fayllar: 0
+[DIR] \05_BRAND | Fayllar: 0
+[DIR] \06_LEGAL | Fayllar: 0
+[DIR] \07_FINANCE | Fayllar: 0
+[DIR] \08_SECURITY | Fayllar: 0
+[DIR] \09_RESEARCH | Fayllar: 0
+[DIR] \10_ARCHIVE | Fayllar: 0
+[DIR] \11_BACKUP | Fayllar: 0
+[DIR] \12_TEMPLATES | Fayllar: 0
+[DIR] \13_TOOLS | Fayllar: 0
+[DIR] \14_LOGS | Fayllar: 0
+[DIR] \15_GITHUB | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\00_PRD | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\02_DATABASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\03_BACKEND | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\06_AI | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\07_TESTING | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\08_RELEASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\09_ASSETS | Fayllar: 0
+
+========== FAYLLAR ==========
+[FILE] \README.md
+[FILE] \00_FOUNDATION\PROJECT_STATUS.md
+
+========== FAYL TURLARI ==========
+.md : 2 ta
+
+========== BO'SH PAPKALAR ==========
+[EMPTY] \01_CORPORATE
+[EMPTY] \03_DOCUMENTS
+[EMPTY] \04_ENGINEERING
+[EMPTY] \05_BRAND
+[EMPTY] \06_LEGAL
+[EMPTY] \07_FINANCE
+[EMPTY] \08_SECURITY
+[EMPTY] \09_RESEARCH
+[EMPTY] \10_ARCHIVE
+[EMPTY] \11_BACKUP
+[EMPTY] \12_TEMPLATES
+[EMPTY] \13_TOOLS
+[EMPTY] \14_LOGS
+[EMPTY] \15_GITHUB
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\00_PRD
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\02_DATABASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\03_BACKEND
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\06_AI
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\07_TESTING
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\08_RELEASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\09_ASSETS
+
+========== MUHIM TEKSHIRUV ==========
+[OK] README.md mavjud
+[OK] PROJECT_STATUS.md mavjud
+
+========== AUDIT YAKUNLANDI ==========
+
+===== E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\PROJECT_SCAN.txt =====
+================ PROJECT SCAN ================
+Date: 08/03/2026 21:02:56
+Root: E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X
+
+========== DIRECTORY TREE ==========
+Структура папок
+Серийный номер тома: 8E18-49EF
+E:.
+¦   PROJECT_SCAN.txt
+¦   
++---00_PRD
+¦       API_REQUIREMENTS.md
+¦       BUSINESS_MODEL.md
+¦       FEATURES.md
+¦       PRD_MASTER.md
+¦       ROADMAP.md
+¦       USER_STORIES.md
+¦       
++---01_ARCHITECTURE
+¦       SECURITY_MODEL.md
+¦       SYSTEM_ARCHITECTURE.md
+¦       
++---02_DATABASE
++---03_BACKEND
++---04_TELEGRAM
++---05_ADMIN_PANEL
++---06_AI
++---07_TESTING
++---08_RELEASE
+L---09_ASSETS
+
+
+========== ALL FILES ==========
+
+FullName                                                                          Length LastWriteTime      
+--------                                                                          ------ -------------      
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md                 51 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md                   84 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md                        177 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md                      193 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md                         173 03.08.2026 13:46:40
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md                     64 03.08.2026 14:01:58
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md         180 03.08.2026 13:46:41
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md    193 03.08.2026 13:46:41
+E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\PROJECT_SCAN.txt                          805 03.08.2026 21:02:58
+
+
+
+
+========== IMPORTANT FILES ==========
+
+========== MARKDOWN FILES ==========
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\API_REQUIREMENTS.md -----
+# API REQUIREMENTS
+
+Future API documentation.
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\BUSINESS_MODEL.md -----
+# FOYDAPRO X BUSINESS MODEL
+
+Platform:
+Advertising and monetization ecosystem.
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\FEATURES.md -----
+# FEATURE LIST
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot funksiyalari ro'yxati.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\PRD_MASTER.md -----
+# FOYDAPRO X MASTER PRD
+
+---
+
+## Hujjat maqsadi
+
+Mahsulot talablari va funksional reja.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\ROADMAP.md -----
+# PRODUCT ROADMAP
+
+---
+
+## Hujjat maqsadi
+
+Rivojlanish bosqichlari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:40
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\00_PRD\USER_STORIES.md -----
+# USER STORIES
+
+Users:
+- Advertiser
+- User
+- Administrator
+
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SECURITY_MODEL.md -----
+# SECURITY MODEL
+
+---
+
+## Hujjat maqsadi
+
+Axborot xavfsizligi tamoyillari.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+----- E:\AKBARSHOH_FUTURE\02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE\SYSTEM_ARCHITECTURE.md -----
+# SYSTEM ARCHITECTURE
+
+---
+
+## Hujjat maqsadi
+
+Tizim arxitekturasi va texnik tuzilishi.
+
+---
+
+## Versiya
+
+v1.0
+
+## Holat
+
+DRAFT
+
+## Sana
+
+08/03/2026 13:46:41
+
+---
+
+© AKBARSHOH FUTURE MChJ
+
+========== GIT ==========
+
+========== SYSTEM ==========
+
+Name                           Value                                                                                                                                                           
+----                           -----                                                                                                                                                           
+PSVersion                      5.1.19041.6456                                                                                                                                                  
+PSEdition                      Desktop                                                                                                                                                         
+PSCompatibleVersions           {1.0, 2.0, 3.0, 4.0...}                                                                                                                                         
+BuildVersion                   10.0.19041.6456                                                                                                                                                 
+CLRVersion                     4.0.30319.42000                                                                                                                                                 
+WSManStackVersion              3.0                                                                                                                                                             
+PSRemotingProtocolVersion      2.3                                                                                                                                                             
+SerializationVersion           1.1.0.1                                                                                                                                                         
+
+
+
+
+Python:
+Python 3.13.12
+
+Node:
+v22.20.0
+
+npm:
+10.9.3
+
+Docker:
+
+Git:
+git version 2.46.0.windows.1
+
+========== DONE ==========
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt =====
+AFDT-002 Documentation Generator
+
+Sana:
+08/03/2026 13:46:41
+
+Holat:
+COMPLETED
+
+Yaratilgan:
+- Foundation Documents
+- FOYDAPRO X PRD Documents
+- Architecture Documents
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt =====
+=======================================
+AFDT-004 DOCUMENTATION GENERATOR REPORT
+=======================================
+
+Status:
+COMPLETED
+
+Created:
+Documentation Standard
+Engineering Standard
+Legal Foundation
+FOYDAPRO X PRD Documents
+
+Date:
+08/03/2026 14:01:58
+
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\GIT_SETUP_REPORT.txt =====
+AFDT-003 Git Foundation Report
+
+Date:
+08/03/2026 13:50:01
+
+Status:
+
+COMPLETED
+
+
+Created:
+
+- VERSION.md
+- CHANGELOG.md
+- .gitignore
+- Git Documentation
+
+
+===== E:\AKBARSHOH_FUTURE\10_ARCHIVE\SNAPSHOTS\2026-08-03_20-04-39\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt =====
+=======================================
+AKBARSHOH FUTURE PROJECT AUDIT REPORT
+=======================================
+
+Sana: 08/03/2026 13:43:27
+Asosiy yo'l: E:\AKBARSHOH_FUTURE
+
+UMUMIY HAJM: 0 MB
+
+========== PAPKALAR ==========
+[DIR] \00_FOUNDATION | Fayllar: 1
+[DIR] \01_CORPORATE | Fayllar: 0
+[DIR] \02_PROJECTS | Fayllar: 0
+[DIR] \03_DOCUMENTS | Fayllar: 0
+[DIR] \04_ENGINEERING | Fayllar: 0
+[DIR] \05_BRAND | Fayllar: 0
+[DIR] \06_LEGAL | Fayllar: 0
+[DIR] \07_FINANCE | Fayllar: 0
+[DIR] \08_SECURITY | Fayllar: 0
+[DIR] \09_RESEARCH | Fayllar: 0
+[DIR] \10_ARCHIVE | Fayllar: 0
+[DIR] \11_BACKUP | Fayllar: 0
+[DIR] \12_TEMPLATES | Fayllar: 0
+[DIR] \13_TOOLS | Fayllar: 0
+[DIR] \14_LOGS | Fayllar: 0
+[DIR] \15_GITHUB | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\00_PRD | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\02_DATABASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\03_BACKEND | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\06_AI | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\07_TESTING | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\08_RELEASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\09_ASSETS | Fayllar: 0
+
+========== FAYLLAR ==========
+[FILE] \README.md
+[FILE] \00_FOUNDATION\PROJECT_STATUS.md
+
+========== FAYL TURLARI ==========
+.md : 2 ta
+
+========== BO'SH PAPKALAR ==========
+[EMPTY] \01_CORPORATE
+[EMPTY] \03_DOCUMENTS
+[EMPTY] \04_ENGINEERING
+[EMPTY] \05_BRAND
+[EMPTY] \06_LEGAL
+[EMPTY] \07_FINANCE
+[EMPTY] \08_SECURITY
+[EMPTY] \09_RESEARCH
+[EMPTY] \10_ARCHIVE
+[EMPTY] \11_BACKUP
+[EMPTY] \12_TEMPLATES
+[EMPTY] \13_TOOLS
+[EMPTY] \14_LOGS
+[EMPTY] \15_GITHUB
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\00_PRD
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\02_DATABASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\03_BACKEND
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\06_AI
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\07_TESTING
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\08_RELEASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\09_ASSETS
+
+========== MUHIM TEKSHIRUV ==========
+[OK] README.md mavjud
+[OK] PROJECT_STATUS.md mavjud
+
+========== AUDIT YAKUNLANDI ==========
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATION_REPORT.txt =====
+AFDT-002 Documentation Generator
+
+Sana:
+08/03/2026 13:46:41
+
+Holat:
+COMPLETED
+
+Yaratilgan:
+- Foundation Documents
+- FOYDAPRO X PRD Documents
+- Architecture Documents
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\DOCUMENTATION_GENERATOR_REPORT.txt =====
+=======================================
+AFDT-004 DOCUMENTATION GENERATOR REPORT
+=======================================
+
+Status:
+COMPLETED
+
+Created:
+Documentation Standard
+Engineering Standard
+Legal Foundation
+FOYDAPRO X PRD Documents
+
+Date:
+08/03/2026 14:01:58
+
+=======================================
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\GIT_SETUP_REPORT.txt =====
+AFDT-003 Git Foundation Report
+
+Date:
+08/03/2026 13:50:01
+
+Status:
+
+COMPLETED
+
+
+Created:
+
+- VERSION.md
+- CHANGELOG.md
+- .gitignore
+- Git Documentation
+
+
+===== E:\AKBARSHOH_FUTURE\11_BACKUP\2026-08-03_19-59-55\00_FOUNDATION\PROJECT_AUDIT_REPORT.txt =====
+=======================================
+AKBARSHOH FUTURE PROJECT AUDIT REPORT
+=======================================
+
+Sana: 08/03/2026 13:43:27
+Asosiy yo'l: E:\AKBARSHOH_FUTURE
+
+UMUMIY HAJM: 0 MB
+
+========== PAPKALAR ==========
+[DIR] \00_FOUNDATION | Fayllar: 1
+[DIR] \01_CORPORATE | Fayllar: 0
+[DIR] \02_PROJECTS | Fayllar: 0
+[DIR] \03_DOCUMENTS | Fayllar: 0
+[DIR] \04_ENGINEERING | Fayllar: 0
+[DIR] \05_BRAND | Fayllar: 0
+[DIR] \06_LEGAL | Fayllar: 0
+[DIR] \07_FINANCE | Fayllar: 0
+[DIR] \08_SECURITY | Fayllar: 0
+[DIR] \09_RESEARCH | Fayllar: 0
+[DIR] \10_ARCHIVE | Fayllar: 0
+[DIR] \11_BACKUP | Fayllar: 0
+[DIR] \12_TEMPLATES | Fayllar: 0
+[DIR] \13_TOOLS | Fayllar: 0
+[DIR] \14_LOGS | Fayllar: 0
+[DIR] \15_GITHUB | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\00_PRD | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\02_DATABASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\03_BACKEND | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\06_AI | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\07_TESTING | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\08_RELEASE | Fayllar: 0
+[DIR] \02_PROJECTS\FOYDAPRO_X\09_ASSETS | Fayllar: 0
+
+========== FAYLLAR ==========
+[FILE] \README.md
+[FILE] \00_FOUNDATION\PROJECT_STATUS.md
+
+========== FAYL TURLARI ==========
+.md : 2 ta
+
+========== BO'SH PAPKALAR ==========
+[EMPTY] \01_CORPORATE
+[EMPTY] \03_DOCUMENTS
+[EMPTY] \04_ENGINEERING
+[EMPTY] \05_BRAND
+[EMPTY] \06_LEGAL
+[EMPTY] \07_FINANCE
+[EMPTY] \08_SECURITY
+[EMPTY] \09_RESEARCH
+[EMPTY] \10_ARCHIVE
+[EMPTY] \11_BACKUP
+[EMPTY] \12_TEMPLATES
+[EMPTY] \13_TOOLS
+[EMPTY] \14_LOGS
+[EMPTY] \15_GITHUB
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\00_PRD
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\01_ARCHITECTURE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\02_DATABASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\03_BACKEND
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\04_TELEGRAM
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\05_ADMIN_PANEL
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\06_AI
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\07_TESTING
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\08_RELEASE
+[EMPTY] \02_PROJECTS\FOYDAPRO_X\09_ASSETS
+
+========== MUHIM TEKSHIRUV ==========
+[OK] README.md mavjud
+[OK] PROJECT_STATUS.md mavjud
+
+========== AUDIT YAKUNLANDI ==========
+
+===== E:\AKBARSHOH_FUTURE\PROJECT_DNA\ALL_JSON.txt =====
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\AI_LEARNING_MEMORY.json =====
+{
+    "Modules":  [
+                    {
+                        "Name":  "Experience Collection",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Oldingi natijalar yig\u0027ildi"
+                    },
+                    {
+                        "Name":  "Pattern Analysis",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Takroriy patternlar topildi"
+                    },
+                    {
+                        "Name":  "Error Learning System",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "Xatolardan o\u0027rganish faol"
+                    },
+                    {
+                        "Name":  "AI Rule Improvement",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "AI qoidalari yangilanadi"
+                    },
+                    {
+                        "Name":  "Knowledge Update",
+                        "Status":  "READY",
+                        "Score":  20,
+                        "Action":  "AI xotira yangilanadi"
+                    }
+                ],
+    "LearningScore":  100,
+    "Generated":  {
+                      "value":  "\/Date(1785771450624)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:37:30"
+                  },
+    "Level":  "SELF LEARNING AI ACTIVE"
+}
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\BUSINESS_SIMULATION_MODEL.json =====
+{
+    "Components":  [
+                       {
+                           "Name":  "Revenue Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Daromad modeli simulyatsiya qilindi"
+                       },
+                       {
+                           "Name":  "Growth Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Foydalanuvchi o\u0027sishi modellashtirildi"
+                       },
+                       {
+                           "Name":  "Cost Analysis",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Xarajat modeli tayyor"
+                       },
+                       {
+                           "Name":  "Risk Forecast",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Biznes risklari prognoz qilindi"
+                       },
+                       {
+                           "Name":  "ROI Prediction",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Investitsiya natijalari bashorat qilindi"
+                       }
+                   ],
+    "SimulationScore":  100,
+    "Generated":  {
+                      "value":  "\/Date(1785771930055)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:45:30"
+                  },
+    "Level":  "AI BUSINESS SIMULATION ACTIVE"
+}
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\DIGITAL_TWIN_MODEL.json =====
+{
+    "Components":  [
+                       {
+                           "Name":  "System Replica",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Virtual loyiha modeli yaratildi"
+                       },
+                       {
+                           "Name":  "Scenario Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Turli ssenariylar sinov qilinadi"
+                       },
+                       {
+                           "Name":  "Business Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Biznes modellashtirish faol"
+                       },
+                       {
+                           "Name":  "Risk Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Risk ssenariylari tekshiriladi"
+                       },
+                       {
+                           "Name":  "Optimization Testing",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Yaxshi variantlar tanlanadi"
+                       }
+                   ],
+    "Score":  100,
+    "Level":  "DIGITAL TWIN ACTIVE",
+    "Generated":  {
+                      "value":  "\/Date(1785771725551)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:42:05"
+                  }
+}
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\KNOWLEDGE_INDEX.json =====
+{
+    "Level":  "AI KNOWLEDGE READY",
+    "Documents":  136,
+    "Generated":  {
+                      "value":  "\/Date(1785771207267)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:33:27"
+                  },
+    "Score":  100,
+    "Markdown":  119,
+    "Reports":  48
+}
+
+===== E:\AKBARSHOH_FUTURE\00_FOUNDATION\PROJECT_INDEX.json =====
+[
+    {
+        "Name":  ".git",
+        "Type":  "Directory",
+        "RelativePath":  ".git",
+        "Extension":  ".git",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346245)\/"
+    },
+    {
+        "Name":  "00_FOUNDATION",
+        "Type":  "Directory",
+        "RelativePath":  "00_FOUNDATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769279373)\/"
+    },
+    {
+        "Name":  "01_CORPORATE",
+        "Type":  "Directory",
+        "RelativePath":  "01_CORPORATE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577730)\/"
+    },
+    {
+        "Name":  "02_PROJECTS",
+        "Type":  "Directory",
+        "RelativePath":  "02_PROJECTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577759)\/"
+    },
+    {
+        "Name":  "03_DOCUMENTS",
+        "Type":  "Directory",
+        "RelativePath":  "03_DOCUMENTS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718588)\/"
+    },
+    {
+        "Name":  "04_ENGINEERING",
+        "Type":  "Directory",
+        "RelativePath":  "04_ENGINEERING",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718670)\/"
+    },
+    {
+        "Name":  "05_BRAND",
+        "Type":  "Directory",
+        "RelativePath":  "05_BRAND",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745577973)\/"
+    },
+    {
+        "Name":  "06_LEGAL",
+        "Type":  "Directory",
+        "RelativePath":  "06_LEGAL",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747718741)\/"
+    },
+    {
+        "Name":  "07_FINANCE",
+        "Type":  "Directory",
+        "RelativePath":  "07_FINANCE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578019)\/"
+    },
+    {
+        "Name":  "08_SECURITY",
+        "Type":  "Directory",
+        "RelativePath":  "08_SECURITY",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578027)\/"
+    },
+    {
+        "Name":  "09_RESEARCH",
+        "Type":  "Directory",
+        "RelativePath":  "09_RESEARCH",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578056)\/"
+    },
+    {
+        "Name":  "10_ARCHIVE",
+        "Type":  "Directory",
+        "RelativePath":  "10_ARCHIVE",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578067)\/"
+    },
+    {
+        "Name":  "11_BACKUP",
+        "Type":  "Directory",
+        "RelativePath":  "11_BACKUP",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769195637)\/"
+    },
+    {
+        "Name":  "12_TEMPLATES",
+        "Type":  "Directory",
+        "RelativePath":  "12_TEMPLATES",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578104)\/"
+    },
+    {
+        "Name":  "13_TOOLS",
+        "Type":  "Directory",
+        "RelativePath":  "13_TOOLS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578124)\/"
+    },
+    {
+        "Name":  "14_LOGS",
+        "Type":  "Directory",
+        "RelativePath":  "14_LOGS",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785745578143)\/"
+    },
+    {
+        "Name":  "15_GITHUB",
+        "Type":  "Directory",
+        "RelativePath":  "15_GITHUB",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001013)\/"
+    },
+    {
+        "Name":  "16_AUTOMATION",
+        "Type":  "Directory",
+        "RelativePath":  "16_AUTOMATION",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785768746658)\/"
+    },
+    {
+        "Name":  ".gitignore",
+        "Type":  "File",
+        "RelativePath":  ".gitignore",
+        "Extension":  ".gitignore",
+        "SizeBytes":  128,
+        "LastModified":  "\/Date(1785747000924)\/"
+    },
+    {
+        "Name":  "CHANGELOG.md",
+        "Type":  "File",
+        "RelativePath":  "CHANGELOG.md",
+        "Extension":  ".md",
+        "SizeBytes":  264,
+        "LastModified":  "\/Date(1785769234422)\/"
+    },
+    {
+        "Name":  "README.md",
+        "Type":  "File",
+        "RelativePath":  "README.md",
+        "Extension":  ".md",
+        "SizeBytes":  121,
+        "LastModified":  "\/Date(1785745578695)\/"
+    },
+    {
+        "Name":  "VERSION.md",
+        "Type":  "File",
+        "RelativePath":  "VERSION.md",
+        "Extension":  ".md",
+        "SizeBytes":  171,
+        "LastModified":  "\/Date(1785769234360)\/"
+    },
+    {
+        "Name":  "hooks",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\hooks",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001297)\/"
+    },
+    {
+        "Name":  "info",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\info",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001341)\/"
+    },
+    {
+        "Name":  "logs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434411)\/"
+    },
+    {
+        "Name":  "objects",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001386)\/"
+    },
+    {
+        "Name":  "refs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\refs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001378)\/"
+    },
+    {
+        "Name":  "COMMIT_EDITMSG",
+        "Type":  "File",
+        "RelativePath":  ".git\\COMMIT_EDITMSG",
+        "Extension":  "",
+        "SizeBytes":  83,
+        "LastModified":  "\/Date(1785769346201)\/"
+    },
+    {
+        "Name":  "config",
+        "Type":  "File",
+        "RelativePath":  ".git\\config",
+        "Extension":  "",
+        "SizeBytes":  130,
+        "LastModified":  "\/Date(1785747001374)\/"
+    },
+    {
+        "Name":  "description",
+        "Type":  "File",
+        "RelativePath":  ".git\\description",
+        "Extension":  "",
+        "SizeBytes":  73,
+        "LastModified":  "\/Date(1785747001296)\/"
+    },
+    {
+        "Name":  "HEAD",
+        "Type":  "File",
+        "RelativePath":  ".git\\HEAD",
+        "Extension":  "",
+        "SizeBytes":  23,
+        "LastModified":  "\/Date(1785747001384)\/"
+    },
+    {
+        "Name":  "index",
+        "Type":  "File",
+        "RelativePath":  ".git\\index",
+        "Extension":  "",
+        "SizeBytes":  10398,
+        "LastModified":  "\/Date(1785769346173)\/"
+    },
+    {
+        "Name":  "applypatch-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\applypatch-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  478,
+        "LastModified":  "\/Date(1785747001299)\/"
+    },
+    {
+        "Name":  "commit-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\commit-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  896,
+        "LastModified":  "\/Date(1785747001302)\/"
+    },
+    {
+        "Name":  "fsmonitor-watchman.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\fsmonitor-watchman.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  4726,
+        "LastModified":  "\/Date(1785747001304)\/"
+    },
+    {
+        "Name":  "post-update.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\post-update.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  189,
+        "LastModified":  "\/Date(1785747001308)\/"
+    },
+    {
+        "Name":  "pre-applypatch.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-applypatch.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  424,
+        "LastModified":  "\/Date(1785747001310)\/"
+    },
+    {
+        "Name":  "pre-commit.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-commit.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1649,
+        "LastModified":  "\/Date(1785747001313)\/"
+    },
+    {
+        "Name":  "pre-merge-commit.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-merge-commit.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  416,
+        "LastModified":  "\/Date(1785747001315)\/"
+    },
+    {
+        "Name":  "pre-push.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-push.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1374,
+        "LastModified":  "\/Date(1785747001317)\/"
+    },
+    {
+        "Name":  "pre-rebase.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-rebase.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  4898,
+        "LastModified":  "\/Date(1785747001321)\/"
+    },
+    {
+        "Name":  "pre-receive.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\pre-receive.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  544,
+        "LastModified":  "\/Date(1785747001322)\/"
+    },
+    {
+        "Name":  "prepare-commit-msg.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\prepare-commit-msg.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  1492,
+        "LastModified":  "\/Date(1785747001325)\/"
+    },
+    {
+        "Name":  "push-to-checkout.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\push-to-checkout.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  2783,
+        "LastModified":  "\/Date(1785747001327)\/"
+    },
+    {
+        "Name":  "sendemail-validate.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\sendemail-validate.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  2308,
+        "LastModified":  "\/Date(1785747001329)\/"
+    },
+    {
+        "Name":  "update.sample",
+        "Type":  "File",
+        "RelativePath":  ".git\\hooks\\update.sample",
+        "Extension":  ".sample",
+        "SizeBytes":  3650,
+        "LastModified":  "\/Date(1785747001333)\/"
+    },
+    {
+        "Name":  "exclude",
+        "Type":  "File",
+        "RelativePath":  ".git\\info\\exclude",
+        "Extension":  "",
+        "SizeBytes":  240,
+        "LastModified":  "\/Date(1785747001343)\/"
+    },
+    {
+        "Name":  "refs",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs\\refs",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434413)\/"
+    },
+    {
+        "Name":  "HEAD",
+        "Type":  "File",
+        "RelativePath":  ".git\\logs\\HEAD",
+        "Extension":  "",
+        "SizeBytes":  638,
+        "LastModified":  "\/Date(1785769346238)\/"
+    },
+    {
+        "Name":  "heads",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\logs\\refs\\heads",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434414)\/"
+    },
+    {
+        "Name":  "master",
+        "Type":  "File",
+        "RelativePath":  ".git\\logs\\refs\\heads\\master",
+        "Extension":  "",
+        "SizeBytes":  638,
+        "LastModified":  "\/Date(1785769346239)\/"
+    },
+    {
+        "Name":  "01",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\01",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132577)\/"
+    },
+    {
+        "Name":  "08",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\08",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132533)\/"
+    },
+    {
+        "Name":  "09",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\09",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132589)\/"
+    },
+    {
+        "Name":  "0c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132563)\/"
+    },
+    {
+        "Name":  "0e",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0e",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463566)\/"
+    },
+    {
+        "Name":  "0f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\0f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342982)\/"
+    },
+    {
+        "Name":  "12",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\12",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463555)\/"
+    },
+    {
+        "Name":  "1a",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1a",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342973)\/"
+    },
+    {
+        "Name":  "1b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463551)\/"
+    },
+    {
+        "Name":  "1d",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1d",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346143)\/"
+    },
+    {
+        "Name":  "1f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\1f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463544)\/"
+    },
+    {
+        "Name":  "24",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\24",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447911)\/"
+    },
+    {
+        "Name":  "25",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\25",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463587)\/"
+    },
+    {
+        "Name":  "33",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\33",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447952)\/"
+    },
+    {
+        "Name":  "35",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\35",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341560)\/"
+    },
+    {
+        "Name":  "39",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\39",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769342969)\/"
+    },
+    {
+        "Name":  "3b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447915)\/"
+    },
+    {
+        "Name":  "3e",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3e",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463540)\/"
+    },
+    {
+        "Name":  "3f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\3f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447906)\/"
+    },
+    {
+        "Name":  "51",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\51",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132599)\/"
+    },
+    {
+        "Name":  "52",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\52",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170788)\/"
+    },
+    {
+        "Name":  "5a",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\5a",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132514)\/"
+    },
+    {
+        "Name":  "5f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\5f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463558)\/"
+    },
+    {
+        "Name":  "61",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\61",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341551)\/"
+    },
+    {
+        "Name":  "62",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\62",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463561)\/"
+    },
+    {
+        "Name":  "6c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\6c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132508)\/"
+    },
+    {
+        "Name":  "75",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\75",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447942)\/"
+    },
+    {
+        "Name":  "7f",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\7f",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447901)\/"
+    },
+    {
+        "Name":  "8c",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\8c",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447921)\/"
+    },
+    {
+        "Name":  "8d",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\8d",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341592)\/"
+    },
+    {
+        "Name":  "98",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\98",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132605)\/"
+    },
+    {
+        "Name":  "9b",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\9b",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346121)\/"
+    },
+    {
+        "Name":  "a1",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a1",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346162)\/"
+    },
+    {
+        "Name":  "a3",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a3",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132572)\/"
+    },
+    {
+        "Name":  "a5",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\a5",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747434403)\/"
+    },
+    {
+        "Name":  "b0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\b0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170770)\/"
+    },
+    {
+        "Name":  "b1",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\b1",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769343002)\/"
+    },
+    {
+        "Name":  "ba",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ba",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346220)\/"
+    },
+    {
+        "Name":  "bc",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\bc",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341537)\/"
+    },
+    {
+        "Name":  "bd",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\bd",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170777)\/"
+    },
+    {
+        "Name":  "be",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\be",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346116)\/"
+    },
+    {
+        "Name":  "c0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447936)\/"
+    },
+    {
+        "Name":  "c2",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c2",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132593)\/"
+    },
+    {
+        "Name":  "c6",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c6",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341570)\/"
+    },
+    {
+        "Name":  "c8",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c8",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341581)\/"
+    },
+    {
+        "Name":  "c9",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\c9",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132524)\/"
+    },
+    {
+        "Name":  "cc",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\cc",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132541)\/"
+    },
+    {
+        "Name":  "d0",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\d0",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346159)\/"
+    },
+    {
+        "Name":  "d3",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\d3",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447957)\/"
+    },
+    {
+        "Name":  "e2",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\e2",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769346170)\/"
+    },
+    {
+        "Name":  "e9",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\e9",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767463547)\/"
+    },
+    {
+        "Name":  "ea",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ea",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132537)\/"
+    },
+    {
+        "Name":  "ec",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ec",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785769341565)\/"
+    },
+    {
+        "Name":  "f4",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f4",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132496)\/"
+    },
+    {
+        "Name":  "f6",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f6",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132528)\/"
+    },
+    {
+        "Name":  "f7",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\f7",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747170780)\/"
+    },
+    {
+        "Name":  "fb",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\fb",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785767447931)\/"
+    },
+    {
+        "Name":  "ff",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\ff",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747132505)\/"
+    },
+    {
+        "Name":  "info",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\info",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001387)\/"
+    },
+    {
+        "Name":  "pack",
+        "Type":  "Directory",
+        "RelativePath":  ".git\\objects\\pack",
+        "Extension":  "",
+        "SizeBytes":  "",
+        "LastModified":  "\/Date(1785747001387)\/"
+    },
+    {
+        "Name":  "84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\01\\84bf2137d5ed7dc2d1b4fbf5c38b06984f90a7",
+        "Extension":  "",
+        "SizeBytes":  66,
+        "LastModified":  "\/Date(1785769342835)\/"
+    },
+    {
+        "Name":  "c8d822dae58ec63ff01ad49d21785e59943028",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\08\\c8d822dae58ec63ff01ad49d21785e59943028",
+        "Extension":  "",
+        "SizeBytes":  642,
+        "LastModified":  "\/Date(1785769342142)\/"
+    },
+    {
+        "Name":  "6aea18b68b6b4656ac5700b8a7a013433a08b0",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\09\\6aea18b68b6b4656ac5700b8a7a013433a08b0",
+        "Extension":  "",
+        "SizeBytes":  57,
+        "LastModified":  "\/Date(1785769342923)\/"
+    },
+    {
+        "Name":  "80cfe18f1795785f09ca180966450b2d8bf128",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0c\\80cfe18f1795785f09ca180966450b2d8bf128",
+        "Extension":  "",
+        "SizeBytes":  175,
+        "LastModified":  "\/Date(1785769342576)\/"
+    },
+    {
+        "Name":  "05e2434bbe71059dbf7e4cda8812ecf71aa700",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0e\\05e2434bbe71059dbf7e4cda8812ecf71aa700",
+        "Extension":  "",
+        "SizeBytes":  363,
+        "LastModified":  "\/Date(1785767463564)\/"
+    },
+    {
+        "Name":  "ac2e663b27de7003005b26ae80fe8df78defe9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0f\\ac2e663b27de7003005b26ae80fe8df78defe9",
+        "Extension":  "",
+        "SizeBytes":  57,
+        "LastModified":  "\/Date(1785769343052)\/"
+    },
+    {
+        "Name":  "cef6f0e0fb47d936865c4db53150cb0b9cae9f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\0f\\cef6f0e0fb47d936865c4db53150cb0b9cae9f",
+        "Extension":  "",
+        "SizeBytes":  144,
+        "LastModified":  "\/Date(1785769342654)\/"
+    },
+    {
+        "Name":  "416e5fb4fb30851214c198aff3251dcd23f1f0",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\12\\416e5fb4fb30851214c198aff3251dcd23f1f0",
+        "Extension":  "",
+        "SizeBytes":  144,
+        "LastModified":  "\/Date(1785769346126)\/"
+    },
+    {
+        "Name":  "7d4e0dcd3e74070f953c123a4fb2d217482aff",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\7d4e0dcd3e74070f953c123a4fb2d217482aff",
+        "Extension":  "",
+        "SizeBytes":  114,
+        "LastModified":  "\/Date(1785769342741)\/"
+    },
+    {
+        "Name":  "8d52371a178ddb7bb8db8cf886e5604bb11a6d",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\8d52371a178ddb7bb8db8cf886e5604bb11a6d",
+        "Extension":  "",
+        "SizeBytes":  149,
+        "LastModified":  "\/Date(1785769343040)\/"
+    },
+    {
+        "Name":  "9cfe5e408a162f01789cad97e4835f9bc938f7",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1a\\9cfe5e408a162f01789cad97e4835f9bc938f7",
+        "Extension":  "",
+        "SizeBytes":  52,
+        "LastModified":  "\/Date(1785747170783)\/"
+    },
+    {
+        "Name":  "854bf1a0aa48ff3fa25eab7c8bf7d432b3682a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1b\\854bf1a0aa48ff3fa25eab7c8bf7d432b3682a",
+        "Extension":  "",
+        "SizeBytes":  52,
+        "LastModified":  "\/Date(1785769346125)\/"
+    },
+    {
+        "Name":  "dfc4b7e98fc56229b8da849dd57f249f0af92e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1d\\dfc4b7e98fc56229b8da849dd57f249f0af92e",
+        "Extension":  "",
+        "SizeBytes":  157,
+        "LastModified":  "\/Date(1785769346163)\/"
+    },
+    {
+        "Name":  "7b116f37d42e34a09d175ff8c8638df3ca9e94",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\1f\\7b116f37d42e34a09d175ff8c8638df3ca9e94",
+        "Extension":  "",
+        "SizeBytes":  239,
+        "LastModified":  "\/Date(1785769346122)\/"
+    },
+    {
+        "Name":  "ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\24\\ee59a3a2d5b0eecf4007d70f02cbbf0bd85cf9",
+        "Extension":  "",
+        "SizeBytes":  99,
+        "LastModified":  "\/Date(1785769342354)\/"
+    },
+    {
+        "Name":  "297f8852c0c92d49018194d3098c075a4c5e24",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\25\\297f8852c0c92d49018194d3098c075a4c5e24",
+        "Extension":  "",
+        "SizeBytes":  202,
+        "LastModified":  "\/Date(1785767463584)\/"
+    },
+    {
+        "Name":  "72a264e706c942fac4f38687723bd4e4894d9a",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\33\\72a264e706c942fac4f38687723bd4e4894d9a",
+        "Extension":  "",
+        "SizeBytes":  110,
+        "LastModified":  "\/Date(1785769342749)\/"
+    },
+    {
+        "Name":  "8d953aaacc248b35c2f4dc09c4fab198f32a01",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\35\\8d953aaacc248b35c2f4dc09c4fab198f32a01",
+        "Extension":  "",
+        "SizeBytes":  186,
+        "LastModified":  "\/Date(1785769341557)\/"
+    },
+    {
+        "Name":  "a2b57e603ce2d9c025a7a2ddbb80345f349034",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\39\\a2b57e603ce2d9c025a7a2ddbb80345f349034",
+        "Extension":  "",
+        "SizeBytes":  99,
+        "LastModified":  "\/Date(1785769343017)\/"
+    },
+    {
+        "Name":  "1534f843868754dfcff9b926b4290748f65004",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3b\\1534f843868754dfcff9b926b4290748f65004",
+        "Extension":  "",
+        "SizeBytes":  71,
+        "LastModified":  "\/Date(1785769342528)\/"
+    },
+    {
+        "Name":  "2981dd6f2a58aa10a479290ff09899eba11d01",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3e\\2981dd6f2a58aa10a479290ff09899eba11d01",
+        "Extension":  "",
+        "SizeBytes":  419,
+        "LastModified":  "\/Date(1785767463537)\/"
+    },
+    {
+        "Name":  "5c55da22f1b23604d4ba2bf132a7ded9ecc83f",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3f\\5c55da22f1b23604d4ba2bf132a7ded9ecc83f",
+        "Extension":  "",
+        "SizeBytes":  124,
+        "LastModified":  "\/Date(1785747170772)\/"
+    },
+    {
+        "Name":  "b984a2b23a77816413d3831b7f5f52cfa66d75",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\3f\\b984a2b23a77816413d3831b7f5f52cfa66d75",
+        "Extension":  "",
+        "SizeBytes":  63,
+        "LastModified":  "\/Date(1785769342315)\/"
+    },
+    {
+        "Name":  "881f471fd135f45af71b60b8eb262cb1a5b9de",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\51\\881f471fd135f45af71b60b8eb262cb1a5b9de",
+        "Extension":  "",
+        "SizeBytes":  123,
+        "LastModified":  "\/Date(1785769343010)\/"
+    },
+    {
+        "Name":  "c7bf6533548422b8f56062adc339ea2a8e7613",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\52\\c7bf6533548422b8f56062adc339ea2a8e7613",
+        "Extension":  "",
+        "SizeBytes":  115,
+        "LastModified":  "\/Date(1785769346130)\/"
+    },
+    {
+        "Name":  "7d3c815378cf4b1e13b9fac31e80814bd21431",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5a\\7d3c815378cf4b1e13b9fac31e80814bd21431",
+        "Extension":  "",
+        "SizeBytes":  156,
+        "LastModified":  "\/Date(1785769341849)\/"
+    },
+    {
+        "Name":  "77c9425962ce80d294ee3ec8bb08c4da05f4e8",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5f\\77c9425962ce80d294ee3ec8bb08c4da05f4e8",
+        "Extension":  "",
+        "SizeBytes":  145,
+        "LastModified":  "\/Date(1785769346127)\/"
+    },
+    {
+        "Name":  "e3fb6df41e8b6da0839c503cd890290840c5ba",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\5f\\e3fb6df41e8b6da0839c503cd890290840c5ba",
+        "Extension":  "",
+        "SizeBytes":  169,
+        "LastModified":  "\/Date(1785769342479)\/"
+    },
+    {
+        "Name":  "57d1926fe213b49839b5ce98ed997e379344a9",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\61\\57d1926fe213b49839b5ce98ed997e379344a9",
+        "Extension":  "",
+        "SizeBytes":  163,
+        "LastModified":  "\/Date(1785769341546)\/"
+    },
+    {
+        "Name":  "a1b96e6025f66c6e4ea15c41248f7733348db6",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\62\\a1b96e6025f66c6e4ea15c41248f7733348db6",
+        "Extension":  "",
+        "SizeBytes":  116,
+        "LastModified":  "\/Date(1785769346128)\/"
+    },
+    {
+        "Name":  "67e749543c2fb41e0ad4afaca479ca88698ea3",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\6c\\67e749543c2fb41e0ad4afaca479ca88698ea3",
+        "Extension":  "",
+        "SizeBytes":  188,
+        "LastModified":  "\/Date(1785769341782)\/"
+    },
+    {
+        "Name":  "7e4f25b2cc73927d24d00934e026b93eec2f8e",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\75\\7e4f25b2cc73927d24d00934e026b93eec2f8e",
+        "Extension":  "",
+        "SizeBytes":  96,
+        "LastModified":  "\/Date(1785769342704)\/"
+    },
+    {
+        "Name":  "5256250016f553803e119a2c6e6335f80044fb",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\7f\\5256250016f553803e119a2c6e6335f80044fb",
+        "Extension":  "",
+        "SizeBytes":  184,
+        "LastModified":  "\/Date(1785769341897)\/"
+    },
+    {
+        "Name":  "254ed7061cd79af9435db11a288c482d090831",
+        "Type":  "File",
+        "RelativePath":  ".git\\objects\\8c\\254ed7061cd79af9435db11a288c482d090831",
+        "Extension":  "",
+        "SizeBytes
