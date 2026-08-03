@@ -1,0 +1,10 @@
+﻿# NAMING CONVENTION
+
+File naming rules:
+
+PROJECT_CATEGORY_NAME_VERSION
+
+Example:
+
+FOYDAPRO_PRD_v1.0
+
