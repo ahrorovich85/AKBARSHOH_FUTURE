@@ -1,0 +1,25 @@
+﻿{
+    "Generated":  "2026-08-04 00:38:00",
+    "Project":  "AKBARSHOH_FUTURE",
+    "Version":  "v9.5",
+    "Branch":  "master",
+    "Commit":  "c468852",
+    "CurrentTag":  "v9.4-os-launcher",
+    "Services":  [
+                     "Core Platform Service",
+                     "Automation Service",
+                     "AI Service",
+                     "Business Service",
+                     "Finance Service",
+                     "Marketing Service"
+                 ],
+    "RuntimeLayers":  [
+                          "Service Registry",
+                          "Runtime Monitor",
+                          "Start Controller",
+                          "Stop Controller",
+                          "Restart Controller",
+                          "Status Manager"
+                      ],
+    "Status":  "SERVICE_RUNTIME_READY"
+}
