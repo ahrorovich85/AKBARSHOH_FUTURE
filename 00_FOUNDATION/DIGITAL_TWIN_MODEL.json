@@ -1,0 +1,41 @@
+﻿{
+    "Components":  [
+                       {
+                           "Name":  "System Replica",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Virtual loyiha modeli yaratildi"
+                       },
+                       {
+                           "Name":  "Scenario Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Turli ssenariylar sinov qilinadi"
+                       },
+                       {
+                           "Name":  "Business Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Biznes modellashtirish faol"
+                       },
+                       {
+                           "Name":  "Risk Simulation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Risk ssenariylari tekshiriladi"
+                       },
+                       {
+                           "Name":  "Optimization Testing",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Yaxshi variantlar tanlanadi"
+                       }
+                   ],
+    "Score":  100,
+    "Level":  "DIGITAL TWIN ACTIVE",
+    "Generated":  {
+                      "value":  "\/Date(1785771725551)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:42:05"
+                  }
+}
