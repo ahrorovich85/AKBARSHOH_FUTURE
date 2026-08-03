@@ -1,0 +1,90 @@
+﻿{
+    "Generated":  "2026-08-03 23:15:01",
+    "Modules":  [
+                    {
+                        "Module":  "005_PROJECT_SUMMARY.ps1",
+                        "DependsOn":  "PROJECT_SUMMARY.json",
+                        "DependencyCount":  1
+                    },
+                    {
+                        "Module":  "006_PROJECT_CONTEXT.ps1",
+                        "DependsOn":  [
+                                          "PROJECT_CONTEXT.json",
+                                          "PROJECT_HEALTH.json",
+                                          "PROJECT_KNOWLEDGE.json",
+                                          "PROJECT_MEMORY.json",
+                                          "PROJECT_STATUS.json",
+                                          "PROJECT_SUMMARY.json"
+                                      ],
+                        "DependencyCount":  6
+                    },
+                    {
+                        "Module":  "007_PROJECT_STATUS.ps1",
+                        "DependsOn":  [
+                                          "PROJECT_CONTEXT.json",
+                                          "PROJECT_HEALTH.json",
+                                          "PROJECT_KNOWLEDGE.json",
+                                          "PROJECT_MEMORY.json",
+                                          "PROJECT_STATUS.json",
+                                          "PROJECT_SUMMARY.json"
+                                      ],
+                        "DependencyCount":  6
+                    },
+                    {
+                        "Module":  "008_PROJECT_DEPENDENCY.ps1",
+                        "DependsOn":  [
+                                          "PROJECT_CONTEXT.json",
+                                          "PROJECT_HEALTH.json",
+                                          "PROJECT_KNOWLEDGE.json",
+                                          "PROJECT_MEMORY.json",
+                                          "PROJECT_STATUS.json",
+                                          "PROJECT_SUMMARY.json"
+                                      ],
+                        "DependencyCount":  6
+                    },
+                    {
+                        "Module":  "AFPOS_MASTER_PIPELINE.ps1",
+                        "DependsOn":  {
+
+                                      },
+                        "DependencyCount":  0
+                    },
+                    {
+                        "Module":  "AFPOS031_FIX.ps1",
+                        "DependsOn":  {
+
+                                      },
+                        "DependencyCount":  0
+                    },
+                    {
+                        "Module":  "PROJECT_MEMORY.ps1",
+                        "DependsOn":  "PROJECT_MEMORY.json",
+                        "DependencyCount":  1
+                    },
+                    {
+                        "Module":  "RUN_AFPOS_PIPELINE.ps1",
+                        "DependsOn":  {
+
+                                      },
+                        "DependencyCount":  0
+                    },
+                    {
+                        "Module":  "RUN_ALL.ps1",
+                        "DependsOn":  {
+
+                                      },
+                        "DependencyCount":  0
+                    },
+                    {
+                        "Module":  "VERIFY_ALL.ps1",
+                        "DependsOn":  {
+
+                                      },
+                        "DependencyCount":  0
+                    }
+                ],
+    "Summary":  {
+                    "TotalModules":  10,
+                    "TotalDependencies":  20
+                }
+}
