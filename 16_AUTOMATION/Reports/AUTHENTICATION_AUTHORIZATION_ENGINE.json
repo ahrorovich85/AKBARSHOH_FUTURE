@@ -1,0 +1,33 @@
+﻿{
+    "Generated":  "2026-08-04 01:22:14",
+    "Project":  "AKBARSHOH_FUTURE",
+    "Version":  "v9.8",
+    "Branch":  "master",
+    "Commit":  "6aa3fff",
+    "CurrentTag":  "v9.7-api-gateway",
+    "Authentication":  [
+                           "Identity Verification",
+                           "Login Session Management",
+                           "Token Management",
+                           "Credential Validation"
+                       ],
+    "Authorization":  [
+                          "Role Based Access Control",
+                          "Permission Management",
+                          "Service Authorization",
+                          "API Protection"
+                      ],
+    "Roles":  [
+                  "Administrator",
+                  "Manager",
+                  "Operator",
+                  "User"
+              ],
+    "SecurityLayers":  [
+                           "Authentication Layer",
+                           "Authorization Layer",
+                           "Session Security",
+                           "Access Monitoring"
+                       ],
+    "Status":  "SECURITY_IDENTITY_READY"
+}
