@@ -1,0 +1,41 @@
+﻿{
+    "Components":  [
+                       {
+                           "Name":  "Option Analysis",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Strategik variantlar analiz qilindi"
+                       },
+                       {
+                           "Name":  "Outcome Comparison",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Natijalar solishtirilmoqda"
+                       },
+                       {
+                           "Name":  "Strategy Selection",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Optimal strategiya tanlandi"
+                       },
+                       {
+                           "Name":  "Roadmap Generation",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "30/60/90 kunlik reja tayyor"
+                       },
+                       {
+                           "Name":  "Strategic Execution",
+                           "Status":  "READY",
+                           "Score":  20,
+                           "Action":  "Strategiya bajarishga tayyor"
+                       }
+                   ],
+    "Level":  "AUTONOMOUS STRATEGY ACTIVE",
+    "Generated":  {
+                      "value":  "\/Date(1785771818395)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "03 августа 2026 г. 20:43:38"
+                  },
+    "StrategyScore":  100
+}
